@@ -1,0 +1,660 @@
+// Enemy names must be 24 letters or less
+
+0000: (EMPTY)
+0000-E: 
+0001: Reconstructed Caribou
+0001-E: 
+0002: Mr. Passion
+0002-E: 
+0003: Oh-So-Snake
+0003-E: 
+0004: Clayman
+0004-E: 
+0005: Mecha-Drago
+0005-E: 
+0006: Pork Tank
+0006-E: 
+0007: Mr. Genetor
+0007-E: 
+0008: Mole Cricket
+0008-E: 
+0009: Eerie Smile
+0009-E: 
+000A: Bright Smile
+000A-E: 
+000B: Porky
+000B-E: 
+000C: N.K. Cyborg
+000C-E: 
+000D: Masked Man
+000D-E: 
+000E: Fierce Pork Trooper
+000E-E: 
+000F: Fierce Pork Trooper
+000F-E: 
+0010: Jealous Bass
+0010-E: 
+0011: Porky
+0011-E: 
+0012: Sticky Slug
+0012-E: 
+0013: PORKY 02
+0013-E: 
+0014: King Statue
+0014-E: 
+0015: Hippo Launcher
+0015-E: 
+0016: New Fassad
+0016-E: 
+0017: Eerie Smile
+0017-E: 
+0018: Lord Passion
+0018-E: 
+0019: Tender Loving Tree
+0019-E: 
+001A: PORKY 03
+001A-E: 
+001B: PORKY 08
+001B-E: 
+001C: Miracle Fassad
+001C-E: 
+001D: Pigmask Major
+001D-E: 
+001E: Great Antlion
+001E-E: 
+001F: Fenomeno
+001F-E: 
+0020: Rhinocerocket Mark II
+0020-E: 
+0021: Frightbot
+0021-E: 
+0022: The Squeekz
+0022-E: 
+0023: Pyrefly
+0023-E: 
+0024: Mecha-Lion
+0024-E: 
+0025: Road Block
+0025-E: 
+0026: Scamperin' Mushroom
+0026-E: 
+0027: Squawking Boomstick
+0027-E: 
+0028: Top Dogfish
+0028-E: 
+0029: Mr. Batty
+0029-E: 
+002A: Greedy Mouse
+002A-E: 
+002B: Firefly
+002B-E: 
+002C: Yammonster
+002C-E: 
+002D: Flying Mouse
+002D-E: 
+002E: PORKY 01
+002E-E: 
+002F: Agitated Boar
+002F-E: 
+0030: Mighty Bitey Snake
+0030-E: 
+0031: Soot Dumpling
+0031-E: 
+0032: Baked Yammonster
+0032-E: 
+0033: Walking Bushie
+0033-E: 
+0034: Carefree Jellyfish
+0034-E: 
+0035: Mystery Metal Monkey
+0035-E: 
+0036: Crag Lizard
+0036-E: 
+0037: Spud Bug
+0037-E: 
+0038: Ten-Yeti
+0038-E: 
+0039: Chilly Dog
+0039-E: 
+003A: Slimy Slug
+003A-E: 
+003B: Minerali
+003B-E: 
+003C: Ramblin' Mushroom
+003C-E: 
+003D: Mole Cricket
+003D-E: 
+003E: Boa Transistor
+003E-E: 
+003F: Mischievous Mole
+003F-E: 
+0040: Mecha-Mole!
+0040-E: 
+0041: Balding Eagle
+0041-E: 
+0042: Tree
+0042-E: 
+0043: Titany
+0043-E: 
+0044: Frosted Bun
+0044-E: 
+0045: Mrs. Lava
+0045-E: 
+0046: Magman
+0046-E: 
+0047: Zombie Man
+0047-E: 
+0048: Zombie Dog
+0048-E: 
+0049: Lingering Spirit
+0049-E: 
+004A: Mobile Grave
+004A-E: 
+004B: Detached Leech
+004B-E: 
+004C: Spineless Lobster
+004C-E: 
+004D: HUGE Pillbug
+004D-E: 
+004E: Cheery Skeleton
+004E-E: 
+004F: Big Bro
+004F-E: 
+0050: Barrel Man
+0050-E: 
+0051: Strawberry Slime
+0051-E: 
+0052: Arachnid!
+0052-E: 
+0053: Violent Roach
+0053-E: 
+0054: Barrier Trio
+0054-E: 
+0055: Ghost Armor
+0055-E: 
+0056: Ghost Sword
+0056-E: 
+0057: Ghost Shield
+0057-E: 
+0058: Ghost Knight
+0058-E: 
+0059: Osohe Cape
+0059-E: 
+005A: Rockin' Ghost
+005A-E: 
+005B: Pseudoor
+005B-E: 
+005C: Eerie Smile
+005C-E: 
+005D: Dung Beetle
+005D-E: 
+005E: Great Antlion
+005E-E: 
+005F: Sara-Sara-Sahara
+005F-E: 
+0060: Sand Lizard
+0060-E: 
+0061: Cactus Wolf
+0061-E: 
+0062: Gooey Goo
+0062-E: 
+0063: Cleocatra
+0063-E: 
+0064: Li'l Big Bro
+0064-E: 
+0065: Zombieshroom
+0065-E: 
+0066: Stinky Ghost
+0066-E: 
+0067: Artsy Ghost
+0067-E: 
+0068: Horsantula
+0068-E: 
+0069: Pigtunia
+0069-E: 
+006A: Squawking Stick
+006A-E: 
+006B: Putrid Moldyman
+006B-E: 
+006C: Slitherhen
+006C-E: 
+006D: Whatever
+006D-E: 
+006E: Dogfish
+006E-E: 
+006F: Cattlesnake
+006F-E: 
+0070: Einswine
+0070-E: 
+0071: Praying Mantis
+0071-E: 
+0072: Ancient Dragonfly
+0072-E: 
+0073: Filthy Attack Roach
+0073-E: 
+0074: Muttshroom
+0074-E: 
+0075: Mecha-Turtle
+0075-E: 
+0076: Bro Team
+0076-E: 
+0077: Batangutan
+0077-E: 
+0078: Ostrelephant
+0078-E: 
+0079: Sky Titany
+0079-E: 
+007A: Monkalrus
+007A-E: 
+007B: Parental Kangashark
+007B-E: 
+007C: Li'l Miss Marshmallow
+007C-E: 
+007D: Almost Mecha-Lion
+007D-E: 
+007E: Rhinocerocket
+007E-E: 
+007F: Wound-Up Road Hog
+007F-E: 
+0080: Metal Attack Roach
+0080-E: 
+0081: Really Flying Mouse
+0081-E: 
+0082: Short Circuit Zap!
+0082-E: 
+0083: Minor Robot
+0083-E: 
+0084: Love Walker
+0084-E: 
+0085: Eerie Smile
+0085-E: 
+0086: Atomic Power Robot
+0086-E: 
+0087: Nuclear Reactor Robot
+0087-E: 
+0088: Negative Man
+0088-E: 
+0089: Heftyhead
+0089-E: 
+008A: Nice Poser
+008A-E: 
+008B: Big Spud Bug
+008B-E: 
+008C: Grated Yammonster
+008C-E: 
+008D: Hippo Launcher
+008D-E: 
+008E: Steel Mechorilla
+008E-E: 
+008F: Zombidillo
+008F-E: 
+0090: Fish Roe Man
+0090-E: 
+0091: PORKY 07
+0091-E: 
+0092: Return of Octobot
+0092-E: 
+0093: Carpet Monster
+0093-E: 
+0094: Recon Mech
+0094-E: 
+0095: Pigmask
+0095-E: 
+0096: Zombie Lady
+0096-E: 
+0097: Naughty Mushroom
+0097-E: 
+0098: Elder Batty
+0098-E: 
+0099: Arachnid!!!!
+0099-E: 
+009A: Greedier Mouse
+009A-E: 
+009B: Gently Weeping Guitar
+009B-E: 
+009C: Beaten Drum
+009C-E: 
+009D: Reconstructed Mole
+009D-E: 
+009E: Reconstructed Lion
+009E-E: 
+009F: Wobbly Robot
+009F-E: 
+00A0: Men's Room Sign
+00A0-E: 
+00A1: Scrapped Robot
+00A1-E: 
+00A2: Forlorn Junk Heap
+00A2-E: 
+00A3: Surprise Box
+00A3-E: 
+00A4: Battery Man
+00A4-E: 
+00A5: Screwloose
+00A5-E: 
+00A6: Cuddle Bomb
+00A6-E: 
+00A7: K9000
+00A7-E: 
+00A8: Alkaline Man
+00A8-E: 
+00A9: PORKY 06
+00A9-E: 
+00AA: Pigmask Major
+00AA-E: 
+00AB: Pigmask Colonel
+00AB-E: 
+00AC: Pigmask Captain
+00AC-E: 
+00AD: Navy SQUEAL
+00AD-E: 
+00AE: Master Eddy
+00AE-E: 
+00AF: Rock Lobster
+00AF-E: 
+00B0: Rooound Fish
+00B0-E: 
+00B1: Blue Balding Eagle
+00B1-E: 
+00B2: Security Robot
+00B2-E: 
+00B3: Unwelcome Gust
+00B3-E: 
+00B4: PORKY 09
+00B4-E: 
+00B5: PORKY 10
+00B5-E: 
+00B6: Titanian
+00B6-E: 
+00B7: Upgraded Robot
+00B7-E: 
+00B8: Beanling
+00B8-E: 
+00B9: Black Beanling
+00B9-E: 
+00BA: Tiny Forest
+00BA-E: 
+00BB: PORKY 04
+00BB-E: 
+00BC: PORKY 05
+00BC-E: 
+00BD: Masked Man
+00BD-E: 
+00BE: Masked Man
+00BE-E: 
+00BF: (EMPTY)
+00BF-E: 
+00C0: Pick
+00C0-E: 
+00C1: Antlion
+00C1-E: 
+00C2: Fierce Pork Trooper
+00C2-E: 
+00C3: Crab
+00C3-E: 
+00C4: Electric Catfish
+00C4-E: 
+00C5: Shimmy Zmizz
+00C5-E: 
+00C6: Magic
+00C6-E: 
+00C7: Duster
+00C7-E: 
+00C8: Keyboard
+00C8-E: 
+00C9: OJ
+00C9-E: 
+00CA: Robot
+00CA-E: 
+00CB: Dung Beetle
+00CB-E: 
+00CC: Tent Person
+00CC-E: 
+00CD: Snow Bunny
+00CD-E: 
+00CE: Clayman
+00CE-E: 
+00CF: Vapor
+00CF-E: 
+00D0: Rope Snake
+00D0-E: 
+00D1: Rope Snake
+00D1-E: 
+00D2: Aeolia's Table
+00D2-E: 
+00D3: Straw
+00D3-E: 
+00D4: Vapor 2
+00D4-E: 
+00D5: Mini Elevator
+00D5-E: 
+00D6: Drago
+00D6-E: 
+00D7: Fierce Pork Trooper
+00D7-E: 
+00D8: Green Train
+00D8-E: 
+00D9: Pump Drago
+00D9-E: 
+00DA: Three Amigos
+00DA-E: 
+00DB: Flower
+00DB-E: 
+00DC: Rope Ladder
+00DC-E: 
+00DD: Flame 3
+00DD-E: 
+00DE: Flag
+00DE-E: 
+00DF: Ropeway
+00DF-E: 
+00E0: (EMPTY)
+00E0-E: 
+00E1: Piece
+00E1-E: 
+00E2: Flame 1
+00E2-E: 
+00E3: Lotus Root
+00E3-E: 
+00E4: Unworked Clay
+00E4-E: 
+00E5: Explosion
+00E5-E: 
+00E6: Smoke
+00E6-E: 
+00E7: Statue Head
+00E7-E: 
+00E8: Carousel
+00E8-E: 
+00E9: Nippo's Dresser
+00E9-E: 
+00EA: Firefly Swarm
+00EA-E: 
+00EB: Hinawa's Cloth
+00EB-E: 
+00EC: Electric Catfish
+00EC-E: 
+00ED: Broom
+00ED-E: 
+00EE: Fish
+00EE-E: 
+00EF: Sea Urchin
+00EF-E: 
+00F0: Train
+00F0-E: 
+00F1: Sign
+00F1-E: 
+00F2: Sign
+00F2-E: 
+00F3: (EMPTY)
+00F3-E: 
+00F4: Portrait
+00F4-E: 
+00F5: Friendly Ghost
+00F5-E: 
+00F6: Trash Can
+00F6-E: 
+00F7: Steel Ball
+00F7-E: 
+00F8: Egg of Light
+00F8-E: 
+00F9: Chestnut
+00F9-E: 
+00FA: Rockin' Ghost
+00FA-E: 
+00FB: Candle
+00FB-E: 
+00FC: Mouse
+00FC-E: 
+00FD: Energy Machine
+00FD-E: 
+00FE: Light Blade
+00FE-E: 
+00FF: Wine Glass
+00FF-E: 
+0100: Rope Snake
+0100-E: 
+0101: Stinkbug
+0101-E: 
+0102: Garbage Truck
+0102-E: 
+0103: Smoke
+0103-E: 
+0104: Aeolia
+0104-E: 
+0105: Doria
+0105-E: 
+0106: Magnifier
+0106-E: 
+0107: Text Balloon
+0107-E: 
+0108: Sign
+0108-E: 
+0109: NO Stone
+0109-E: 
+010A: Kumatora
+010A-E: 
+010B: Stone Fragment
+010B-E: 
+010C: That Car
+010C-E: 
+010D: Black Drago
+010D-E: 
+010E: Mole Cricket
+010E-E: 
+010F: Lightning
+010F-E: 
+0110: Mother Porkship
+0110-E: 
+0111: (EMPTY)
+0111-E: 
+0112: Lydia
+0112-E: 
+0113: Mixolydia
+0113-E: 
+0114: Hinawa
+0114-E: 
+0115: Frozen Drago
+0115-E: 
+0116: Porky
+0116-E: 
+0117: Thunder
+0117-E: 
+0118: Child Mouse
+0118-E: 
+0119: Dr. Andonuts
+0119-E: 
+011A: Osohe Castle
+011A-E: 
+011B: Mother Porkship
+011B-E: 
+011C: Volcano
+011C-E: 
+011D: Explosion FX
+011D-E: 
+011E: Caption
+011E-E: 
+011F: Distant Porkship
+011F-E: 
+0120: Tiles
+0120-E: 
+0121: (EMPTY)
+0121-E: 
+0122: Water Column
+0122-E: 
+0123: Distant Porkship
+0123-E: 
+0124: NO Rock Smoke
+0124-E: 
+0125: Smoke
+0125-E: 
+0126: Sapling
+0126-E: 
+0127: (EMPTY)
+0127-E: 
+0128: (EMPTY)
+0128-E: 
+0129: (EMPTY)
+0129-E: 
+012A: (EMPTY)
+012A-E: 
+012B: (EMPTY)
+012B-E: 
+012C: Grave
+012C-E: 
+012D: Phrygia
+012D-E: 
+012E: Cube
+012E-E: 
+012F: Iron Pencil
+012F-E: 
+0130: Caribou
+0130-E: 
+0131: Ionia
+0131-E: 
+0132: Dryer Drago Wind
+0132-E: 
+0133: Mushroom
+0133-E: 
+0134: Bridge
+0134-E: 
+0135: Halluc. Blue Tent
+0135-E: 
+0136: Wooden Table Horse 1
+0136-E: 
+0137: Wooden Table Horse 2
+0137-E: 
+0138: Wooden Table Horse 3
+0138-E: 
+0139: Boat on Mind's 100F
+0139-E: 
+013A: Mini Porky-Bot
+013A-E: 
+013B: Sign
+013B-E: 
+013C: Handcart
+013C-E: 
+013D: Game Balloon
+013D-E: 
+013F: Octopus Ink
+013F-E: 
+0140: Dragon Fireworks
+0140-E: 
+0141: Skyrocket
+0141-E: 
+0142: Police Car
+0142-E: 
+0143: Automobile
+0143-E: 
+0144: Titiboo Attic Kotatsu
+0144-E: 
+0145: Wooden MOTHER 3 Title
+0145-E: 
+0146: Overworld
+0146-E: 
+0147: Underworld
+0147-E: 
+0148: Men's Room Door
+0148-E: 
+0149: Aeolia & Sofa
+0149-E: 

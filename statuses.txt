@@ -1,0 +1,108 @@
+// All status names must be 14 letters or less
+// Most of the things in here are for undiscovered debug menus;
+// don't worry if your translations look weird
+
+00:(EMPTY)
+00-E: 
+01:Poison
+01-E: 
+02:Numb
+02-E: 
+03:Sleep
+03-E: 
+04:Strange
+04-E: 
+05:Crying
+05-E: 
+06:Forgetful
+06-E: 
+07:Nauseous
+07-E: 
+08:Fleas
+08-E: 
+09:On Fire
+09-E: 
+0A:Stopped, Frozen
+0A-E: 
+0B:Smelly
+0B-E: 
+0C:DCMC
+0C-E: 
+0D:Staple Stopped
+0D-E: 
+0E:Apology Stopped
+0E-E: 
+0F:Laugh Stopped
+0F-E: 
+10:Defense
+10-E: 
+11:No EXP
+11-E: 
+12:Off Down (weak)
+12-E: 
+13:Off Down(strng)
+13-E: 
+14:Def Down (weak)
+14-E: 
+15:Def Down(strng)
+15-E: 
+16:Shield
+16-E: 
+17:Counter
+17-E: 
+18:Electrocuted
+18-E: 
+19:PSI Shield
+19-E: 
+1A:PSI Counter
+1A-E: 
+1B:Off Up (weak)
+1B-E: 
+1C:Off Up (strong)
+1C-E: 
+1D:Def Up (weak)
+1D-E: 
+1E:Def Up (strong)
+1E-E: 
+1F:Escape Failure
+1F-E: 
+20:Dance
+20-E: 
+21:Off Down (mid)
+21-E: 
+22:Def Down (mid)
+22-E: 
+23:Time Bomb
+23-E: 
+24:Parameters Up
+24-E: 
+25:Parameters Down
+25-E: 
+26:Refresh
+26-E: 
+27:Fell
+27-E: 
+28:MonkeyDanceOff
+28-E: 
+29:MonkeyDanceDef
+29-E: 
+2A:MonkeyDanceSP
+2A-E: 
+2B:MonkeyDanceIQ
+2B-E: 
+2C:MonkeyDanceOff
+2C-E: 
+2D:MonkeyDanceDef
+2D-E: 
+2E:MonkeyDanceSP
+2E-E: 
+2F:MonkeyDanceIQ
+2F-E: 
+30:Endure
+30-E: 
+31:Off Up (mid)
+31-E: 
+32:Def Up (mid)
+32-E: 
+33:No Back Sprite
+33-E: 
