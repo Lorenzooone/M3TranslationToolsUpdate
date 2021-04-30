@@ -1,4 +1,8 @@
 // Short enemy names must be 19 letters or less
+// The following names NEED to be 16 letters or under or strange things will happen:
+//   Pigmask Captain
+//   Pork Trooper
+//   Ms. Marshmallow
 (empty)
 Reconstr. Caribou
 Mr. Passion
