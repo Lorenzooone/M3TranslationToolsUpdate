@@ -1,5 +1,7 @@
 // This is all the secret Memo Menu text.
-// On a given screen (between WAITs), there can be a maximum of 304 characters.
+// The descriptions have to be formatted just right, but I don't know what that means.
+// I think there can only be so many letters per line (or per screen) at once.
+// Jeffman might know more :P
 
 0000: [END]
 0000-E: 
@@ -283,9 +285,9 @@
 008B-E: 
 008C: @Mr. Saturn?[BREAK]@Mr. Saturn...[BREAK]@Mr. Saturn![END]
 008C-E: 
-008D: @That of the Dark Dragon is in[BREAK]  the antithesis.[BREAK]@Darkness and light.[BREAK]@Despair and hope. [BREAK]@Destruction and creation.[BREAK][BREAK]@That is what it is.[END]
+008D: @That of the Dark Dragon is in[BREAK]  the anithesis.[BREAK]@Darkness and light.[BREAK]@Despair and hope. [BREAK]@Destruction and creation.[BREAK][BREAK]@That is what it is.[END]
 008D-E: 
-008E: @Magical dolls crafted by the[BREAK]  Magypsies.[END]
+008E: @Magical dolls crafted by the[BREAK]  Magypies.[END]
 008E-E: 
 008F: @Deep, deep inside Mt. Oriander[BREAK]  sits this temple with the[BREAK]  unpronouncable name that[BREAK]  not even the residents of[BREAK]  Tazmily know about.[END]
 008F-E: 

@@ -1,6 +1,4 @@
 // Text here can be any length. This is all the main menu text and the naming screen text.
-// Entries 001D and 0021 are linked and can be viewed by accessing the "Delete all saves" menu.
-// To do so, press L+R+Start+A on top of LOAD.
 
 0000: [END]
 0000-E: 
@@ -60,7 +58,7 @@
 001B-E: 
 001C: This will erase this save file.[BREAK]Is that okay?[END]
 001C-E: 
-001D: This will erase all save files.[END]
+001D: This will erase all save files.[BREAK]Is that okay?[END]
 001D-E: 
 001E: This will copy this file to the other slot.[BREAK]Is that okay?[END]
 001E-E: 
@@ -68,7 +66,7 @@
 001F-E: 
 0020: Data corrupt.[BREAK]Save file(s) deleted.[END]
 0020-E: 
-0021: Is that okay?[END]
+0021: [END]
 0021-E: 
 0022: [END]
 0022-E: 
@@ -462,13 +460,13 @@
 00E4-E: 
 00E5: What's your favorite[BREAK]thing?[END]
 00E5-E: 
-00E6: [END]
+00E6:    Is this okay?[BREAK]      Yes        No[END]
 00E6-E: 
-00E7: [END]
+00E7: Favorite Food:[END]
 00E7-E: 
-00E8: [END]
+00E8: Favorite Thing:[END]
 00E8-E: 
-00E9: [END]
+00E9: Text Speed:[END]
 00E9-E: 
 00EA: Please enter your name.[END]
 00EA-E: 

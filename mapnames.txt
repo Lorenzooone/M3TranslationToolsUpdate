@@ -181,7 +181,7 @@
 057-E: 
 058:Sunshine Forest[END]
 058-E: 
-059:Sunshine Forest[BREAK]Lighter's House[END]
+059:Sunshine Forest[END]
 059-E: 
 05A:Mt. Oriander[BREAK]Great Cliff[END]
 05A-E: 
