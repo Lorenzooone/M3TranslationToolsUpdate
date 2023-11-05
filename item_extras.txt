@@ -5,6 +5,8 @@
 -
 -
 -
+it
+was 
 //Lighter's Lumber
 -
 -
@@ -12,6 +14,8 @@
 -
 -
 is 
+it
+was 
 //Fresh Lumber
 Some 
 some 
@@ -19,6 +23,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Stick
 A 
 a 
@@ -26,6 +32,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Better Stick
 A 
 a 
@@ -33,6 +41,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Easy-Grip Stick
 An 
 an 
@@ -40,6 +50,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Good Stick
 A 
 a 
@@ -47,6 +59,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Very Good Stick
 A 
 a 
@@ -54,6 +68,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Funny Stick
 A 
 a 
@@ -61,6 +77,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Vigor Stick
 A 
 a 
@@ -68,6 +86,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Clever Stick
 A 
 a 
@@ -75,6 +95,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Master Stick
 A 
 a 
@@ -82,6 +104,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Mystical Stick
 A 
 a 
@@ -89,6 +113,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Gloves
 Some 
 some 
@@ -96,6 +122,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Durable Gloves
 Some 
 some 
@@ -103,6 +131,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Chic Gloves
 Some 
 some 
@@ -110,6 +140,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Strong Gloves
 Some 
 some 
@@ -117,6 +149,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Magic Gloves
 Some 
 some 
@@ -124,6 +158,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Sevolg
 Some 
 some 
@@ -131,6 +167,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Expensive Gloves
 Some 
 some 
@@ -138,6 +176,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Angel Gloves
 Some 
 some 
@@ -145,6 +185,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Mystical Gloves
 Some 
 some 
@@ -152,6 +194,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Ordinary Shoes
 Some 
 some 
@@ -159,6 +203,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Durable Shoes
 Some 
 some 
@@ -166,6 +212,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Sharp Shoes
 Some 
 some 
@@ -173,6 +221,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Ultimate Shoes
 Some 
 some 
@@ -180,6 +230,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Mystical Shoes
 Some 
 some 
@@ -187,6 +239,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Good Shoes
 Some 
 some 
@@ -194,6 +248,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Rubber Boots
 Some 
 some 
@@ -201,6 +257,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Barefoot Shoes
 Some 
 some 
@@ -208,6 +266,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Non-Slip Shoes
 Some 
 some 
@@ -215,6 +275,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Handy Yo-Yo
 A 
 a 
@@ -222,6 +284,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Canine Weapon
 A 
 a 
@@ -229,6 +293,8 @@ The
 the 
 this 
 is 
+it
+was 
 //DCMC Pamphlet
 A 
 a 
@@ -236,6 +302,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fake Bat
 A 
 a 
@@ -243,6 +311,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fake Frying Pan
 A 
 a 
@@ -250,6 +320,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Real Bat
 A 
 a 
@@ -257,6 +329,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Mini-Mini Charm
 A 
 a 
@@ -264,6 +338,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Flea Charm
 A 
 a 
@@ -271,6 +347,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Mosquito Charm
 A 
 a 
@@ -278,6 +356,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fly Charm
 A 
 a 
@@ -285,6 +365,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bantam Charm
 A 
 a 
@@ -292,6 +374,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Feather Charm
 A 
 a 
@@ -299,6 +383,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Pumice Charm
 A 
 a 
@@ -306,6 +392,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Heavy Charm
 A 
 a 
@@ -313,6 +401,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Thud Charm
 A 
 a 
@@ -320,6 +410,8 @@ The
 the 
 this 
 is 
+it
+was 
 //White Collar
 A 
 a 
@@ -327,6 +419,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Brown Collar
 A 
 a 
@@ -334,6 +428,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Black Collar
 A 
 a 
@@ -341,6 +437,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Striped Collar
 A 
 a 
@@ -348,6 +446,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Red Collar
 A 
 a 
@@ -355,6 +455,8 @@ The
 the 
 this 
 is 
+it
+was 
 //DCMC Shirt
 A 
 a 
@@ -362,6 +464,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Rubber Cape
 A 
 a 
@@ -369,6 +473,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Aloha Coat
 An 
 an 
@@ -376,6 +482,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Warm Sweater
 A 
 a 
@@ -383,6 +491,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Goddess Bustier
 A 
 a 
@@ -390,6 +500,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Awesome Cloak
 An 
 an 
@@ -397,6 +509,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Manly Bandana
 A 
 a 
@@ -404,6 +518,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Chick Bandana
 A 
 a 
@@ -411,6 +527,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Sparrow Bandana
 A 
 a 
@@ -418,6 +536,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Rail Bandana
 A 
 a 
@@ -425,6 +545,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Swallow Bandana
 A 
 a 
@@ -432,6 +554,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Crow Bandana
 A 
 a 
@@ -439,6 +563,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Kite Bandana
 A 
 a 
@@ -446,6 +572,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Horus Bandana
 A 
 a 
@@ -453,6 +581,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Ordinary Hat
 An 
 an 
@@ -460,6 +590,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Cow Hat
 A 
 a 
@@ -467,6 +599,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Alligator Hat
 An 
 an 
@@ -474,6 +608,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bear Hat
 A 
 a 
@@ -481,6 +617,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Otter Hat
 An 
 an 
@@ -488,6 +626,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Scarlet Ribbon
 A 
 a 
@@ -495,6 +635,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Azure Ribbon
 An 
 an 
@@ -502,6 +644,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Boing Ribbon
 A 
 a 
@@ -509,6 +653,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fairy Ribbon
 A 
 a 
@@ -516,6 +662,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Angel Ribbon
 An 
 an 
@@ -523,6 +671,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Goddess Ribbon
 A 
 a 
@@ -530,6 +680,8 @@ The
 the 
 this 
 is 
+it
+was 
 //DCMC Hat
 A 
 a 
@@ -537,6 +689,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Awesome Crown
 An 
 an 
@@ -544,6 +698,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Aries Bracelet
 An 
 an 
@@ -551,6 +707,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Aquarius Bracelet
 An 
 an 
@@ -558,6 +716,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Pisces Bracelet
 A 
 a 
@@ -565,6 +725,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Capricorn Bracelet
 A 
 a 
@@ -572,6 +734,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Taurus Bracelet
 A 
 a 
@@ -579,6 +743,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Gemini Bracelet
 A 
 a 
@@ -586,6 +752,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Cancer Bracelet
 A 
 a 
@@ -593,6 +761,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Leo Bracelet
 A 
 a 
@@ -600,6 +770,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Virgo Bracelet
 A 
 a 
@@ -607,6 +779,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Libra Bracelet
 A 
 a 
@@ -614,6 +788,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Scorpio Bracelet
 A 
 a 
@@ -621,6 +797,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Sagittarius Bracelet
 A 
 a 
@@ -628,6 +806,8 @@ The
 the 
 this 
 is 
+it
+was 
 //DCMC Ring
 A 
 a 
@@ -635,6 +815,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Awesome Ring
 An 
 an 
@@ -642,6 +824,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Favorite Food
 -
 -
@@ -649,6 +833,8 @@ The
 the 
 your 
 -
+it
+was 
 //Nut
 A 
 a 
@@ -656,6 +842,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Nut Bread
 Some 
 some 
@@ -663,6 +851,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Nut Cookie
 A 
 a 
@@ -670,6 +860,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fresh Milk
 Some 
 some 
@@ -677,6 +869,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Rotten Milk
 Some 
 some 
@@ -684,6 +878,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Yogurt
 Some 
 some 
@@ -691,6 +887,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Edible Mushroom
 An 
 an 
@@ -698,6 +896,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Innit Tea
 Some 
 some 
@@ -705,6 +905,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Beef Jerky
 Some 
 some 
@@ -712,6 +914,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fresh Egg
 A 
 a 
@@ -719,6 +923,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Rotten Eclair
 A 
 a 
@@ -726,6 +932,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Rotten Bavarois
 A 
 a 
@@ -733,6 +941,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Peculiar Cheese
 Some 
 some 
@@ -740,6 +950,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bag of Pork Chips
 A 
 a 
@@ -747,6 +959,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Luxury Banana
 A 
 a 
@@ -754,6 +968,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bread Roll
 A 
 a 
@@ -761,6 +977,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fizzy Soda
 A 
 a 
@@ -768,6 +986,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Big City Soda
 A 
 a 
@@ -775,6 +995,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Big City Cola
 A 
 a 
@@ -782,6 +1004,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Big City Burger
 A 
 a 
@@ -789,6 +1013,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bag of Big City Fries
 A 
 a 
@@ -796,6 +1022,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Doggy Biscuit
 A 
 a 
@@ -803,6 +1031,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Doggy Jerky
 Some 
 some 
@@ -810,6 +1040,8 @@ The
 the 
 this 
 is 
+it
+was 
 //White Croissant
 A 
 a 
@@ -817,6 +1049,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Cup of Pork Noodles
 A 
 a 
@@ -824,6 +1058,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Pork Stew
 Some 
 some 
@@ -831,6 +1067,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Sincerity Dumplings
 Some 
 some 
@@ -838,6 +1076,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Strawberry Tofu
 Some 
 some 
@@ -845,6 +1085,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Lucky Rice
 Some 
 some 
@@ -852,6 +1094,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Lotto Meal
 A 
 a 
@@ -859,6 +1103,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Jumbo Shrimp Soup
 Some 
 some 
@@ -866,6 +1112,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Giant Abalone Steak
 A 
 a 
@@ -873,6 +1121,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Double Jerky
 Some 
 some 
@@ -880,6 +1130,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Grilled Chicken
 Some 
 some 
@@ -887,6 +1139,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Grilled Fish
 Some 
 some 
@@ -894,6 +1148,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Pasta with a Past
 Some 
 some 
@@ -901,6 +1157,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Favorite Pizza
 A 
 a 
@@ -908,6 +1166,8 @@ The
 the 
 this 
 is 
+it
+was 
 //King Burger
 A 
 a 
@@ -915,6 +1175,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Beefsteak
 A 
 a 
@@ -922,6 +1184,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Rich Kid Stew
 Some 
 some 
@@ -929,6 +1193,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Rich Parfait
 A 
 a 
@@ -936,6 +1202,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Hot Dog Sushi
 Some 
 some 
@@ -943,6 +1211,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Magic Gelatin
 Some 
 some 
@@ -950,6 +1220,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Magic Tart
 A 
 a 
@@ -957,6 +1229,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Magic Pudding
 Some 
 some 
@@ -964,6 +1238,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Magic Cake
 Some 
 some 
@@ -971,6 +1247,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Antidote
 An 
 an 
@@ -978,6 +1256,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Anti-Paralysis
 An 
 an 
@@ -985,6 +1265,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Alarm Cicada
 An 
 an 
@@ -992,6 +1274,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Fresh Mint
 A 
 a 
@@ -999,6 +1283,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Paper Fan
 A 
 a 
@@ -1006,6 +1292,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Recollection Bell
 A 
 a 
@@ -1013,6 +1301,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Eye Drops
 Some 
 some 
@@ -1020,6 +1310,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Flea Powder
 Some 
 some 
@@ -1027,6 +1319,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Secret Herb
 A 
 a 
@@ -1034,6 +1328,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Cup of Lifenoodles
 A 
 a 
@@ -1041,6 +1337,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Hot Spring Egg
 A 
 a 
@@ -1048,6 +1346,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Thunder Bomb
 A 
 a 
@@ -1055,6 +1355,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Running Bomb
 A 
 a 
@@ -1062,6 +1364,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Sprinting Bomb
 A 
 a 
@@ -1069,6 +1373,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Pencil Rocket
 A 
 a 
@@ -1076,6 +1382,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bomb
 A 
 a 
@@ -1083,6 +1391,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Super Bomb
 A 
 a 
@@ -1090,6 +1400,8 @@ The
 the 
 this 
 is 
+it
+was 
 //New Year's Eve Bomb
 A 
 a 
@@ -1097,6 +1409,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Honey Shower
 A 
 a 
@@ -1104,6 +1418,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Ancient Banana
 An 
 an 
@@ -1111,6 +1427,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Doorknob
 A 
 a 
@@ -1118,6 +1436,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bug Spray
 Some 
 some 
@@ -1125,6 +1445,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Saltwater Gun
 A 
 a 
@@ -1132,6 +1454,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Offense Spray
 An 
 an 
@@ -1139,6 +1463,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Defense Spray
 A 
 a 
@@ -1146,6 +1472,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Enemy Bufferizer
 An 
 an 
@@ -1153,6 +1481,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Enemy Wimperizer
 An 
 an 
@@ -1160,6 +1490,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Attack Attractor
 An 
 an 
@@ -1167,6 +1499,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Made-You-Look
 A 
 a 
@@ -1174,6 +1508,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Dragonfly
 A 
 a 
@@ -1181,6 +1517,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Silver Dragonfly
 A 
 a 
@@ -1188,6 +1526,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Chick
 A 
 a 
@@ -1195,6 +1535,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Chicken
 A 
 a 
@@ -1202,6 +1544,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Pickled Veggie Plate
 A 
 a 
@@ -1209,6 +1553,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Meteotite
 A 
 a 
@@ -1216,6 +1562,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Friend's Yo-Yo
 A 
 a 
@@ -1223,6 +1571,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Drago Fang
 The 
 the 
@@ -1230,6 +1580,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Dung
 Some 
 some 
@@ -1237,6 +1589,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Dolphin Ossicle
 A 
 a 
@@ -1244,6 +1598,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Spiky Weapon
 A 
 a 
@@ -1251,6 +1607,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Knit Sweater
 A 
 a 
@@ -1258,6 +1616,8 @@ The
 the 
 this 
 is 
+it
+was 
 //DCMC Boxers
 Some 
 some 
@@ -1265,6 +1625,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Magic Pendant
 A 
 a 
@@ -1272,6 +1634,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Encouraging Words
 Some 
 some 
@@ -1279,6 +1643,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Baked Yam
 A 
 a 
@@ -1286,6 +1652,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Mole Cricket Brother
 The 
 the 
@@ -1293,6 +1661,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Hermit Crab Shell
 A 
 a 
@@ -1300,6 +1670,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Suspicious Tea
 Some 
 some 
@@ -1307,6 +1679,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Flame Pendant
 A 
 a 
@@ -1314,6 +1688,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Ice Pendant
 An 
 an 
@@ -1321,6 +1697,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Thunder Pendant
 A 
 a 
@@ -1328,6 +1706,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Courage Badge
 A 
 a 
@@ -1335,6 +1715,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Souvenir Dress
 A 
 a 
@@ -1342,6 +1724,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Pencil Eraser
 A 
 a 
@@ -1349,6 +1733,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Franklin Badge
 A 
 a 
@@ -1356,6 +1742,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Kid's Shirt
 A 
 a 
@@ -1363,6 +1751,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Good Kid's Shirt
 A 
 a 
@@ -1370,6 +1760,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Kid's Hat
 A 
 a 
@@ -1377,13 +1769,17 @@ The
 the 
 this 
 is 
+it
+was 
 //Jar of Yummy Pickles
 A 
 a 
 The 
 the 
-these 
-are 
+this 
+is 
+it
+was 
 //Red Hat
 A 
 a 
@@ -1391,6 +1787,8 @@ The
 the 
 this 
 is 
+it
+was 
 //White Ribbon
 A 
 a 
@@ -1398,6 +1796,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Bird
 A 
 a 
@@ -1405,6 +1805,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Memory Snake
 A 
 a 
@@ -1412,6 +1814,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Waters of Time
 -
 -
@@ -1419,6 +1823,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Stinkbug's Memory
 The 
 the 
@@ -1426,6 +1832,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Phrygia's Notebook
 -
 -
@@ -1433,6 +1841,8 @@ is
 -
 -
 is 
+it
+was 
 //Shield Snatcher
 A 
 a 
@@ -1440,6 +1850,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Test
 -
 -
@@ -1447,6 +1859,8 @@ is
 -
 -
 -
+it
+was 
 //EMPTY
 -
 -
@@ -1454,6 +1868,8 @@ is
 -
 -
 -
+it
+was 
 //EMPTY
 -
 -
@@ -1461,6 +1877,8 @@ is
 -
 -
 -
+it
+was 
 //EMPTY
 -
 -
@@ -1468,6 +1886,8 @@ is
 -
 -
 -
+it
+was 
 //Trivia Card 1
 -
 -
@@ -1475,6 +1895,8 @@ The
 the 
 -
 is 
+it
+was 
 //Trivia Card 2
 -
 -
@@ -1482,6 +1904,8 @@ The
 the 
 -
 is 
+it
+was 
 //Trivia Card 3
 -
 -
@@ -1489,6 +1913,8 @@ The
 the 
 -
 is 
+it
+was 
 //Trivia Card 4
 -
 -
@@ -1496,6 +1922,8 @@ The
 the 
 -
 is 
+it
+was 
 //Wall Staples
 Some 
 some 
@@ -1503,6 +1931,8 @@ The
 the 
 these 
 are 
+them
+were 
 //Siren Beetle
 A 
 a 
@@ -1510,6 +1940,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Smoke Bomb
 A 
 a 
@@ -1517,6 +1949,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Hypno-Pendulum
 A 
 a 
@@ -1524,6 +1958,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Scary Mask
 A 
 a 
@@ -1531,6 +1967,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Tickle Stick
 A 
 a 
@@ -1538,6 +1976,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Drawbridge Key
 The 
 the 
@@ -1545,6 +1985,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Noble Spittoon
 The 
 the 
@@ -1552,6 +1994,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Pendant
 A 
 a 
@@ -1559,6 +2003,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Egg of Light
 The 
 the 
@@ -1566,6 +2012,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Scrap of Cloth
 A 
 a 
@@ -1573,6 +2021,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Pig Mark Notebook
 A 
 a 
@@ -1580,6 +2030,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Child's Shoe
 A 
 a 
@@ -1587,6 +2039,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Hand File
 A 
 a 
@@ -1594,6 +2048,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Rope Snake
 The 
 the 
@@ -1601,6 +2057,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Rope Snake DX
 The 
 the 
@@ -1608,6 +2066,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Transceiver
 A 
 a 
@@ -1615,6 +2075,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Ticket
 A 
 a 
@@ -1622,6 +2084,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Battle Memory
 The 
 the 
@@ -1629,6 +2093,8 @@ The
 the 
 the 
 is 
+it
+was 
 //Carrier Pigeon
 A 
 a 
@@ -1636,13 +2102,17 @@ The
 the 
 the 
 is 
+it
+was 
 //Razor & Lipstick
 A 
 a 
 The 
 the 
 the 
-are 
+is 
+them
+was 
 //Ionia's Memento
 -
 -
@@ -1650,6 +2120,8 @@ are
 -
 -
 is 
+it
+was 
 //Doria's Memento
 -
 -
@@ -1657,6 +2129,8 @@ is
 -
 -
 is 
+it
+was 
 //Phrygia Memento
 -
 -
@@ -1664,6 +2138,8 @@ is
 -
 -
 is 
+it
+was 
 //Lydia's Memento
 -
 -
@@ -1671,6 +2147,8 @@ is
 -
 -
 is 
+it
+was 
 //Missy's Memento
 -
 -
@@ -1678,6 +2156,8 @@ is
 -
 -
 is 
+it
+was 
 //Aeolia's Memento
 -
 -
@@ -1685,6 +2165,8 @@ is
 -
 -
 is 
+it
+was 
 //Tazmily Map
 A 
 a 
@@ -1692,6 +2174,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Osohe Sketch
 An 
 an 
@@ -1699,6 +2183,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Underground Map
 An 
 an 
@@ -1706,6 +2192,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Railway Map
 A 
 a 
@@ -1713,6 +2201,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Area Map
 An 
 an 
@@ -1720,6 +2210,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Attic Guide
 An 
 an 
@@ -1727,6 +2219,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Saturn Valley Map
 A 
 a 
@@ -1734,6 +2228,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Sea Floor Map
 A 
 a 
@@ -1741,6 +2237,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Cave Map
 A 
 a 
@@ -1748,6 +2246,8 @@ The
 the 
 this 
 is 
+it
+was 
 //City Map
 A 
 a 
@@ -1755,6 +2255,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Tower Sketch
 A 
 a 
@@ -1762,6 +2264,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Chimera Lab Map
 A 
 a 
@@ -1769,6 +2273,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Cricket Hole Map
 A 
 a 
@@ -1776,6 +2282,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Highway Map
 A 
 a 
@@ -1783,6 +2291,8 @@ The
 the 
 this 
 is 
+it
+was 
 //Factory Sketch
 A 
 a 
@@ -1790,3 +2300,5 @@ The
 the 
 this 
 is 
+it
+was 

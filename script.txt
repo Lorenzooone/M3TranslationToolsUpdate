@@ -15,26 +15,36 @@
 0-6E:
 0-7:[BREAK]Dear [FLINT 23 01 00],[BREAK]Just like you said they would, the children[BREAK]have been running around the mountains and[BREAK]fields tirelessly since the moment we arrived.[BREAK][BREAK][CLAUS 22 05 00] is as daring and full of energy[BREAK]as ever, while [LUCAS 23 02 00] is still a bit[BREAK]coddled. But neither one seems tired of[BREAK]playing at all.[BREAK][BREAK]My father seems sad to say goodbye to his[BREAK]grandchildren after seeing them for the first[BREAK]time in so long, but we should be home by[BREAK]this evening.[BREAK][BREAK]I had forgotten how nice and refreshing the[BREAK]mountain air is. You're always covered in the[BREAK]smell of sheep back in Tazmily Village, so I[BREAK]really wish you could have been here to take[BREAK]in this air.[BREAK][BREAK]The next time we visit, let's ask one of our[BREAK]neighbors to tend to the sheep so we can all[BREAK]come up here as a family.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], and I were[BREAK]always thinking about you. When we get[BREAK]home this evening, I'll start cooking some[BREAK]of your favorite [FAVFOOD] right away.[BREAK][BREAK]With love, your dearest [HINAWA 22 08 00][BREAK][BREAK][END]
 0-7E:
+// 50 characters max per line
 0-8:[FILE=".\0-8.txt"][END]
 0-8E:
+// 50 characters max per line
 // this text is so long that it needed to be written in an external file
 0-9:The mysterious group that has been tinkering[BREAK]with the forest creatures in an almost[BREAK]toy-like fashion has finally commenced its[BREAK]plan to alter the town, the lives, and even[BREAK]the hearts of the people.[BREAK][BREAK]It seems as if a grand scheme of some sort[BREAK]is hidden behind the actions of the suspicious[BREAK]peddler who has recently arrived.[BREAK][BREAK]However, not everyone is content to sit[BREAK]quietly by as the enemy continues its odious[BREAK]attacks from every angle.[BREAK][BREAK][FLINT 23 01 00], whose family bonds were[BREAK]torn to shreds...[BREAK][BREAK]Wess and his son [DUSTER 23 03 00], the[BREAK]Thieves of Justice...[BREAK][BREAK]Princess [KUMATORA 23 04 00], the mysterious girl[BREAK]who suddenly appeared...[BREAK][BREAK]Destiny is bringing together those who[BREAK]would use their power for good.[BREAK][BREAK][BREAK]And what has become of [LUCAS 23 02 00],[BREAK]the crybaby...?[END]
 0-9E:
+// 50 characters max per line
 0-10:[BREAK]Tazmily Village is now transforming exactly[BREAK]how the newly-come peddler had planned.[BREAK][BREAK]Only a handful of villagers realize that[BREAK]things that were good and right are being[BREAK]tossed away one after the other.[BREAK][BREAK]Although prosperity is increasing, an eerie[BREAK]darkness seems to be growing heavier over[BREAK]the village at the same time.[BREAK][BREAK][BREAK]However, within that darkness, a frail,[BREAK]young boy grows ever stronger.[BREAK][BREAK]Soon, [LUCAS 23 02 00] will repaint this tale of[BREAK]sadness with a bright, new color.[BREAK][BREAK]The deeper the darkness, the brighter the[BREAK]sunrise at dawn.[BREAK][BREAK]The once-coddled [LUCAS 23 02 00] is now on[BREAK]his way to becoming a brilliant, young sun.[BREAK][BREAK][END]
 0-10E:
+// 50 characters max per line
 0-11:[BREAK]After showering, the three conversed at[BREAK]great length, almost as if filling in the[BREAK]three-year gap that had separated them.[BREAK][BREAK]They discussed the rescued monkey...[BREAK][BREAK]They discussed the Hummingbird Egg from[BREAK]Osohe Castle, and how it went missing...[BREAK][BREAK]They discussed the fact that one of the[BREAK]DCMC band members appears to be an[BREAK]amnesic [DUSTER 23 03 00]...[BREAK][BREAK]And they discussed the mysterious army[BREAK]that had radically transformed Tazmily[BREAK]Village...[BREAK][BREAK]As if assembling the jumbled pieces of a[BREAK]jigsaw puzzle, they told each other what[BREAK]they knew to put their thoughts together.[BREAK][BREAK]The coming battle will not be easy...[BREAK][BREAK]This, more than anything, they knew all[BREAK]too well.[BREAK][BREAK][BREAK]"I want to be stronger..."[BREAK][BREAK]It was at around this time that [LUCAS 23 02 00][BREAK]truly began to have such feelings...[BREAK][BREAK][BREAK][BREAK][END]
 0-11E:
+// 50 characters max per line
 0-12:Bon voyage, amigo[BREAK][BREAK]Oh, guy in the sky, please grant a gift to our[BREAK]friend who's about to set out...[BREAK][BREAK]How much time we wasted laughing[BREAK]together...[BREAK][BREAK]But, guy in the sky, oh, how we loved that[BREAK]wasted time and those helpless smiles...[BREAK][BREAK]Bon voyage[BREAK][BREAK]Bon voyage, amigo[END]
 0-12E:
+// 50 characters max per line
 0-13:[BREAK]Moving puppets, made from clumps of earth.[BREAK]A tower that can fire thunderbolts on demand.[BREAK]An extensive highway system.[BREAK]Ships that fly through the sky.[BREAK][BREAK]The enemy that [LUCAS 23 02 00] and his[BREAK]companions must stand up against has[BREAK]grown to such an enormous scale.[BREAK][BREAK]Do they even stand a chance against this[BREAK]vile and powerful nemesis?[BREAK][BREAK]No, common sense must be ignored in a[BREAK]situation like this.[BREAK][BREAK]Even if there is only a one-in-a-billion chance[BREAK]of victory, that means there is also a[BREAK]one-in-a-billion opportunity of turning the[BREAK]tables completely.[BREAK][BREAK]Will [LUCAS 23 02 00], [KUMATORA 23 04 00], and[BREAK][DUSTER 23 03 00] be separated once again?[BREAK][BREAK]Or will they work together again to overcome[BREAK]the obstacles that stand in their way?[BREAK][BREAK]From the flying ship, a masked man looks[BREAK]down upon [LUCAS 23 02 00] and friends, his[BREAK]profile still very youthful...[BREAK][BREAK][BREAK]The tale now moves to its next chapter,[BREAK]with an almost certain promise of battles[BREAK]far more intense than ever before...[BREAK][END]
 0-13E:
+// 50 characters max per line
 0-14: [END]
 0-14E:
+// 50 characters max per line
 0-15:[FILE=".\0-15.txt"][END]
 0-15E:
+// 50 characters max per line
 // this text is so long that it needed to be written in an external file
 0-16:[FILE=".\0-16.txt"][END]
 0-16E:
+// 50 characters max per line
 // this text is so long that it needed to be written in an external file
 0-17:[BREAK][BREAK][BREAK][CENTER][LUCAS 23 02 00].[END]
 0-17E:
@@ -86,12 +96,18 @@
 0-39E:
 0-40:All the creatures around here suck.[BREAK]We need to make 'em cooler.[BREAK][BREAK][WAIT]So the theme will be:[BREAK]    @Tougher![BREAK]    @Rougher![BREAK]    @Badder![BREAK][WAIT]We'll mix and match this and that[BREAK]to create whole new things no one's[BREAK]ever seen before![BREAK][WAIT]I dub it the "Fascinating Chimera[BREAK]Project". Let's reconstruct and[BREAK]modify stuff slowly and steadily.[END]
 0-40E:
+// 50 characters max per line
+// Lines will be printed every frame in groups of two
 0-41:[FILE=".\0-41.txt"][END]
 0-41E:
+// 50 characters max per line
+// Lines will be printed every frame in groups of two
 // this text is so long that it needed to be written in an external file
 0-42:[FILE=".\0-42.txt"][END]
 0-42E:
-// Translate this text last! Trust me! This is the Stinkbug Memory text. The number of letters per line and the number of lines per page is very strange. Also, much of this text is repeated from standard text later on during Leder's actual speech. So translate this last!
+// 50 characters max per line
+// Lines will be printed every frame in groups of two
+// Translate this text last! Trust me! This is the Stinkbug Memory text. Much of this text is repeated from standard text later on during Leder's actual speech. So translate this last!
 0-43:@TBA[END]
 0-43E:
 0-44:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
@@ -186,9 +202,9 @@
 // Item B1 = Dolphin Ossicle
 0-80:@You can't carry any more stuff.[END]
 0-80E:
-0-81:@Inside the present, there was[BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
+0-81:@Inside the present, there [EF 17][BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-81E:
-0-82:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
+0-82:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-82E:
 // Repeats: 0-82, 836-5, 839-6
 0-83:@There's a vending machine here.[WAIT]@Would you like to use it? [WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
@@ -204,7 +220,7 @@
 0-87E:
 0-88:@There's an oxygen supply machine here.[WAIT]  Ask it for some oxygen?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 0-88E:
-0-89:@Inside the trash can, there was[BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
+0-89:@Inside the trash can, there [EF 17][BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-89E:
 0-90:@You felt something warm inside your heart.[END]
 0-90E:
@@ -377,7 +393,7 @@
 // context???
 0-162:@Your map's been marked![PAUSE 40 00][END]
 0-162E:
-0-163:@Received [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
+0-163:@Received [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 0-163E:
 // Repeats: 0-47, 0-163
 0-164:@Set everyone to Level 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
@@ -549,11 +565,11 @@
 0-241E:
 0-242:@Well, I guess this is where we part ways.[WAIT]@I don't have a name, but remember me[BREAK]  sometimes as being a pretty cool guy, okay?[END]
 0-242E:
-0-243:@TAAAAAH-DAAAAAH![WAIT]@Inside the trash can, there was[BREAK]  [EF 11][ITEM F0 FF]![END]
+0-243:@TAAAAAH-DAAAAAH![WAIT]@Inside the trash can, there was[BREAK]  [EF 91][ITEM F0 FF]![END]
 0-243E:
-0-244:@[42 FF F1 FF] got [EF 13][ITEM F0 FF]![END]
+0-244:@[42 FF F1 FF] got [EF 93][ITEM F0 FF]![END]
 0-244E:
-0-245:@[42 FF F1 FF] got [EF 13][ITEM F0 FF]![WAIT]@Maybe.[END]
+0-245:@[42 FF F1 FF] got [EF 93][ITEM F0 FF]![WAIT]@Maybe.[END]
 0-245E:
 0-246:@It's empty...[END]
 0-246E:
@@ -620,7 +636,6 @@
 0-276E:
 0-277:[END]
 0-277E:
-
 [Container 2]
 2-0:@[FLINT 23 01 00]! [FLINT 23 01 00]![BREAK]  [FLINT 26 01 00 03 00]!!!![WAIT]@It's a fire! A fire, a fire![WAIT]@The Sunshine Forest is on fire in a huge, fiery,[BREAK]  flamey fire!![END]
 2-0E:
@@ -738,7 +753,6 @@
 // Repeats: 2-38, 12-38, 210-13
 2-39:[END]
 2-39E:
-
 [Container 3]
 3-0:@[FLINT 26 01 00 03 00]! The fire isn't that way![WAIT]@This is no time to get sidetracked![END]
 3-0E:
@@ -848,7 +862,6 @@
 3-49:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
 3-49E:
 // Repeats: 3-49, 81-61, 211-93
-
 [Container 4]
 4-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
 4-0E:
@@ -891,7 +904,6 @@
 4-18E:
 4-19:[SOUND 03 00]  chirp chirp!)[END]
 4-19E:
-
 [Container 5]
 5-0:@Moo.[WAIT]  (Oops, I'm drooling.)[END]
 5-0E:
@@ -978,7 +990,6 @@
 // Repeats: 5-38, 105-12, 128-12
 5-39:@Hey there, Happiness Guy.[WAIT]@I put that box you gave me inside my house,[WAIT]  but I guess it doesn't make you instantly[BREAK]  happy, huh?[END]
 5-39E:
-
 [Container 6]
 6-0:@[FLINT 23 01 00]...[END]
 6-0E:
@@ -1004,7 +1015,6 @@
 6-9:@Thanks.[END]
 6-9E:
 // Repeats: 6-9, 233-38, 340-12
-
 [Container 7]
 7-0:@[DUSTER 23 03 00].[WAIT]@Listen to the voice of the sea.[WAIT]@The sea washes away people's worries.[WAIT]@I once washed someone's back in a bath.[WAIT]@What do you think? I wrote that poem myself.[END]
 7-0E:
@@ -1049,7 +1059,6 @@
 7-18E:
 7-19:@I'm Nana.[WAIT]@They say that on Tanetane Island, across the[BREAK]  sea, is a world of dreams and nightmares.[WAIT]@But they also say that nobody knows the real[BREAK]  truth about it.[WAIT]@So then how do I know about it?[END]
 7-19E:
-
 [Container 8]
 8-0:[ALTERNATEFONT]@this hole.[WAIT]  to cliff,[BREAK]  and fire mountain.[END]
 8-0E:
@@ -1131,7 +1140,6 @@
 8-38E:
 8-39:[END]
 8-39E:
-
 [Container 9]
 9-0:@[FLINT 23 01 00]![WAIT]@The Sunshine Forest, which is to the west of[BREAK]  Cross Road and past the Prayer Sanctuary,[WAIT]  is apparently on fire like crazy![WAIT]@Oh, sorry that sounded so explanation-like![END]
 9-0E:
@@ -1192,7 +1200,6 @@
 // Repeats: 9-18, 37-18
 9-19:[END]
 9-19E:
-
 [Container 10]
 10-0:[END]
 10-0E:
@@ -1364,7 +1371,6 @@
 // Repeats: 10-54, 222-54, 506-54
 10-55:[END]
 10-55E:
-
 [Container 11]
 11-0:@It's a sketch of the area.[END]
 11-0E:
@@ -1426,16 +1432,16 @@
 11-19:@Lower the drawbridge?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 11-19E:
 // Repeats: 11-19, 212-19, 213-19
-11-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
+11-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Specimen Room[RIGHT][BREAK]  [LEFT]Ultimate Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 11-20E:
 // Repeats: 11-20, 212-20, 213-20
-11-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+11-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninvited Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
 11-21E:
 // Repeats: 11-21, 212-21, 213-21
-11-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
+11-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Saturn Ladder[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destroyed[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Cerulean Beach[RIGHT][BREAK][ENDCHOICES][END]
 11-22E:
 // Repeats: 11-22, 212-22, 213-22
-11-23:@Go how far into Tanetane Island?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Tanetane Beach[RIGHT][BREAK]  [LEFT]Funky Beach[RIGHT][BREAK]  [LEFT]Missy's House[RIGHT][BREAK]  [LEFT]Island Hill[RIGHT][BREAK]  [LEFT]Defeated[RIGHT][BREAK]  [LEFT]Octopus Ride[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
+11-23:@Go how far into Tanetane Island?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Tanetane Beach[RIGHT][BREAK]  [LEFT]Funky Beach[RIGHT][BREAK]  [LEFT]Missy's House[RIGHT][BREAK]  [LEFT]Island Hill[RIGHT][BREAK]  [LEFT]Defeated[RIGHT][BREAK]  [LEFT]Octopus Ride[RIGHT][BREAK]  [LEFT]Cerulean Beach[RIGHT][BREAK][ENDCHOICES][END]
 11-23E:
 // Repeats: 11-23, 212-23, 213-23
 11-24:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Allow me to discuss one of the main tricks to[BREAK]  fighting.[WAIT]  How you and the enemy come into contact[WAIT]  can give you the advantage or disadvantage[BREAK]  in the battle that follows.[WAIT]  The truth is, you won't always encounter the[BREAK]  enemy head-to-head every time.[WAIT]  If you manage to sneak up on the enemy from[BREAK]  behind or the side, you'll have the upper hand.[WAIT]  The enemy will be facing backwards when you[BREAK]  enter battle, you see.[WAIT]  Conversely, if the enemy sneaks up on you[BREAK]  from behind or from the side,[WAIT]  YOU'LL be facing backwards at the start of[BREAK]  the battle, putting you at a real disadvantage.[WAIT]  When the upper hand is yours, you'll see the[BREAK]  things in front of you turn green before battle,[WAIT]  and when the enemy has the upper hand, you'll[BREAK]  see red instead.[WAIT]  When you're on equal terms, everything will[BREAK]  seem blue-ish, for lack of a better term.[WAIT]  Anyway, to sum everything up,[WAIT]  "Go forth,[PAUSE 18 00] young man.[PAUSE 18 00] Go, go, go!"[PAUSE 20 00] and all that.[WAIT]  So there you have it.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
@@ -1444,7 +1450,6 @@
 11-25:[SOUND 03 00]  ...chirp chirp chirp!)[END]
 11-25E:
 // Repeats: 11-25, 212-25, 213-25
-
 [Container 12]
 12-0:@[FLINT 23 01 00]! [FLINT 23 01 00]![BREAK]  [FLINT 26 01 00 03 00]!!!![WAIT]@It's a fire! A fire, a fire![WAIT]@The Sunshine Forest is on fire in a huge, fiery,[BREAK]  flamey fire!![END]
 12-0E:
@@ -1654,7 +1659,6 @@
 12-82E:
 12-83:[END]
 12-83E:
-
 [Container 13]
 13-0:@Magypsy Hot Spring[WAIT]     "There's no need to rush[BREAK]     Five seconds rejuvenates[WAIT]       Magypsy Spring Water"[WAIT]          (An extra syllable)[END]
 13-0E:
@@ -1795,7 +1799,6 @@
 // Repeats: 10-37, 11-11, 13-50, 122-18, 137-0, 212-11, 213-11, 222-37, 506-37
 13-51:[END]
 13-51E:
-
 [Container 14]
 14-0:[HOTSPRING 00 00][END]
 14-0E:
@@ -1905,7 +1908,6 @@
 14-38E:
 14-39:[END]
 14-39E:
-
 [Container 15]
 15-0:@*huff*[PAUSE 18 00] *gasp*[PAUSE 18 00][BREAK]  Whew, I'm beat.[EVENT][END]
 15-0E:
@@ -1963,7 +1965,6 @@
 15-26E:
 15-27:@Hey! Wait for me![WAIT]@You saved me some [FAVFOOD] too,[BREAK]  I hope?![END]
 15-27E:
-
 [Container 17]
 17-0:[HOTSPRING 00 00][END]
 17-0E:
@@ -2048,7 +2049,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 17-27:[END]
 17-27E:
-
 [Container 18]
 18-0:@Oh, [FLINT 23 01 00]![BREAK]@This is bad! I'm at a loss for words![WAIT]@Just take a look at this.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][END]
 18-0E:
@@ -2158,7 +2158,6 @@
 18-50E:
 18-51:@Mr. [FLINT 23 01 00]! Where are you going?![WAIT]@[BONEY 23 05 00] is trying to tell us something![END]
 18-51E:
-
 [Container 19]
 19-0:@*hop*[WAIT]@Wave your game?[PAUSE 20 00][BREAK]  ...Wait, that's not right.[WAIT]@I mean, save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 19-0E:
@@ -2292,7 +2291,6 @@
 19-43:[SOUND 03 00]  Achirpa chirp chirp!)[END]
 19-43E:
 // Repeats: 19-43, 21-43
-
 [Container 20]
 20-0:@The cliff here has crumbled.[WAIT]@It doesn't look like there's any way to get[BREAK]  across.[END]
 20-0E:
@@ -2302,7 +2300,6 @@
 20-2E:
 20-3:[END]
 20-3E:
-
 [Container 21]
 21-0:@*hop*[WAIT]@Wave your game?[PAUSE 20 00][BREAK]  ...Wait, that's not right.[WAIT]@I mean, save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 21-0E:
@@ -2452,7 +2449,6 @@
 21-48E:
 21-49:[END]
 21-49E:
-
 [Container 22]
 22-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
 22-0E:
@@ -2520,7 +2516,6 @@
 22-21:@[42 FF 00 00] dug around in the trash can.[WAIT]@But it was empty.[END]
 22-21E:
 // Repeats: 22-21, 23-21
-
 [Container 23]
 23-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
 23-0E:
@@ -2596,13 +2591,11 @@
 23-24E:
 23-25:@I recognize this area.[WAIT]@Ionia's house is north of here.[BREAK]  The western path should lead us there.[WAIT]@Let's go![END]
 23-25E:
-
 [Container 24]
 24-0:@A metal object you've never seen before is[BREAK]  sitting here.[END]
 24-0E:
 24-1:[END]
 24-1E:
-
 [Container 25]
 25-0:@Thick, tangled-up vines block the entrance.[END]
 25-0E:
@@ -2615,7 +2608,6 @@
 // Repeats: 25-2, 709-2
 25-3:[END]
 25-3E:
-
 [Container 26]
 26-0:@This belongs to [CLAUS 22 05 00]![WAIT]@And that was a baby Drago just now.[WAIT]@[CLAUS 22 05 00] MUST be around here[BREAK]  somewhere![END]
 26-0E:
@@ -2637,7 +2629,6 @@
 26-8E:
 26-9:@What is THAT?![WAIT]@That's[PAUSE 20 00] not a Drago anymore.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 40 00][BREAK]@I have a bad feeling about this...![END]
 26-9E:
-
 [Container 28]
 28-0:@There is cold, clean water here.[END]
 28-0E:
@@ -2689,7 +2680,6 @@
 28-22E:
 28-23:[END]
 28-23E:
-
 [Container 29]
 29-0:@(What, do you expect cow bones to talk or[BREAK]  something?)[END]
 29-0E:
@@ -2711,7 +2701,6 @@
 29-8E:
 29-9:[END]
 29-9E:
-
 [Container 30]
 30-0:@Alright, monkey! Listen up![WAIT]@If you don't do your job...[EVENT][END]
 30-0E:
@@ -2762,7 +2751,6 @@
 30-22E:
 30-23:[END]
 30-23E:
-
 [Container 31]
 31-0:@Be sure to talk to frogs once in a while.[END]
 31-0E:
@@ -2844,7 +2832,7 @@
 31-37E:
 31-38:@Looks like we're going to need to build a new[BREAK]  sheep pen...[END]
 31-38E:
-31-39:@Are you headed somewhere?[WAIT]@...Oh, I see.[WAIT]   You're going to the factory to look for[BREAK]  [DUSTER 23 03 00].[END]
+31-39:@Are you headed somewhere?[WAIT]@...Oh, I see.[WAIT]  You're going to the factory to look for[BREAK]  [DUSTER 23 03 00].[END]
 31-39E:
 31-40:@Take this with you.[END]
 31-40E:
@@ -2862,7 +2850,6 @@
 31-46E:
 31-47:@The sheep pen has been struck by lightning.[BREAK]  There's almost no trace of it left.[END]
 31-47E:
-
 [Container 32]
 32-0:@Did you think so much beauty would blossom[BREAK]  up in only three years?[WAIT]@Huh?[PAUSE 10 00] What?[PAUSE 10 00] Am I talking about myself?[WAIT]@No, of course not. I'm talking about Tazmily.[END]
 32-0E:
@@ -3006,7 +2993,6 @@
 32-68E:
 32-69:@I think you're mistaken about me.[WAIT]@I'm not bald because my hair has fallen out.[PAUSE 1E 00][BREAK]  I just shave my head.[WAIT]@Does that clear up your misconceptions?[END]
 32-69E:
-
 [Container 33]
 33-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
 33-0E:
@@ -3152,7 +3138,6 @@
 33-47:@Something's not right with the way everyone[BREAK]  is suddenly moving to the big city.[WAIT]@I have a bad feeling about this...[END]
 33-47E:
 // Repeats: 33-47, 219-47
-
 [Container 34]
 34-0:@Oh, you wanna join our army, too?[WAIT]@Then you gotta go eat lots and lots until you're[BREAK]  nice and big first.[END]
 34-0E:
@@ -3198,7 +3183,6 @@
 34-20E:
 34-21:@Its batteries are dead.[END]
 34-21E:
-
 [Container 35]
 35-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
 35-0E:
@@ -3253,7 +3237,6 @@
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 35-17:[END]
 35-17E:
-
 [Container 36]
 36-0:[HOTSPRING 00 00][END]
 36-0E:
@@ -3521,7 +3504,6 @@
 36-104E:
 36-105:@I didn't sew this sweater, but I'll throw it[BREAK]  away for you.[END]
 36-105E:
-
 [Container 37]
 37-0:@[FLINT 23 01 00]![WAIT]@The Sunshine Forest, which is to the west of[BREAK]  Cross Road and past the Prayer Sanctuary,[WAIT]  is apparently on fire like crazy![WAIT]@Oh, sorry that sounded so explanation-like![END]
 37-0E:
@@ -3601,7 +3583,6 @@
 37-27:@This is Cross Road's bell tower.[END]
 37-27E:
 // Repeats: 9-15, 37-15, 37-27
-
 [Container 38]
 38-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
 38-0E:
@@ -3901,7 +3882,6 @@
 // Repeats: 35-15, 36-46, 38-15, 38-124, 48-15, 49-15, 222-70, 223-15, 506-70
 38-125:[END]
 38-125E:
-
 [Container 39]
 39-0:@[42 FF 00 00] opened the present.[EVENT][END]
 39-0E:
@@ -3909,7 +3889,7 @@
 39-1:@But it was empty.[END]
 39-1E:
 // Repeats: 39-1, 509-1
-39-2:@Got [EF 11][ITEM F0 FF]![END]
+39-2:@Got [EF 91][ITEM F0 FF]![END]
 39-2E:
 // Repeats: 39-2, 478-1, 509-2
 39-3:@A dim passage can be seen beyond this[BREAK]  chain-link shutter.[WAIT]@Where it leads to is anyone's guess.[END]
@@ -3921,13 +3901,12 @@
 39-5:@It doesn't look like you can get through this[BREAK]  chain-link shutter.[END]
 39-5E:
 // Repeats: 39-5, 509-5
-39-6:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
+39-6:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
 39-6E:
 // Repeats: 39-6, 509-6
 39-7:@A dim passage can be seen beyond this[BREAK]  chain-link shutter.[WAIT]@Where it leads to is anyone's guess.[END]
 39-7E:
 // Repeats: 39-3, 39-7, 509-3
-
 [Container 40]
 40-0:[END]
 40-0E:
@@ -3937,7 +3916,6 @@
 40-2E:
 40-3:[END]
 40-3E:
-
 [Container 42]
 42-0:[HOTSPRING 00 00][END]
 42-0E:
@@ -4089,7 +4067,6 @@
 42-49:@You really love hot springs, don't you?[WAIT]@So do I. [HEART][END]
 42-49E:
 // Repeats: 42-49, 203-49, 263-49
-
 [Container 43]
 43-0:@A boulder is blocking the way.[END]
 43-0E:
@@ -4114,7 +4091,6 @@
 43-9:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
 43-9E:
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
-
 [Container 45]
 45-0:@[LEFT]Tazmily[BREAK]  Factory[RIGHT][WAIT]  [UP]Cliff[BREAK]  [DOWN]Tracks[END]
 45-0E:
@@ -4124,13 +4100,11 @@
 45-2E:
 45-3:[SOUND 03 00]  chirp chirp-chirp-chirp!)[END]
 45-3E:
-
 [Container 46]
 46-0:[END]
 46-0E:
 46-1:[END]
 46-1E:
-
 [Container 47]
 47-0:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Cross Road[BREAK]  Station is 2500 DP per person.[WAIT]@Are you a factory worker?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 47-0E:
@@ -4252,7 +4226,6 @@
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 47-47:@...[WAIT]@...[WAIT]@I dunno if you care or not, but I'll tell you[BREAK]  anyways.[WAIT]@My big bro lives on the other side of this[BREAK]  tunnel.[WAIT]@People say he looks just like me.[WAIT]@...No idea what he's up to lately, though.[END]
 47-47E:
-
 [Container 48]
 48-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
 48-0E:
@@ -4327,7 +4300,6 @@
 48-26E:
 48-27:[END]
 48-27E:
-
 [Container 49]
 49-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
 49-0E:
@@ -4404,7 +4376,6 @@
 49-26E:
 49-27:[END]
 49-27E:
-
 [Container 50]
 50-0:@Binoculars. 1 DP for a look.[WAIT]@Have a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 50-0E:
@@ -4488,13 +4459,11 @@
 50-38E:
 50-39:@An elephant statue.[END]
 50-39E:
-
 [Container 51]
 51-0:@*crawl* *climb*[WAIT]@I decided to take a shortcut to Club Titiboo,[BREAK]  which is why I'm climbing up this cliff here.[WAIT]@*crawl* *climb*[WAIT]@I'd say I'm somewhere around Day 3 now.[WAIT]@*crawl* *climb*[END]
 51-0E:
 51-1:@There's a man climbing up the cliff here.[END]
 51-1E:
-
 [Container 52]
 52-0:@Shoo! Shoo! Scram![WAIT]@Get outta here, you kid! [PAUSE 2E 00]And dog![END]
 52-0E:
@@ -4544,7 +4513,6 @@
 52-22E:
 52-23:@The bottom of the garbage can is littered with[BREAK]  doughnut crumbs.[END]
 52-23E:
-
 [Container 53]
 53-0:@The door doesn't budge at all.[END]
 53-0E:
@@ -4576,7 +4544,6 @@
 53-9:@So you kept true to your promise and finally[BREAK]  came to the Mole Cricket Hole, huh?![WAIT]@It's me! It's me! Don't you recognize me?![WAIT]  I'm the mole cricket you fought at Alec's place[WAIT]  when you were play-fighting with the Dragos[BREAK]  as a little kid![WAIT]@I've been training for this day all these years![WAIT]@Okay, let's go![WAIT]@The time to battle has come![WAIT]@Follow me![END]
 53-9E:
 // Repeats: 53-9, 54-9
-
 [Container 54]
 54-0:@The door doesn't budge at all.[END]
 54-0E:
@@ -4628,7 +4595,6 @@
 54-18E:
 54-19:@This is where you and me are gonna fight it[BREAK]  out.[WAIT]@This is where my right hand'll be raised into[BREAK]  the air when I'm declared the winner.[WAIT]@And this is also where you're[PAUSE 1E 00] gonna hit the[BREAK]  ground with a thud.[WAIT]@This is the place! [PAUSE 1E 00]Mole Cricket Hole![WAIT]@I'll widen the hole a bit for you to fit through.[WAIT]@Come on![END]
 54-19E:
-
 [Container 55]
 55-0:[HOTSPRING 00 00][END]
 55-0E:
@@ -4717,13 +4683,11 @@
 55-28E:
 55-29:@No look?[END]
 55-29E:
-
 [Container 56]
 56-0:@Woof woof.[WAIT]  (I can go back to being a dog now, right?)[END]
 56-0E:
 56-1:[END]
 56-1E:
-
 [Container 57]
 57-0:@This is that humongous steel tower...[END]
 57-0E:
@@ -4733,7 +4697,6 @@
 57-2E:
 57-3:@Tower of Love and Peace[WAIT]  Stay away![END]
 57-3E:
-
 [Container 58]
 58-0:@Pigmask tanks are blocking the way.[END]
 58-0E:
@@ -4744,7 +4707,6 @@
 58-2E:
 58-3:[END]
 58-3E:
-
 [Container 59]
 59-0:@Oh! C- Commander![WAIT]@Are you all right?![END]
 59-0E:
@@ -4774,7 +4736,6 @@
 59-12E:
 59-13:@Right: To Garbage Dump, Thunder Tower[END]
 59-13E:
-
 [Container 61]
 61-0:@This is a Pork Bean recharge station.[WAIT]@It's self-service, so please use it as you see[BREAK]  fit.[PAUSE 5A 00][WAIT]@My job is to stand here and say that this[BREAK]  station is self-service.[END]
 61-0E:
@@ -4812,17 +4773,18 @@
 61-15E:
 61-16:@Bow.[WAIT]  (I'm not very talkative either, actually.)[END]
 61-16E:
-61-17:@*sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00][WAIT]  (This scent...[PAUSE 10 00] it's the smell of a[BREAK]  [ITEM F0 FF]![WAIT]  And, as you can see, I happen to be a stray[BREAK]  dog![WAIT]  So there's only one logical thing for you to do[BREAK]  now.[WAIT]  Please give me that [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
+61-17:@*sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00][WAIT]  (This scent...[PAUSE 10 00] it's the smell of[BREAK]  [EF 91][ITEM F0 FF]![WAIT]  And, as you can see, I happen to be a stray[BREAK]  dog![WAIT]  So there's only one logical thing for you to do[BREAK]  now.[WAIT]  Please give me that [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 61-17E:
+// doggy biscuit or doggy jerky
 61-18:@Bow wow![WAIT]  (I'm exceptionally happy![WAIT]  I want to thank you guys somehow![WAIT]  ...Oh, I know! You can have this!)[END]
 61-18E:
 61-19:@Bow wow![WAIT]  (Take good care of my thank-you gift!)[END]
 61-19E:
 61-20:@*sniff*...[BREAK]  (I can't stop drooling...)[END]
 61-20E:
-61-21:@[42 FF F0 FF] and company got a [ITEM F1 FF]![END]
+61-21:@[42 FF F0 FF] and company got [EF B1][ITEM F1 FF]![END]
 61-21E:
-// pencil rocket for sure, maybe other items too?
+// pencil rocket or bomb
 61-22:@Preserve our beautiful scenery![BREAK]  Please refrain from posting signs.[END]
 61-22E:
 61-23:@Pork Bean Recharge Station[END]
@@ -4833,7 +4795,6 @@
 // Repeats: 61-24, 474-42
 61-25:[END]
 61-25E:
-
 [Container 63]
 63-0:@Oh! Commander![BREAK]  Whatever is the matter?[END]
 63-0E:
@@ -4858,7 +4819,6 @@
 63-9:@He's passed out.[END]
 63-9E:
 // Repeats: 63-9, 400-8
-
 [Container 66]
 66-0:@What's goin' on?[WAIT]@What're you doing, [DUSTER 23 03 00]?[WAIT]@We need to hurry![END]
 66-0E:
@@ -4868,7 +4828,6 @@
 66-2E:
 66-3:@Squeak squeak squeak squeak.[WAIT]  (Guess what! Guess what![WAIT]  Whenever I eat a cookie and munch on it, my[BREAK]  cheeks get all big and chubby![WAIT]  It's so funny when they get like that.[WAIT]  Huh? My mom?[WAIT]  Oh, she's smiley again today.[WAIT]  She's smiley whenever me and her are[BREAK]  together.[WAIT]  So I'm gonna go home now.)[END]
 66-3E:
-
 [Container 67]
 67-0:@Finally! It's about time![END]
 67-0E:
@@ -4900,7 +4859,7 @@
 67-13E:
 67-14:@A quite old Clayman.[END]
 67-14E:
-67-15:@Squeak squeak squeak![WAIT]  Somehow, I feel like something is going to[BREAK]  happen in this garbage dump.[WAIT]@I guess it's just a mouse's sixth sense...[WAIT]  Well, I better head back to Mom now.)[END]
+67-15:@Squeak squeak squeak![WAIT]  (Somehow, I feel like something is going to[BREAK]  happen in this garbage dump.[WAIT]@I guess it's just a mouse's sixth sense...[WAIT]  Well, I better head back to Mom now.)[END]
 67-15E:
 // Much of this comes from an EarthBound quote, this line isn't used in the game though
 67-16:@This is a garbage dump.[WAIT]@So let's throw our busted dreams out with the[BREAK]  rest of our trash![END]
@@ -4911,19 +4870,16 @@
 67-18E:
 67-19:@A scrapped Instant Revitalizing Machine.[END]
 67-19E:
-
 [Container 69]
 69-0:[END]
 69-0E:
 69-1:[END]
 69-1E:
-
 [Container 70]
 70-0:@I'm a debug save frog.[BREAK]@Save?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 70-0E:
 70-1:@Ribbit ribbit.[BREAK]@You're so heartless.[END]
 70-1E:
-
 [Container 72]
 72-0:[HOTSPRING 00 00][END]
 72-0E:
@@ -5028,7 +4984,6 @@
 72-36E:
 72-37:[END]
 72-37E:
-
 [Container 73]
 73-0:@!!![END]
 73-0E:
@@ -5038,13 +4993,11 @@
 73-2E:
 73-3:[END]
 73-3E:
-
 [Container 75]
 75-0:@Squeak squeak squeeeak.[WAIT]  (This house I'm secretly living in got blasted by[BREAK]  lightning.)[END]
 75-0E:
 75-1:[END]
 75-1E:
-
 [Container 77]
 77-0:[HOTSPRING 00 00][END]
 77-0E:
@@ -5133,13 +5086,11 @@
 77-28E:
 77-29:[END]
 77-29E:
-
 [Container 78]
 78-0:@Coming Soon: Oriander Observatory[END]
 78-0E:
 78-1:@The cabin appears to have been destroyed by[BREAK]  a direct lightning strike...[END]
 78-1E:
-
 [Container 79]
 79-0:@Ionia told me you would come here. [HEART][END]
 79-0E:
@@ -5173,7 +5124,6 @@
 79-14E:
 79-15:[END]
 79-15E:
-
 [Container 80]
 80-0:[HOTSPRING 00 00][END]
 80-0E:
@@ -5308,7 +5258,6 @@
 80-50E:
 80-51:[END]
 80-51E:
-
 [Container 81]
 81-0:@Come! Gather around![WAIT]@Come, one and all, fair denizens of Tazmily![WAIT]@Congratulations are in order for the hard work[BREAK]  you put in every single day![END]
 81-0E:
@@ -5440,7 +5389,6 @@
 81-61:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
 81-61E:
 // Repeats: 3-49, 81-61, 211-93
-
 [Container 82]
 82-0:@Lighter![END]
 82-0E:
@@ -5478,7 +5426,6 @@
 82-16E:
 82-17:@A metal box-like object is lying here.[END]
 82-17E:
-
 [Container 83]
 83-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
 83-0E:
@@ -5515,7 +5462,6 @@
 // Repeats: 83-10, 341-10
 83-11:[END]
 83-11E:
-
 [Container 84]
 84-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
 84-0E:
@@ -5535,7 +5481,6 @@
 84-5:@The house has completely collapsed.[END]
 84-5E:
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
-
 [Container 86]
 86-0:@Alright, that should do it![WAIT]@[FLINT 23 01 00]![WAIT]@Be careful coming up![END]
 86-0E:
@@ -5578,7 +5523,6 @@
 86-18E:
 86-19:[END]
 86-19E:
-
 [Container 87]
 87-0:@The forest still smells burnt.[WAIT]  Well, I guess it WAS a pretty big fire and all.[END]
 87-0E:
@@ -5592,7 +5536,6 @@
 87-4E:
 87-5:@A fire, then rain.[WAIT]  And then children's smiles.[WAIT]@It will be all right.[WAIT]@Reggie knows it.[END]
 87-5E:
-
 [Container 88]
 88-0:[END]
 88-0E:
@@ -5646,7 +5589,6 @@
 88-24E:
 88-25:@Woof woof![WAIT]  (Ionia said the other way would be quicker.)[END]
 88-25E:
-
 [Container 89]
 89-0:@I didn't realize it before, 'cause the flames[BREAK]  were so intense at the time,[WAIT]  but it looks like this area over here got hit[BREAK]  really bad by the fire, too.[END]
 89-0E:
@@ -5684,7 +5626,7 @@
 89-16E:
 89-17:@OH[PAUSE 10 00] MY[PAUSE 10 00] PORK!![PAUSE 10 00][WAIT]@What is a baby Drago doing here?![WAIT]@You! Baby Drago! Get outta here![END]
 89-17E:
-89-18:[END]
+89-18:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![END]
 89-18E:
 89-19:@Hey![WAIT]@Get back here, you![END]
 89-19E:
@@ -5712,7 +5654,6 @@
 89-30E:
 89-31:@Okay, monkey![WAIT]@Let's go![END]
 89-31E:
-
 [Container 90]
 90-0:@Squeak squeak squeeeak.[WAIT]  (The house I was secretly living in burned[BREAK]  down.)[END]
 90-0E:
@@ -5723,7 +5664,6 @@
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 90-3:[END]
 90-3E:
-
 [Container 91]
 91-0:[END]
 91-0E:
@@ -5771,14 +5711,12 @@
 91-20E:
 91-21:@[HINAWA 22 08 00] is a wonderful person, so I'm[BREAK]  sure God will look out for her.[END]
 91-21E:
-
 [Container 92]
 92-0:@...[END]
 92-0E:
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 92-1:@.[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00][END]
 92-1E:
-
 [Container 93]
 93-0:[ALTERNATEFONT]@noooooo something[BREAK] here.[END]
 93-0E:
@@ -5792,7 +5730,6 @@
 93-4E:
 93-5:[END]
 93-5E:
-
 [Container 94]
 94-0:[ALTERNATEFONT]@playing ladder.[END]
 94-0E:
@@ -5832,13 +5769,11 @@
 94-16E:
 94-17:[ALTERNATEFONT]@only five can ladder.[END]
 94-17E:
-
 [Container 95]
 95-0:[ALTERNATEFONT]@girl.[END]
 95-0E:
 95-1:[ALTERNATEFONT]@Girl.[BREAK]  am girl.[END]
 95-1E:
-
 [Container 96]
 96-0:[HOTSPRING 00 00][END]
 96-0E:
@@ -5935,13 +5870,11 @@
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 96-31:[END]
 96-31E:
-
 [Container 97]
 97-0:[END]
 97-0E:
 97-1:[END]
 97-1E:
-
 [Container 98]
 98-0:@Are th-th-these the "Barrier Trio"?[WAIT]@Each one of their names is carved here.[END]
 98-0E:
@@ -5981,7 +5914,6 @@
 98-14E:
 98-15:[END]
 98-15E:
-
 [Container 99]
 99-0:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@Business for us is booming now![WAIT]@We mole crickets have found the trick to[BREAK]  commercial success![WAIT]@We sell all sorts of wonderful goods that we[BREAK]  find lying on the... [PAUSE 0F 00]I mean, stock up on.[WAIT]@No one can compete with OUR low, low prices![WAIT]@Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 99-0E:
@@ -6019,7 +5951,6 @@
 // Repeats: 99-14, 139-43
 99-15:[END]
 99-15E:
-
 [Container 100]
 100-0:@It was our Magypsy ancestors who sealed[BREAK]  away the Dark Dragon.[WAIT]@Magypsies have guarded the seven Needles[BREAK]  for many generations since.[END]
 100-0E:
@@ -6066,7 +5997,6 @@
 100-20E:
 100-21:@Oh! Locria is nearing the seventh Needle...[END]
 100-21E:
-
 [Container 101]
 101-0:@In order to read this sign, you had to trample[BREAK]  on the flowers at your feet.[WAIT]@Did you even realize that?[WAIT]@Though the person who placed this sign here is[BREAK]  really the one to blame.[WAIT]@[PAUSE 40 00]Oh, wait. That's me.[PAUSE 10 00] Sorry 'bout that.[WAIT]@Please throw all your empty cans into the[BREAK]  trash bin.[END]
 101-0E:
@@ -6076,7 +6006,6 @@
 101-2E:
 101-3:@There's simply been far too much lightning[BREAK]  lately.[WAIT]@This lightning somehow doesn't seem natural.[WAIT]@That said, I can't imagine there being such a[BREAK]  thing as artificial lightning...[END]
 101-3E:
-
 [Container 102]
 102-0:@A machine for spinning wool.[END]
 102-0E:
@@ -6102,7 +6031,6 @@
 102-10E:
 102-11:@[LUCAS 23 02 00] and [CLAUS 22 05 00]'s springy[BREAK]  bed.[END]
 102-11E:
-
 [Container 103]
 103-0:@I don't have any hard feelings for you.[END]
 103-0E:
@@ -6116,7 +6044,6 @@
 103-4E:
 103-5:@I have nothing to give you.[END]
 103-5E:
-
 [Container 104]
 104-0:@Good morning, Mr. Sleepyhead [LUCAS 23 02 00].[WAIT]@[CLAUS 22 05 00] has been up for a while, playing[BREAK]  with the Dragos.[END]
 104-0E:
@@ -6155,7 +6082,6 @@
 104-16E:
 104-17:[END]
 104-17E:
-
 [Container 105]
 105-0:@I'm in the middle of slowly but surely devising[BREAK]  a plan for finding [HINAWA 22 08 00].[END]
 105-0E:
@@ -6193,19 +6119,16 @@
 105-14E:
 105-15:@This table would be too hard to throw away, if[BREAK]  one felt so inclined.[END]
 105-15E:
-
 [Container 108]
 108-0:[END]
 108-0E:
 108-1:[END]
 108-1E:
-
 [Container 109]
 109-0:@[DUSTER 23 03 00]. Do your best, whatever you're[BREAK]  doing.[WAIT]@I'm going to do my best to help everyone, too.[END]
 109-0E:
 109-1:[END]
 109-1E:
-
 [Container 110]
 110-0:@No one's ever been thrown into Tazmily's jail[BREAK]  before.[WAIT]@You have the honor of being the first.[END]
 110-0E:
@@ -6244,7 +6167,6 @@
 110-16E:
 110-17:@Eat the apple?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 110-17E:
-
 [Container 111]
 111-0:@Oh, [FLINT 23 01 00]...[WAIT]@It's truly hard to bear when younger ones pass[BREAK]  away first.[END]
 111-0E:
@@ -6370,13 +6292,11 @@
 111-60E:
 111-61:[END]
 111-61E:
-
 [Container 112]
 112-0:@It appears to be empty.[WAIT]@Or at least that's what's written here,[BREAK]  so it's probably best not to touch it...[END]
 112-0E:
 112-1:[END]
 112-1E:
-
 [Container 113]
 113-0:@I now re-realize that [HINAWA 22 08 00] was truly[BREAK]  like the sunflower of this village.[WAIT]@Something's definitely changed since then.[END]
 113-0E:
@@ -6390,7 +6310,6 @@
 113-4E:
 113-5:@This wooden Tazmily doll isn't finished yet.[END]
 113-5E:
-
 [Container 114]
 114-0:@Whenever I was having family problems,[BREAK]  [HINAWA 22 08 00] was always there for me.[WAIT]@But now that she's gone...[WAIT]@My problems just get worse and worse now.[END]
 114-0E:
@@ -6400,7 +6319,6 @@
 114-2E:
 114-3:@What at first appeared to be a fishing rod[BREAK]  actually turned out to be a gymnastics baton.[END]
 114-3E:
-
 [Container 115]
 115-0:@Happiness...[WAIT]@*sniffle*...[WAIT]@I might not seem like it, but I'm actually very[BREAK]  happy.[WAIT]@*sniffle*...[END]
 115-0E:
@@ -6411,7 +6329,6 @@
 115-2E:
 115-3:[END]
 115-3E:
-
 [Container 116]
 116-0:@That was a very nice grave old Nippolyte[BREAK]  made.[WAIT]@But...[WAIT]@But I had to come back home.[WAIT]@Seeing [LUCAS 22 03 00]'s sobbing face was just[BREAK]  too much for me to handle...[END]
 116-0E:
@@ -6435,7 +6352,6 @@
 116-8E:
 116-9:[END]
 116-9E:
-
 [Container 117]
 117-0:@[FLINT 22 01 00]...[WAIT]@I'm sorry I was so useless...[WAIT]@Anyways, this is the village bazaar.[WAIT]@If you need anything, just go ahead and take it.[END]
 117-0E:
@@ -6520,7 +6436,6 @@
 117-34E:
 117-35:@This bread is for the people working here.[BREAK]  They eat it whenever they're feeling hungry.[END]
 117-35E:
-
 [Container 118]
 118-0:@[DUSTER 23 03 00]. You're so gloomy.[WAIT]@You should be more outgoing and cheerful![WAIT]@I mean, you almost seem like a thief, y'know![END]
 118-0E:
@@ -6540,13 +6455,11 @@
 118-6E:
 118-7:[END]
 118-7E:
-
 [Container 119]
 119-0:@Whew. So busy, so busy.[END]
 119-0E:
 119-1:@Whew. So busy, so busy.[WAIT]@Umm, monkey?[WAIT]@...Can't you see I'm busy?![END]
 119-1E:
-
 [Container 120]
 120-0:@Rain is a blessing from God.[WAIT]@But inside the tent is a little noisy.[WAIT]@So Reggie come here.[END]
 120-0E:
@@ -6556,7 +6469,6 @@
 120-2E:
 120-3:@Do you come from far away?[END]
 120-3E:
-
 [Container 121]
 121-0:@Ionia's bed.[END]
 121-0E:
@@ -6594,7 +6506,6 @@
 121-16E:
 121-17:[END]
 121-17E:
-
 [Container 122]
 122-0:@Don't forget to use the bathroom before[BREAK]  hitting the hay.[WAIT]  Oh, and be sure to brush your teeth, too.[END]
 122-0E:
@@ -6713,7 +6624,6 @@
 // Repeats: 115-1, 122-54
 122-55:@Oh, my![BREAK]@You're running errands for your owner?[WAIT]@You're such a mature little fella.[END]
 122-55E:
-
 [Container 123]
 123-0:@There you are, [FLINT 23 01 00].[WAIT]@You're all patched up now.[END]
 123-0E:
@@ -6799,7 +6709,6 @@
 123-40E:
 123-41:[END]
 123-41E:
-
 [Container 124]
 124-0:@You're going to work hard for me, starting[BREAK]  tomorrow.[END]
 124-0E:
@@ -6865,7 +6774,6 @@
 124-30E:
 124-31:@He appears to be sleeping very comfortably.[END]
 124-31E:
-
 [Container 126]
 126-0:@I'm Scamp.[WAIT]@Something not right's happening to this village.[BREAK]  I can feel it.[WAIT]@...But that's just me talking to myself.[WAIT]@Oh, [FLINT 23 01 00]! Good of you to come![WAIT]@You weren't the one who taught my cute little[BREAK]  Myrna all those unsavory words, were you?[END]
 126-0E:
@@ -6892,7 +6800,6 @@
 // Repeats: 126-10, 364-1
 126-11:@Scamp's beloved Mr. Beary.[END]
 126-11E:
-
 [Container 127]
 127-0:@Oh, hi, Mr. Thief-Who-Doesn't-Take-Anything.[END]
 127-0E:
@@ -6910,7 +6817,6 @@
 127-6E:
 127-7:[END]
 127-7E:
-
 [Container 128]
 128-0:@[FLINT 23 01 00]...[WAIT]@Umm...[WAIT]@Please just forget that you hit me.[WAIT]@I'm going to forget about it.[WAIT]@Compared to your pain, this is nothing at all.[END]
 128-0E:
@@ -6970,7 +6876,6 @@
 128-24E:
 128-25:[END]
 128-25E:
-
 [Container 129]
 129-0:@Mr. [FLINT 23 01 00]... Here, please have this.[END]
 129-0E:
@@ -7036,7 +6941,6 @@
 129-30E:
 129-31:[END]
 129-31E:
-
 [Container 130]
 130-0:@...Oh. H-[PAUSE 18 00]hello there.[WAIT]@I wasn't the one who decided to place you in[BREAK]  that jail cell.[WAIT]@Really, it wasn't me![END]
 130-0E:
@@ -7062,7 +6966,6 @@
 130-10E:
 130-11:[END]
 130-11E:
-
 [Container 131]
 131-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
 131-0E:
@@ -7118,13 +7021,11 @@
 131-17:@This appears to be some sort of special place.[END]
 131-17E:
 // Repeats: 131-17, 171-17
-
 [Container 132]
 132-0:@Something...[BREAK]  Something bad is starting to take place.[WAIT]@I can feel it.[END]
 132-0E:
 132-1:@*squawk* *squawk*![WAIT]@Something...[BREAK]  Something bad is starting to take place.[WAIT]@I can feel it.[WAIT]@*squawk*![END]
 132-1E:
-
 [Container 136]
 136-0:@Doria's bed.[END]
 136-0E:
@@ -7162,7 +7063,6 @@
 136-16E:
 136-17:@He saved me.[WAIT]@Apparently, that's what fate had in store.[END]
 136-17E:
-
 [Container 137]
 137-0:@It's locked.[END]
 137-0E:
@@ -7213,7 +7113,6 @@
 137-22E:
 137-23:@Don't run around inside, you dummy![WAIT]  It'd be no laughing matter if you stepped on a[BREAK]  bunny![END]
 137-23E:
-
 [Container 138]
 138-0:@SCARINESS SEEMS TO BE WEARING OFF...[WAIT]@AM SENSING MY LIMIT NOW.[WAIT][PAUSE 0F 00]@OH, THAT WAS ME TALKING TO MYSELF.[WAIT]@DID THAT SCARE YOU ALREADY?[END]
 138-0E:
@@ -7248,7 +7147,6 @@
 138-14E:
 138-15:[END]
 138-15E:
-
 [Container 139]
 139-0:@KEEEEEEEEEEEEE!!!![EVENT][END]
 139-0E:
@@ -7364,7 +7262,6 @@
 139-54E:
 139-55:[END]
 139-55E:
-
 [Container 140]
 140-0:@You weakling, stinkling Mr. Saturns![WAIT]@Don't force us to use this Frightbot to make[BREAK]  you cry![END]
 140-0E:
@@ -7398,7 +7295,6 @@
 140-14E:
 140-15:[END]
 140-15E:
-
 [Container 141]
 141-0:@OKAY! HERE COMES THE SCARY![END]
 141-0E:
@@ -7416,7 +7312,6 @@
 141-6E:
 141-7:[ALTERNATEFONT]@me too. boing.[END]
 141-7E:
-
 [Container 142]
 142-0:@[LUCAS 26 03 00 03 00]!![BREAK]  How long're you gonna sleep?![WAIT]  Get up so we can play![WAIT]@Get up, already![WAIT]@The Dragos brought their babies over![WAIT]@They're really cute!![WAIT]@Hurry up![END]
 142-0E:
@@ -7430,7 +7325,6 @@
 142-4E:
 142-5:@A real wood-burning stove.[END]
 142-5E:
-
 [Container 143]
 143-0:@Oh, [LUCAS 22 03 00].[WAIT]@Your house certainly enjoys being struck by[BREAK]  lightning, I must say![WAIT]@Do you STILL intend to live in it, after all the[BREAK]  fires and scorching and whatnot?[WAIT]@I must admit, it's a real downer on Tazmily[BREAK]  Village's image.[WAIT]@Oh, yes, yes...[WAIT]@Your maternal grandfather has moved into the[BREAK]  new and shiny retirement home.[WAIT]@Where is it? ...Across the way, that-a-way.[END]
 143-0E:
@@ -7481,25 +7375,21 @@
 143-15:@A nice vase.[END]
 143-15E:
 // Repeats: 143-15, 149-15, 161-15
-
 [Container 145]
 145-0:@Regular ol' mice, run-of-the-mill snakes,[BREAK]  and ordinary Dragos...[WAIT]@When you think about it, the forest sure was[BREAK]  boring until three years ago.[END]
 145-0E:
 145-1:[END]
 145-1E:
-
 [Container 146]
 146-0:[END]
 146-0E:
 146-1:[END]
 146-1E:
-
 [Container 147]
 147-0:[END]
 147-0E:
 147-1:[END]
 147-1E:
-
 [Container 148]
 148-0:@I haven't seen ol' [FLINT 23 01 00] lately.[BREAK]  How's he doing?[WAIT]@Is he visiting her grave again?[END]
 148-0E:
@@ -7509,7 +7399,6 @@
 148-2E:
 148-3:@You've really grown up.[WAIT]@You even look a little like [FLINT 22 01 00] now.[WAIT]@Oh, but you look like [HINAWA 22 08 00], too.[WAIT]@But you look most like your twin brother[BREAK]  [CLAUS 22 05 00], of course.[WAIT]@I wonder where he is and what he's up to...[END]
 148-3E:
-
 [Container 149]
 149-0:@Oh, [LUCAS 22 03 00].[WAIT]@Your house certainly enjoys being struck by[BREAK]  lightning, I must say![WAIT]@Do you STILL intend to live in it, after all the[BREAK]  fires and scorching and whatnot?[WAIT]@I must admit, it's a real downer on Tazmily[BREAK]  Village's image.[WAIT]@Oh, yes, yes...[WAIT]@Your maternal grandfather has moved into the[BREAK]  new and shiny retirement home.[WAIT]@Where is it? ...Across the way, that-a-way.[END]
 149-0E:
@@ -7575,7 +7464,6 @@
 149-22E:
 149-23:[END]
 149-23E:
-
 [Container 150]
 150-0:@Some moron by the name of [FLINT 23 01 00][BREAK]  busted the lock on this door.[WAIT]@So now I have to stand here like this to hold it[BREAK]  shut.[END]
 150-0E:
@@ -7601,13 +7489,11 @@
 150-10E:
 150-11:[END]
 150-11E:
-
 [Container 152]
 152-0:@Dona's training kickboard.[BREAK]  She doesn't know how to swim.[END]
 152-0E:
 152-1:@Dona's surfboard.[BREAK]  She doesn't know how to swim.[END]
 152-1E:
-
 [Container 153]
 153-0:@In the old days, we sent letters by dove.[WAIT]@And now look at how we do things.[END]
 153-0E:
@@ -7622,7 +7508,6 @@
 153-4E:
 153-5:[END]
 153-5E:
-
 [Container 154]
 154-0:@Oh, [LUCAS 22 03 00].[WAIT]@Do you still not have a Happy Box at home?[END]
 154-0E:
@@ -7648,7 +7533,6 @@
 154-10E:
 154-11:[END]
 154-11E:
-
 [Container 155]
 155-0:@This hotel's poster girl is so cute![WAIT]@I wonder what her name is.[END]
 155-0E:
@@ -7694,7 +7578,6 @@
 155-20E:
 155-21:@This is a cleaning supply closet now.[END]
 155-21E:
-
 [Container 156]
 156-0:@The guy who looks just like [DUSTER 23 03 00]?[BREAK]  He's over at Club Titiboo.[WAIT]@He's got different hair, but other than that, he[BREAK]  definitely looks like him.[WAIT]@Especially that bum-like vibe he has.[END]
 156-0E:
@@ -7708,7 +7591,6 @@
 156-4E:
 156-5:[END]
 156-5E:
-
 [Container 157]
 157-0:@My dad is working over at the factory, so he[BREAK]  left me in charge of the store.[WAIT]@Would you like to buy something?[END]
 157-0E:
@@ -7730,7 +7612,6 @@
 157-8E:
 157-9:@A display case.[BREAK]  Knick-knacks are lined up inside it.[END]
 157-9E:
-
 [Container 158]
 158-0:@......[END]
 158-0E:
@@ -7744,7 +7625,6 @@
 158-4E:
 158-5:[END]
 158-5E:
-
 [Container 159]
 159-0:@Wow! What a pretty person![END]
 159-0E:
@@ -7754,13 +7634,11 @@
 159-2E:
 159-3:[END]
 159-3E:
-
 [Container 160]
 160-0:@Reggie liked living in tent better.[WAIT]@[LUCAS 22 03 00].[WAIT]@Reggie is sure you feel similar way.[END]
 160-0E:
 160-1:[END]
 160-1E:
-
 [Container 161]
 161-0:@Oh, [LUCAS 22 03 00].[WAIT]@Your house certainly enjoys being struck by[BREAK]  lightning, I must say![WAIT]@Do you STILL intend to live in it, after all the[BREAK]  fires and scorching and whatnot?[WAIT]@I must admit, it's a real downer on Tazmily[BREAK]  Village's image.[WAIT]@Oh, yes, yes...[WAIT]@Your maternal grandfather has moved into the[BREAK]  new and shiny retirement home.[WAIT]@Where is it? ...Across the way, that-a-way.[END]
 161-0E:
@@ -7819,7 +7697,6 @@
 161-18E:
 161-19:[END]
 161-19E:
-
 [Container 162]
 162-0:@Attention, guests staying here on group work[BREAK]  retreats:[WAIT]@Please talk in whispered voices when[BREAK]  conducting meetings. Thank you.[END]
 162-0E:
@@ -7865,19 +7742,16 @@
 162-20E:
 162-21:[END]
 162-21E:
-
 [Container 163]
 163-0:@Why did you come in here?[WAIT]@What was your reason?[WAIT]    1. Because I was enamoring.[WAIT]    2. So you could flirt with me.[WAIT]    3. Because you like me.[WAIT]    4. Other[WAIT]  Which is it?![END]
 163-0E:
 163-1:@I've decided to call you "Other".[WAIT]@You're so boring![END]
 163-1E:
-
 [Container 164]
 164-0:@The two of us have been searching for[BREAK]  something for a long time.[WAIT]@But no matter how hard we try, we just can't[BREAK]  seem to find it.[WAIT]  We looked for it so much that we somehow[BREAK]  wound up out here in the sticks.[END]
 164-0E:
 164-1:@We've been looking for it for a long time.[WAIT]@Just can't seem to find it, though.[END]
 164-1E:
-
 [Container 165]
 165-0:@*sniffle*[WAIT]@Grandpa and I are supposed to go to the beach[BREAK]  after I change into my swimsuit,[WAIT]  but I can't take my eyes off this Happy Box.[WAIT]@*sniffle*[END]
 165-0E:
@@ -7887,7 +7761,6 @@
 165-2E:
 165-3:@I've been staying here a long time, pretending[BREAK]  I have money, [PAUSE 20 00]but I actually don't.[WAIT]@I dunno what to do, so I'm gonna stay in here[BREAK]  again today.[WAIT]@I'm afraid. Every day I'm so afraid.[WAIT]@I can't leave my room, I'm so scared they'll[BREAK]  demand that I pay up.[END]
 165-3E:
-
 [Container 166]
 166-0:@Time really flies.[WAIT]@It's almost been half a year since ol' Scamp[BREAK]  passed away.[WAIT]@I get the feeling it's rare for scamps like him[BREAK]  to be so easily forgotten.[WAIT]@So, in that sense, he's a great scamp.[END]
 166-0E:
@@ -7902,7 +7775,6 @@
 166-4E:
 166-5:[END]
 166-5E:
-
 [Container 167]
 167-0:@Oh, [LUCAS 23 02 00].[WAIT]@Are you so jealous of my happiness that[BREAK]  you've come to see it for yourself?[END]
 167-0E:
@@ -7924,7 +7796,6 @@
 167-8E:
 167-9:@Just seeing Abbot so lively and excited makes[BREAK]  me happy.[END]
 167-9E:
-
 [Container 168]
 168-0:@Linda is over at the retirement home again,[BREAK]  taking care of the senior citizens there.[WAIT]@I wish she'd take care of me, too...[END]
 168-0E:
@@ -7938,7 +7809,6 @@
 168-4E:
 168-5:@A wide-screen, flat-panel thing.[BREAK]  Is it a type of Happy Box?[END]
 168-5E:
-
 [Container 169]
 169-0:@Oh, [LUCAS 23 02 00]. Welcome.[WAIT]@Fuel's been helping out around the store lately.[BREAK]  He's a real life-saver.[WAIT]@Oh, are you here to buy something?[WAIT]  What can I get you?[END]
 169-0E:
@@ -7964,13 +7834,11 @@
 169-10E:
 169-11:@Freshly-baked bread. Not to be poked at.[END]
 169-11E:
-
 [Container 170]
 170-0:@I'm the producer for "Mr. Pirkle and Ms.[BREAK]  Lardna's Love Nest".[END]
 170-0E:
 170-1:@The wallpaper here is made to look like a filled[BREAK]  bookcase.[END]
 170-1E:
-
 [Container 171]
 171-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
 171-0E:
@@ -8030,13 +7898,11 @@
 171-18E:
 171-19:@It used to be that Tazmily's villagers were the[BREAK]  only people you saw around here,[WAIT]  but these days, visitors from far away have[BREAK]  been growing in number.[WAIT]@And those visitors[PAUSE 20 00] are us![WAIT]@Hahahahaha![END]
 171-19E:
-
 [Container 172]
 172-0:@*squawk* *squawk*![BREAK]  I'm not stuffed![WAIT]@I'm alive![PAUSE 1E 00] I'm plenty alive, dagnabbit![END]
 172-0E:
 172-1:[END]
 172-1E:
-
 [Container 173]
 173-0:@Today's Menu[WAIT]@[FAVFOOD] Bowl[BREAK]@[FAVFOOD] Curry[BREAK]@[FAVFOOD] Fried Rice[BREAK]@[FAVFOOD] Egg Soup[BREAK]@[FAVFOOD] Soup[BREAK]@Meh Salad with [FAVFOOD] Topping[BREAK]@[FAVFOOD] Lunch[BREAK]@[FAVFOOD] Combo[BREAK]@[FAVFOOD] Set[BREAK]@Jumbo [FAVFOOD][BREAK]@[FAVFOOD] Parfait[BREAK]@[FAVFOOD] Juice[BREAK]@[FAVFOOD] Special[END]
 173-0E:
@@ -8068,13 +7934,11 @@
 173-12E:
 173-13:@Compared to, like, people long ago, don't you[BREAK]  think we drink, like, way more water?[WAIT]@Like, people in the old days didn't drink this[BREAK]  much water, y'know?[WAIT]@My old man, he, like, drinks waaaay less water[BREAK]  than me.[WAIT]@When I, like, think about that, I, like, sorta feel[BREAK]  like people are a lost cause, you know?![WAIT]@Like, if something happens, I, like, HAVE to[BREAK]  have my water![WAIT]@Are we sea monsters?[PAUSE 2D 00] Of course we're not![WAIT]  We ARE, like, human, though![WAIT]@But we drink water.[WAIT]@Hey, you! You even listenin' to me?![END]
 173-13E:
-
 [Container 174]
 174-0:@Ooh! Look at him suck up the water![END]
 174-0E:
 174-1:@Ooooh![WAIT]@The pond is slowly emptying![WAIT]@More! Do more![END]
 174-1E:
-
 [Container 175]
 175-0:@Ooh, just look at him swagger away so[BREAK]  confidently! [HEART][WAIT]@He leaves the stage with such a calm air[BREAK]  about him![WAIT]@A natural if I ever saw one![BREAK]  What a casanova! [HEART][WAIT][PAUSE 20 00]@Bravo, Mr. Pump! [HEART][END]
 175-0E:
@@ -8159,19 +8023,16 @@
 175-36E:
 175-37:@See you later, if we ever get the chance![END]
 175-37E:
-
 [Container 176]
 176-0:@Leave Snowcap Mountain?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 176-0E:
 176-1:[END]
 176-1E:
-
 [Container 177]
 177-0:@Ooooh![BREAK]@Look! Look![WAIT]@Just look at him go![WAIT]@It's enough to give me chills![END]
 177-0E:
 177-1:[END]
 177-1E:
-
 [Container 180]
 180-0:[HOTSPRING 00 00][END]
 180-0E:
@@ -8335,7 +8196,6 @@
 180-62E:
 180-63:@Let's switch places.[WAIT]@Let's switch places.[WAIT]@[LUCAS 23 02 00]. [LUCAS 23 02 00].[BREAK]  Let's switch places.[WAIT]@You're more...[PAUSE 1E 00][BREAK]  You're more...[END]
 180-63E:
-
 [Container 181]
 181-0:[HOTSPRING 00 00][END]
 181-0E:
@@ -8453,7 +8313,6 @@
 181-39:@Ribbit, ribbit![WAIT]@Will the snake's gastric juices win, or will my[BREAK]  focused determination prevail?[WAIT]@I didn't get swallowed - this is actually a[BREAK]  one-on-one, all-out battle.[END]
 181-39E:
 // Repeats: 181-39, 192-33
-
 [Container 182]
 182-0:[HOTSPRING 00 00][END]
 182-0E:
@@ -8575,7 +8434,6 @@
 182-42E:
 182-43:[END]
 182-43E:
-
 [Container 184]
 184-0:[END]
 184-0E:
@@ -8593,7 +8451,6 @@
 184-6E:
 184-7:[END]
 184-7E:
-
 [Container 186]
 186-0:@There's the Needle![END]
 186-0E:
@@ -8669,31 +8526,26 @@
 186-35:@You can expect to see more of me in your[BREAK]  dreams from now on. [HEART][WAIT]@*giggle* Goodbye! [HEART][END]
 186-35E:
 // Repeats: 186-35, 224-8
-
 [Container 187]
 187-0:@I'm Loner, the explorer.[WAIT]@Ha! Oh, man![WAIT]@You're going to wander around this volcano[BREAK]  dressed like THAT...?[WAIT]@This is why I can't stand no-brained newbies.[WAIT]@Alright, alright, fine.[WAIT]@I'll share some of my adventurer essentials[BREAK]  with you.[WAIT]@Do you need anything?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 187-0E:
 187-1:@Ha! Oh, man![BREAK]@You don't need anything, huh?[WAIT]@I don't know if you're brave youngsters or just[BREAK]  brain-dead simpletons,[WAIT]  but be extra careful out there![END]
 187-1E:
-
 [Container 188]
 188-0:@Welcome![WAIT]@I'm surprised anyone would come to such a[BREAK]  cold place![END]
 188-0E:
 188-1:[END]
 188-1E:
-
 [Container 189]
 189-0:@Hello! Welcome to Snowcap Mountain![WAIT]@I'm a snowman that Lydia made![END]
 189-0E:
 189-1:[END]
 189-1E:
-
 [Container 190]
 190-0:@Lydia is a very kind person.[WAIT]@We snowmen love Lydia.[END]
 190-0E:
 190-1:[END]
 190-1E:
-
 [Container 192]
 192-0:[HOTSPRING 00 00][END]
 192-0E:
@@ -8850,7 +8702,6 @@
 // Repeats: 36-93, 192-56
 192-57:@Yes. The ocean IS filled with danger.[END]
 192-57E:
-
 [Container 194]
 194-0:@[FLINT 22 01 00] is always offering flowers.[END]
 194-0E:
@@ -8928,7 +8779,6 @@
 // Repeats: 194-34, 195-8, 200-10
 194-35:[END]
 194-35E:
-
 [Container 195]
 195-0:@Wife of [FLINT 23 01 00].[WAIT]  Mother of the twins[BREAK]  [CLAUS 22 05 00] and [LUCAS 23 02 00].[WAIT]@Daughter of Alec.[WAIT]@May the beautiful [HINAWA 22 08 00] rest in peace[BREAK]  here for all time.[END]
 195-0E:
@@ -8952,7 +8802,6 @@
 // Repeats: 194-34, 195-8, 200-10
 195-9:[END]
 195-9E:
-
 [Container 196]
 196-0:@Oh, hello, [LUCAS 23 02 00].[WAIT]@Your grandfather is upstairs, in the room on[BREAK]  the far left.[END]
 196-0E:
@@ -9009,7 +8858,6 @@
 // Repeats: 196-16, 196-17, 196-18, 196-19, 196-20, 196-21, 196-22
 196-23:[END]
 196-23E:
-
 [Container 197]
 197-0:[END]
 197-0E:
@@ -9027,7 +8875,6 @@
 197-6E:
 197-7:[END]
 197-7E:
-
 [Container 198]
 198-0:@Oh, [LUCAS 22 03 00]. How've you been?[WAIT]@Lightning hit my mountain cabin a million times,[BREAK]  making it impossible to live in anymore.[WAIT]@I know it's hard to imagine the lightning was[BREAK]  trying to hit my house specifically...[WAIT]  ...but come on! One million times?![END]
 198-0E:
@@ -9058,7 +8905,6 @@
 198-13:@[DUSTER 23 03 00]...![WAIT]  Oh, you nodded! You smiled![WAIT]@[DUSTER 23 03 00]![WAIT]@So, you've finally remembered that you're t[PAUSE 1E 00]h[PAUSE 1E 00]e[PAUSE 1E 00][BREAK]  [DUSTER 23 03 00]?[WAIT]@Wahaha-hahaha![WAIT]  I see! I see![PAUSE 1E 00] That's great.[WAIT]@[LUCAS 23 02 00]... Thank you[PAUSE 20 00] for going out of[BREAK]  your way to tell me about [DUSTER 23 03 00].[WAIT]@Say, [DUSTER 23 03 00]...[WAIT]  Be thankful to [LUCAS 23 02 00] and his friend.[BREAK]  Make sure you're helpful to them.[WAIT]@Anyways, let's meet again sometime. We'll[BREAK]  kick up our feet and take it easy.[WAIT][PAUSE 3C 00]@Now get going already! This is embarrassing...[END]
 198-13E:
 // same line as last, but this is said when kumatora isn't in your party
-
 [Container 199]
 199-0:@Coo, coooo.[WAIT]  (That's a fancy shirt you have.)[END]
 199-0E:
@@ -9100,7 +8946,6 @@
 199-18E:
 199-19:@This appears to be a mouse hole.[WAIT]  It almost seems like a mouse could pop out at[BREAK]  any moment.[END]
 199-19E:
-
 [Container 200]
 200-0:@Oh, [LUCAS 23 02 00].[WAIT]@Did you come all the way here to see me?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 200-0E:
@@ -9127,7 +8972,6 @@
 // Repeats: 194-34, 195-8, 200-10
 200-11:[END]
 200-11E:
-
 [Container 203]
 203-0:[HOTSPRING 00 00][END]
 203-0E:
@@ -9326,13 +9170,11 @@
 // Repeats: 203-64, 263-64
 203-65:[END]
 203-65E:
-
 [Container 204]
 204-0:[END]
 204-0E:
 204-1:[END]
 204-1E:
-
 [Container 207]
 207-0:[HOTSPRING 00 00][END]
 207-0E:
@@ -9466,13 +9308,11 @@
 207-50E:
 207-51:[ALTERNATEFONT]@leave it to me.[END]
 207-51E:
-
 [Container 209]
 209-0:[END]
 209-0E:
 209-1:[END]
 209-1E:
-
 [Container 210]
 210-0:@The contents of these boxes cost money.[WAIT]@Please refrain from using them without paying.[END]
 210-0E:
@@ -9511,7 +9351,6 @@
 210-13:@Tazmily gerberas are [HINAWA 22 08 00]'s[BREAK]  favorite flowers, after sunflowers.[END]
 210-13E:
 // Repeats: 2-38, 12-38, 210-13
-
 [Container 211]
 211-0:@...[EVENT][END]
 211-0E:
@@ -9708,7 +9547,6 @@
 211-93:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
 211-93E:
 // Repeats: 3-49, 81-61, 211-93
-
 [Container 212]
 212-0:@It's a sketch of the area.[END]
 212-0E:
@@ -9770,16 +9608,16 @@
 212-19:@Lower the drawbridge?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 212-19E:
 // Repeats: 11-19, 212-19, 213-19
-212-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
+212-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Specimen Room[RIGHT][BREAK]  [LEFT]Ultimate Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 212-20E:
 // Repeats: 11-20, 212-20, 213-20
-212-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+212-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninvited Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
 212-21E:
 // Repeats: 11-21, 212-21, 213-21
-212-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
+212-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Saturn Ladder[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destroyed[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Cerulean Beach[RIGHT][BREAK][ENDCHOICES][END]
 212-22E:
 // Repeats: 11-22, 212-22, 213-22
-212-23:@Go how far into Tanetane Island?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Tanetane Beach[RIGHT][BREAK]  [LEFT]Funky Beach[RIGHT][BREAK]  [LEFT]Missy's House[RIGHT][BREAK]  [LEFT]Island Hill[RIGHT][BREAK]  [LEFT]Defeated[RIGHT][BREAK]  [LEFT]Octopus Ride[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
+212-23:@Go how far into Tanetane Island?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Tanetane Beach[RIGHT][BREAK]  [LEFT]Funky Beach[RIGHT][BREAK]  [LEFT]Missy's House[RIGHT][BREAK]  [LEFT]Island Hill[RIGHT][BREAK]  [LEFT]Defeated[RIGHT][BREAK]  [LEFT]Octopus Ride[RIGHT][BREAK]  [LEFT]Cerulean Beach[RIGHT][BREAK][ENDCHOICES][END]
 212-23E:
 // Repeats: 11-23, 212-23, 213-23
 212-24:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Allow me to discuss one of the main tricks to[BREAK]  fighting.[WAIT]  How you and the enemy come into contact[WAIT]  can give you the advantage or disadvantage[BREAK]  in the battle that follows.[WAIT]  The truth is, you won't always encounter the[BREAK]  enemy head-to-head every time.[WAIT]  If you manage to sneak up on the enemy from[BREAK]  behind or the side, you'll have the upper hand.[WAIT]  The enemy will be facing backwards when you[BREAK]  enter battle, you see.[WAIT]  Conversely, if the enemy sneaks up on you[BREAK]  from behind or from the side,[WAIT]  YOU'LL be facing backwards at the start of[BREAK]  the battle, putting you at a real disadvantage.[WAIT]  When the upper hand is yours, you'll see the[BREAK]  things in front of you turn green before battle,[WAIT]  and when the enemy has the upper hand, you'll[BREAK]  see red instead.[WAIT]  When you're on equal terms, everything will[BREAK]  seem blue-ish, for lack of a better term.[WAIT]  Anyway, to sum everything up,[WAIT]  "Go forth,[PAUSE 18 00] young man.[PAUSE 18 00] Go, go, go!"[PAUSE 20 00] and all that.[WAIT]  So there you have it.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
@@ -9804,7 +9642,6 @@
 212-31:@It's a sketch of the area.[END]
 212-31E:
 // Repeats: 11-0, 212-0, 212-31, 213-0, 213-30, 223-19
-
 [Container 213]
 213-0:@It's a sketch of the area.[END]
 213-0E:
@@ -9866,16 +9703,16 @@
 213-19:@Lower the drawbridge?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 213-19E:
 // Repeats: 11-19, 212-19, 213-19
-213-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Spec. Room[RIGHT][BREAK]  [LEFT]Ult. Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
+213-20:@Go how far into Murasaki Forest?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Chimera Lab[RIGHT][BREAK]  [LEFT]Specimen Room[RIGHT][BREAK]  [LEFT]Ultimate Chimera[RIGHT][BREAK]  [LEFT]Doria's Gate[RIGHT][BREAK]  [LEFT]Pump Chimera[RIGHT][BREAK]  [LEFT]Heart Needle[RIGHT][BREAK]  [LEFT]Doria's Gate 2[RIGHT][BREAK][ENDCHOICES][END]
 213-20E:
 // Repeats: 11-20, 212-20, 213-20
-213-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninv. Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
+213-21:@Go how far into Snowcap Mountain?[BREAK][MENU 05 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Lydia's House[RIGHT][BREAK]  [LEFT]Uninvited Guest[RIGHT][BREAK]  [LEFT]Riding Sled[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK][ENDCHOICES][END]
 213-21E:
 // Repeats: 11-21, 212-21, 213-21
-213-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destr.[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
+213-22:@Go how far into Saturn Valley?[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Saturn Bean[RIGHT][BREAK]  [LEFT]Saturn Valley[RIGHT][BREAK]  [LEFT]Saturn Ladder[RIGHT][BREAK]  [LEFT]Phrygia[RIGHT][BREAK]  [LEFT]Volcano[RIGHT][BREAK]  [LEFT]Tunnel Destroyed[RIGHT][BREAK]  [LEFT]Birdcage[RIGHT][BREAK]  [LEFT]Cerulean Beach[RIGHT][BREAK][ENDCHOICES][END]
 213-22E:
 // Repeats: 11-22, 212-22, 213-22
-213-23:@Go how far into Tanetane Island?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Tanetane Beach[RIGHT][BREAK]  [LEFT]Funky Beach[RIGHT][BREAK]  [LEFT]Missy's House[RIGHT][BREAK]  [LEFT]Island Hill[RIGHT][BREAK]  [LEFT]Defeated[RIGHT][BREAK]  [LEFT]Octopus Ride[RIGHT][BREAK]  [LEFT]Ceru. Beach[RIGHT][BREAK][ENDCHOICES][END]
+213-23:@Go how far into Tanetane Island?[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Tanetane Beach[RIGHT][BREAK]  [LEFT]Funky Beach[RIGHT][BREAK]  [LEFT]Missy's House[RIGHT][BREAK]  [LEFT]Island Hill[RIGHT][BREAK]  [LEFT]Defeated[RIGHT][BREAK]  [LEFT]Octopus Ride[RIGHT][BREAK]  [LEFT]Cerulean Beach[RIGHT][BREAK][ENDCHOICES][END]
 213-23E:
 // Repeats: 11-23, 212-23, 213-23
 213-24:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  Allow me to discuss one of the main tricks to[BREAK]  fighting.[WAIT]  How you and the enemy come into contact[WAIT]  can give you the advantage or disadvantage[BREAK]  in the battle that follows.[WAIT]  The truth is, you won't always encounter the[BREAK]  enemy head-to-head every time.[WAIT]  If you manage to sneak up on the enemy from[BREAK]  behind or the side, you'll have the upper hand.[WAIT]  The enemy will be facing backwards when you[BREAK]  enter battle, you see.[WAIT]  Conversely, if the enemy sneaks up on you[BREAK]  from behind or from the side,[WAIT]  YOU'LL be facing backwards at the start of[BREAK]  the battle, putting you at a real disadvantage.[WAIT]  When the upper hand is yours, you'll see the[BREAK]  things in front of you turn green before battle,[WAIT]  and when the enemy has the upper hand, you'll[BREAK]  see red instead.[WAIT]  When you're on equal terms, everything will[BREAK]  seem blue-ish, for lack of a better term.[WAIT]  Anyway, to sum everything up,[WAIT]  "Go forth,[PAUSE 18 00] young man.[PAUSE 18 00] Go, go, go!"[PAUSE 20 00] and all that.[WAIT]  So there you have it.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
@@ -9927,7 +9764,6 @@
 213-44E:
 213-45:[END]
 213-45E:
-
 [Container 215]
 215-0:@...Is that...?[END]
 215-0E:
@@ -9938,13 +9774,11 @@
 215-3:@[DUSTER 23 03 00]...[WAIT]@It's me, the Rope Snake...[WAIT]@I know this isn't the best time to chat, but I[BREAK]  have some good news for me[WAIT]  and bad news[PAUSE 20 00] for you.[WAIT]@The good news for me.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]  is that although we haven't known each other[BREAK]  long, I'm now a major character in the story,[WAIT]  thanks to you.[PAUSE 20 00][WAIT]@And the bad news for you.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]  is that my jaw isn't sturdy enough to support[BREAK]  the weight of three people and one dog.[PAUSE 40 00][WAIT]@In other words, my jaw.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][WAIT]@It's.[PAUSE 10 00].[PAUSE 10 00]. at its.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00] limit.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][BREAK]  This is[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]. literally[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]. jaw-dropping![END]
 215-3E:
 // the Japanese text has a jaw-related pun at the end too. I think the English pun is actually better, though :D
-
 [Container 216]
 216-0:[END]
 216-0E:
 216-1:[END]
 216-1E:
-
 [Container 219]
 219-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
 219-0E:
@@ -10102,13 +9936,11 @@
 219-51:@Ribbit ribbit.[WAIT]@Rabbit rabbit.[END]
 219-51E:
 // Repeats: 21-47, 219-51
-
 [Container 220]
 220-0:[END]
 220-0E:
 220-1:[END]
 220-1E:
-
 [Container 222]
 222-0:[END]
 222-0E:
@@ -10378,7 +10210,6 @@
 // Repeats: 222-88, 506-88
 222-89:[END]
 222-89E:
-
 [Container 223]
 223-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
 223-0E:
@@ -10443,7 +10274,6 @@
 223-21:@My humble little [FAVFOOD] patch.[END]
 223-21E:
 // Repeats: 11-13, 212-13, 212-30, 213-13, 213-29, 223-21
-
 [Container 224]
 224-0:@Phrygia's bed.[END]
 224-0E:
@@ -10459,14 +10289,13 @@
 224-5E:
 224-6:@There is a boulder blocking the path to the[BREAK]  volcano.[WAIT]  You should give it some [ITEM B6 00].[WAIT]@Well, good luck. [HEART][BREAK]@Smoochie smoochie. [HEART][END]
 224-6E:
-224-7:@The Needle in the Dragon's right foot is in the[BREAK]  volcanic crater.[WAIT]@Well, good luck. [HEART][WAIT]@Smoochie smoochie. [HEART][END]
+224-7:@The Needle in the Dragon's right hand is in the[BREAK]  volcanic crater.[WAIT]@Well, good luck. [HEART][WAIT]@Smoochie smoochie. [HEART][END]
 224-7E:
 224-8:@You can expect to see more of me in your[BREAK]  dreams from now on. [HEART][WAIT]@*giggle* Goodbye! [HEART][END]
 224-8E:
 // Repeats: 186-35, 224-8
 224-9:[END]
 224-9E:
-
 [Container 225]
 225-0:@Aeolia's bed.[END]
 225-0E:
@@ -10624,7 +10453,6 @@
 225-51:@Petite, pretty sweets.[WAIT]  And rose hip tea and other such things.[END]
 225-51E:
 // Repeats: 225-51, 254-51
-
 [Container 226]
 226-0:@Mixo's bed.[END]
 226-0E:
@@ -10675,7 +10503,6 @@
 226-22E:
 226-23:@Obtained all your items that had been washed[BREAK]  away![END]
 226-23E:
-
 [Container 228]
 228-0:@(Nnggg!)[END]
 228-0E:
@@ -10690,7 +10517,6 @@
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 228-5:[END]
 228-5E:
-
 [Container 229]
 229-0:@Oh, time started flowing again for the vines...[END]
 229-0E:
@@ -10704,13 +10530,11 @@
 229-4E:
 229-5:@Of course, I have to walk alllll the way around.[BREAK]  *grumble* *grumble*[END]
 229-5E:
-
 [Container 230]
 230-0:[END]
 230-0E:
 230-1:[END]
 230-1E:
-
 [Container 233]
 233-0:@Oww![END]
 233-0E:
@@ -10824,65 +10648,55 @@
 233-51E:
 233-52:@*hop*.[WAIT]  Now that my saving job is over, I think I'll[BREAK]  settle down and take care of the tadpoles.[WAIT]@Thank you for everything.[BREAK]  [PAUSE 3C 00]No, wait, it's the other way around.[PAUSE 3C 00][WAIT]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Whoa[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 18 00]a[PAUSE 20 00]a[PAUSE 28 00]a~[WAIT]  I've just been possessed by the spirit of the[BREAK]  translation developers...![WAIT]@Heya! Here's something you might not have[BREAK]  known![WAIT]@Press and hold the L and R Buttons when[BREAK]  entering the Status menu.[WAIT]@Something will happen when you do this.[BREAK]  But it's a secret, so don't tell anyone![WAIT]@Okay, time to go back to being a regular frog![WAIT]@...[WAIT]@...[WAIT]@Thank you for everything.[END]
 233-52E:
-// this replaces the frog's text if you have the silver star at the end
+// this replaces the frog's text if you have either the bronze or the silver star at the end
 233-53:@*hop*.[WAIT]  Now that my saving job is over, I think I'll[BREAK]  settle down and take care of the tadpoles.[WAIT]@Thank you for everything.[BREAK]  [PAUSE 3C 00]No, wait, it's the other way around.[PAUSE 3C 00][WAIT]@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Whoa[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 10 00]a[PAUSE 18 00]a[PAUSE 20 00]a[PAUSE 28 00]a~[WAIT]  I've just been possessed by the spirit of the[BREAK]  translation developers...![WAIT]@Wow! You must be a real hardcore fan of this[BREAK]  game to completely fill up your Battle Memory![WAIT]@You're amazing![WAIT]@So amazing that you deserve an extra bonus![BREAK]  So listen close![WAIT]@Name yourself "HARD MODE" in Chapter 1! It'll[BREAK]  make things a bit more challenging! Good luck![WAIT]@But this is a secret just between you and me,[BREAK]  so don't tell aaaaanyone![WAIT]@Okay, time to go back to being a regular frog![WAIT]@...[WAIT]@...[WAIT]@Thank you for everything.[END]
 233-53E:
-// this replaces the frog's text if you have the gold + silver star at the end
-
+// this replaces the frog's text if you have the gold star at the end
 [Container 239]
 239-0:[END]
 239-0E:
 239-1:[END]
 239-1E:
-
 [Container 240]
 240-0:[END]
 240-0E:
 240-1:[END]
 240-1E:
-
 [Container 241]
 241-0:[END]
 241-0E:
 241-1:[END]
 241-1E:
-
 [Container 242]
 242-0:[END]
 242-0E:
 242-1:[END]
 242-1E:
-
 [Container 243]
 243-0:[END]
 243-0E:
 243-1:[END]
 243-1E:
-
 [Container 244]
 244-0:[END]
 244-0E:
 244-1:[END]
 244-1E:
-
 [Container 246]
 246-0:[END]
 246-0E:
 246-1:[END]
 246-1E:
-
 [Container 247]
 247-0:[END]
 247-0E:
 247-1:[END]
 247-1E:
-
 [Container 248]
 248-0:[END]
 248-0E:
 248-1:[END]
 248-1E:
-
 [Container 249]
 249-0:[HOTSPRING 00 00][END]
 249-0E:
@@ -10967,7 +10781,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 249-27:[END]
 249-27E:
-
 [Container 250]
 250-0:[HOTSPRING 00 00][END]
 250-0E:
@@ -11052,7 +10865,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 250-27:[END]
 250-27E:
-
 [Container 251]
 251-0:[HOTSPRING 00 00][END]
 251-0E:
@@ -11157,7 +10969,6 @@
 251-36E:
 251-37:@What the...?[BREAK]@You don't have enough to cover the sales tax.[WAIT]@There's so many people like that lately.[END]
 251-37E:
-
 [Container 252]
 252-0:[HOTSPRING 00 00][END]
 252-0E:
@@ -11254,7 +11065,6 @@
 252-32E:
 252-33:[END]
 252-33E:
-
 [Container 253]
 253-0:@A Magypsy's beloved bed.[WAIT]@On it is Fassad's clothing...?[END]
 253-0E:
@@ -11269,7 +11079,6 @@
 253-4E:
 253-5:[END]
 253-5E:
-
 [Container 254]
 254-0:@Aeolia's bed.[END]
 254-0E:
@@ -11431,7 +11240,6 @@
 254-52E:
 254-53:[END]
 254-53E:
-
 [Container 255]
 255-0:@I know, man. I know all about you.[WAIT]@You're here to destroy New Pork City, aren't[BREAK]  you?[END]
 255-0E:
@@ -11462,7 +11270,6 @@
 255-12E:
 255-13:[END]
 255-13E:
-
 [Container 256]
 256-0:@Welcome.[WAIT]@I heard from Master Porky that you would be[BREAK]  coming here.[WAIT]@He says you're quite strong.[WAIT]@In one way or another.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][END]
 256-0E:
@@ -11511,7 +11318,6 @@
 // Repeats: 256-14, 260-14
 256-15:[END]
 256-15E:
-
 [Container 257]
 257-0:@This is the big city life! [PAUSE 20 00]Or is it?[WAIT]@It somehow doesn't seem like it.[END]
 257-0E:
@@ -11541,7 +11347,6 @@
 257-12E:
 257-13:@But. But.[END]
 257-13E:
-
 [Container 258]
 258-0:@This is the Empire Porky Building, headquarters[BREAK]  for the Porky Corporation.[WAIT]@Don't you dare touch it with your filthy, sticky[BREAK]  fingers![PAUSE 40 00] If you'd be so kind.[WAIT]@*smile* *smile*[END]
 258-0E:
@@ -11575,7 +11380,6 @@
 258-14E:
 258-15:@Rabble. Rabble.[END]
 258-15E:
-
 [Container 259]
 259-0:@I sell dangerous things. You want?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 259-0E:
@@ -11620,7 +11424,6 @@
 259-18E:
 259-19:[END]
 259-19E:
-
 [Container 260]
 260-0:@Welcome.[WAIT]@I heard from Master Porky that you would be[BREAK]  coming here.[WAIT]@He says you're quite strong.[WAIT]@In one way or another.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 20 00][END]
 260-0E:
@@ -11694,7 +11497,6 @@
 260-26E:
 260-27:[END]
 260-27E:
-
 [Container 262]
 262-0:@Well, we've finally arrived.[WAIT]@Please watch your step as you exit the car.[WAIT]@You haven't forgotten anything, have you?[END]
 262-0E:
@@ -11720,7 +11522,6 @@
 262-10E:
 262-11:[END]
 262-11E:
-
 [Container 263]
 263-0:[HOTSPRING 00 00][END]
 263-0E:
@@ -11946,7 +11747,7 @@
 263-74:@That's what I thought, but amigo, you have no[BREAK]  more room.[WAIT]@I'm sorry, but the deal's off.[WAIT]@Your pay off took the day off, amigo.[END]
 263-74E:
 // eb quote, keep the same
-263-75:@You won [EF 11][ITEM F0 FF]![END]
+263-75:@You won [EF 91][ITEM F0 FF]![END]
 263-75E:
 263-76:@Everyone convinced me to come to the city,[BREAK]  but I feel more dizzy than anything, really.[END]
 263-76E:
@@ -11980,7 +11781,6 @@
 263-90E:
 263-91:@Porky Go Round[BREAK]  (Also known as a Pigousel.)[END]
 263-91E:
-
 [Container 301]
 301-0:[END]
 301-0E:
@@ -11998,9 +11798,8 @@
 301-6E:
 301-7:[END]
 301-7E:
-
 [Container 302]
-302-0:@Heya! How's it goin'?![WAIT]@I got some homemade DCMC merchandise for[BREAK]   ya right here![WAIT]@If it breaks or rips, I'll stay up all night to fix it![WAIT]@Nah! Just kiddin'![WAIT]@I kid a lot![WAIT]@But never mind that, buy some o' these here[BREAK]  DCMC goods![END]
+302-0:@Heya! How's it goin'?![WAIT]@I got some homemade DCMC merchandise for[BREAK]  ya right here![WAIT]@If it breaks or rips, I'll stay up all night to fix it![WAIT]@Nah! Just kiddin'![WAIT]@I kid a lot![WAIT]@But never mind that, buy some o' these here[BREAK]  DCMC goods![END]
 302-0E:
 302-1:@All the waitresses here giggle at the end of[BREAK]  everything they say.[WAIT]@I really wish they'd get rid of that rule, though.[BREAK]  It's so stupid.[WAIT]@*giggle*[END]
 302-1E:
@@ -12024,7 +11823,6 @@
 302-10E:
 302-11:@Tons of fliers for upcoming concerts.[WAIT]  "DCMC Jazz Night"[BREAK]  "DCMC Funkalatina Night"[WAIT]  "DCMC Macarena Night"[BREAK]  "DCMC Membership Application"[WAIT]  "DCMC Fan Appreciation Festival"[BREAK]  "DCMC Concert for King P"[WAIT]  "DCMC Mini-Comedy Club"[END]
 302-11E:
-
 [Container 303]
 303-0:@No matter where I am, I never forget my job.[END]
 303-0E:
@@ -12038,13 +11836,11 @@
 303-4E:
 303-5:[END]
 303-5E:
-
 [Container 304]
 304-0:@Staff only![END]
 304-0E:
 304-1:[END]
 304-1E:
-
 [Container 305]
 305-0:[SOUND 00 00]@Yeah!![END]
 305-0E:
@@ -12198,7 +11994,6 @@
 305-74E:
 305-75:[END]
 305-75E:
-
 [Container 306]
 306-0:@Squeak squeak.[WAIT]  (Mice are greedy and love to collect things.[BREAK]  Would you like to buy some of mine?)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 306-0E:
@@ -12208,7 +12003,6 @@
 306-2E:
 306-3:[END]
 306-3E:
-
 [Container 308]
 308-0:@A rather old snare drum.[END]
 308-0E:
@@ -12222,7 +12016,6 @@
 308-4E:
 308-5:[END]
 308-5E:
-
 [Container 309]
 309-0:@Squeak?[BREAK]  (Eh?[PAUSE 28 00] Izzatchew, Alfie?[WAIT]  Wheh've ya been wivaht sennin' a dicky bird?[WAIT]  Ya dihn't come by fo' New Yeah's or Crackah[BREAK]  Night,[WAIT]  so yeh Grandmum an' I 'ave been all jack.[WAIT]  So, wotcheh?[WAIT]  Yeh mus' be bleedin' 'ank Marvin, eh?[WAIT]  'Eah's summadat [ITEM 5E 00] fo' yeh.)[END]
 309-0E:
@@ -12251,7 +12044,6 @@
 309-10E:
 309-11:@Squeeeak?[BREAK]  (Right, eh, Grams?)[END]
 309-11E:
-
 [Container 319]
 319-0:@That secret passage is handy, but I always get[BREAK]  covered in mud every time I use it.[WAIT]@Not to mention that sticky junk from all those[BREAK]  slugs.[END]
 319-0E:
@@ -12281,13 +12073,11 @@
 319-12E:
 319-13:@The door is blocked.[END]
 319-13E:
-
 [Container 320]
 320-0:[END]
 320-0E:
 320-1:[END]
 320-1E:
-
 [Container 321]
 321-0:@What took you so long?[WAIT]@Anyways, I just finished explaining everything[BREAK]  to the band members.[END]
 321-0E:
@@ -12485,7 +12275,6 @@
 // Repeats: 139-25, 321-94
 321-95:[END]
 321-95E:
-
 [Container 322]
 322-0:@Hey. You say something?[END]
 322-0E:
@@ -12528,20 +12317,17 @@
 322-17:@You don't have enough money.[END]
 322-17E:
 // Repeats: 0-229, 322-17, 360-23
-
 [Container 323]
 323-0:@You unlocked the door.[END]
 323-0E:
 // Repeats: 323-0, 653-0
 323-1:[END]
 323-1E:
-
 [Container 324]
 324-0:@C'mon, hurry it up. This way.[END]
 324-0E:
 324-1:[END]
 324-1E:
-
 [Container 327]
 327-0:[HOTSPRING 00 00][END]
 327-0E:
@@ -12650,7 +12436,6 @@
 327-36E:
 327-37:@See you later.[END]
 327-37E:
-
 [Container 328]
 328-0:[HOTSPRING 00 00][END]
 328-0E:
@@ -12757,7 +12542,6 @@
 328-34E:
 328-35:[END]
 328-35E:
-
 [Container 329]
 329-0:[HOTSPRING 00 00][END]
 329-0E:
@@ -12858,7 +12642,6 @@
 329-32E:
 329-33:@I'm thinking of using this fishing pole I found[BREAK]  to try to catch some humans.[END]
 329-33E:
-
 [Container 330]
 330-0:[HOTSPRING 00 00][END]
 330-0E:
@@ -12971,7 +12754,6 @@
 330-38E:
 330-39:@I appreciate that.[WAIT]@I'll use this opportunity to continue my cold and[BREAK]  embarrassing training for a while more.[END]
 330-39E:
-
 [Container 331]
 331-0:[HOTSPRING 00 00][END]
 331-0E:
@@ -13068,7 +12850,6 @@
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 331-31:@...It appears to be out of order.[END]
 331-31E:
-
 [Container 332]
 332-0:[HOTSPRING 00 00][END]
 332-0E:
@@ -13169,25 +12950,21 @@
 332-32E:
 332-33:@Further ahead is Tanetane Island.[WAIT]@There, you'll find the forbidden...[PAUSE 2E 00][BREAK]  There, you'll find the forbidden...[PAUSE 2E 00][WAIT]  The forbidden... What was it again?[WAIT]@There's a forbidden[PAUSE 1E 00] what-was-it-again there![END]
 332-33E:
-
 [Container 333]
 333-0:@An intense smell is coming from inside the[BREAK]  box...[END]
 333-0E:
 333-1:[END]
 333-1E:
-
 [Container 334]
 334-0:[END]
 334-0E:
 334-1:[END]
 334-1E:
-
 [Container 335]
 335-0:[END]
 335-0E:
 335-1:[END]
 335-1E:
-
 [Container 336]
 336-0:@For part-timers, you sure do work hard.[BREAK]  You're really something.[WAIT]@But you should probably get out of this building[BREAK]  as fast as you can.[END]
 336-0E:
@@ -13206,13 +12983,11 @@
 336-6E:
 336-7:[END]
 336-7E:
-
 [Container 337]
 337-0:@"EMERGENCY!" is displayed on the screen.[END]
 337-0E:
 337-1:@There are many tools here. Who knows what[BREAK]  they're used for, though.[END]
 337-1E:
-
 [Container 340]
 340-0:@Oh, welcome.[WAIT]@Who might you be?[END]
 340-0E:
@@ -13248,7 +13023,6 @@
 340-14E:
 340-15:@Good luck, okay?[WAIT]@I'm behind you 100%.[END]
 340-15E:
-
 [Container 341]
 341-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
 341-0E:
@@ -13289,7 +13063,6 @@
 341-12E:
 341-13:[END]
 341-13E:
-
 [Container 342]
 342-0:@A fallen support beam is blocking the way![END]
 342-0E:
@@ -13299,13 +13072,11 @@
 342-2E:
 342-3:[END]
 342-3E:
-
 [Container 343]
 343-0:@[FLINT 23 01 00]! Don't do it![WAIT]@That won't solve anything![WAIT][PAUSE 40 00]@You'll only make its child go through what[BREAK]  [CLAUS 22 05 00] and [LUCAS 23 02 00] had to![END]
 343-0E:
 343-1:[END]
 343-1E:
-
 [Container 344]
 344-0:@Authorized personnel only.[END]
 344-0E:
@@ -13351,7 +13122,6 @@
 344-20E:
 344-21:[END]
 344-21E:
-
 [Container 345]
 345-0:@Check out what's playing in the theater?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 345-0E:
@@ -13365,7 +13135,6 @@
 345-4E:
 345-5:[END]
 345-5E:
-
 [Container 346]
 346-0:@Even in the bathroom [NOTE][BREAK]  I can save [NOTE][WAIT]@I really suggest you save your game here.[WAIT]@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 346-0E:
@@ -13379,7 +13148,6 @@
 346-4E:
 346-5:[END]
 346-5E:
-
 [Container 347]
 347-0:@There are pig masks in here.[WAIT]  Put them on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 347-0E:
@@ -13391,13 +13159,11 @@
 // Repeats: 347-2, 357-26
 347-3:[END]
 347-3E:
-
 [Container 348]
 348-0:[END]
 348-0E:
 348-1:[END]
 348-1E:
-
 [Container 349]
 349-0:@A bunch of filthy cloth has been placed in here.[END]
 349-0E:
@@ -13447,7 +13213,6 @@
 349-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
 349-15E:
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
-
 [Container 350]
 350-0:@A Memo About the Kind of Chimeras I Want[WAIT]  - Ones that don't eat much![WAIT]  - Ones as nice and loving as they are cool![WAIT]  - Ones with a decent flavor and scent![WAIT]  - Ones that won't cry at night![WAIT]  - Ones that make a good bodyguard![WAIT]  - Ones with a great coat of fur![WAIT]  - Ones that don't chew with their mouth open![WAIT]  - Ones with poop that doesn't stink much![WAIT]  - Ones that are warmhearted![WAIT]  - Ones that aren't oversensitive![END]
 350-0E:
@@ -13501,7 +13266,6 @@
 350-24E:
 350-25:[END]
 350-25E:
-
 [Container 351]
 351-0:@S-stop!! Stay away!![WAIT]@This is my hiding spot![END]
 351-0E:
@@ -13515,7 +13279,6 @@
 351-4E:
 351-5:@Supposedly, there's a village of Mr. Saturns on[BREAK]  the far eastern edge of the highway.[WAIT]@A Pork Bean would probably be the quickest[BREAK]  way to get there.[END]
 351-5E:
-
 [Container 352]
 352-0:@Instructions are written on the whiteboard.[WAIT]@"Emergency Measures"[WAIT]@"Should the Ultimate Chimera escape from its[BREAK]  cage, seal all entrances and exits immediately.[WAIT]@In the unlikely event that it gets outside,[WAIT]  use full force[PAUSE 3E 00] to feign ignorance and pretend[BREAK]  nothing happened.[WAIT]@In the event that the Ultimate Chimera is seen[BREAK]  by civilians," ............[WAIT]@The rest has been erased and is unreadable.[END]
 352-0E:
@@ -13525,7 +13288,6 @@
 352-2E:
 352-3:[END]
 352-3E:
-
 [Container 353]
 353-0:@Various chemicals are lined up here.[END]
 353-0E:
@@ -13547,7 +13309,6 @@
 353-6E:
 353-7:[END]
 353-7E:
-
 [Container 354]
 354-0:@A bunch of filthy cloth has been placed in here.[END]
 354-0E:
@@ -13625,7 +13386,6 @@
 354-28E:
 354-29:[END]
 354-29E:
-
 [Container 355]
 355-0:@This Drago has been frozen and encased in ice.[END]
 355-0E:
@@ -13639,7 +13399,6 @@
 355-4E:
 355-5:[END]
 355-5E:
-
 [Container 356]
 356-0:@You found a very old magazine.[WAIT]@Read it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 356-0E:
@@ -13657,7 +13416,6 @@
 356-6E:
 356-7:@There are various documents in here.[END]
 356-7E:
-
 [Container 357]
 357-0:@A bunch of filthy cloth has been placed in here.[END]
 357-0E:
@@ -13737,7 +13495,6 @@
 357-27:@This locker is empty.[END]
 357-27E:
 // Repeats: 347-1, 357-27
-
 [Container 358]
 358-0:@Books about mammals and such.[END]
 358-0E:
@@ -13747,13 +13504,11 @@
 358-2E:
 358-3:@I found this really old magazine in the storage[BREAK]  room earlier.[WAIT]@Who the heck put it there, I wonder...[END]
 358-3E:
-
 [Container 359]
 359-0:@I'm all ticked off 'cause the part-timers[BREAK]  who're supposed to come today are late.[WAIT]@You're in the way, so go on, get outta here.[WAIT]@And don't you even dare think about checking[BREAK]  inside the lockers[WAIT]  and putting on any pig masks you find.[END]
 359-0E:
 359-1:[END]
 359-1E:
-
 [Container 360]
 360-0:@A bunch of filthy cloth has been placed in here.[END]
 360-0E:
@@ -13828,14 +13583,12 @@
 360-24E:
 360-25:@I realize that Dr. Andonuts is awesomely[BREAK]  awesome,[WAIT]  but what exactly did he create that Ultimate[BREAK]  Chimera for, I wonder?[WAIT][PAUSE 2E 00]@Art?[END]
 360-25E:
-
 [Container 361]
 361-0:@Perfect timing.[WAIT]@You guys are part-timers, right?[BREAK]@Then get looking, too![WAIT]@Some monkeys've gone missing![END]
 361-0E:
 // Repeats: 360-16, 361-0
 361-1:@They should be hiding somewhere in the lab.[WAIT]@There's two of 'em! Scour every last inch of[BREAK]  the place![END]
 361-1E:
-
 [Container 362]
 362-0:@Various chemicals are lined up here.[END]
 362-0E:
@@ -13843,7 +13596,6 @@
 362-1:@There appears to be a special kind of chemical[BREAK]  up above, but it's out of reach.[END]
 362-1E:
 // Repeats: 353-1, 353-3, 362-1
-
 [Container 363]
 363-0:@There's a large machine here.[BREAK]  What it's used for is anyone's guess.[END]
 363-0E:
@@ -13853,7 +13605,6 @@
 363-2E:
 363-3:[END]
 363-3E:
-
 [Container 364]
 364-0:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
 364-0E:
@@ -13869,7 +13620,6 @@
 364-4E:
 364-5:@There's a large machine here.[BREAK]  What it's used for is anyone's guess.[END]
 364-5E:
-
 [Container 365]
 365-0:[END]
 365-0E:
@@ -13931,7 +13681,6 @@
 365-28E:
 365-29:@Regular Route[RIGHT][BREAK]  (But, you know, do whatever you want.)[END]
 365-29E:
-
 [Container 366]
 366-0:@There are many unidentifiable objects here, all[BREAK]  preserved in formaldehyde.[END]
 366-0E:
@@ -13945,19 +13694,16 @@
 366-4E:
 366-5:@I dunno what my partner's deal is. This place[BREAK]  doesn't bother me at all.[WAIT]@In fact, I even come in here to eat sometimes.[END]
 366-5E:
-
 [Container 367]
 367-0:@[ENEMYNAME F0 FF].[END]
 367-0E:
 367-1:[END]
 367-1E:
-
 [Container 368]
 368-0:@Brain specimens of various animals are stored[BREAK]  here.[END]
 368-0E:
 368-1:@The nervous systems of various animals are[BREAK]  being preserved in chemicals here.[END]
 368-1E:
-
 [Container 369]
 369-0:@A bunch of filthy cloth has been placed in here.[END]
 369-0E:
@@ -14012,7 +13758,6 @@
 // Repeats: 369-16, 370-1
 369-17:[END]
 369-17E:
-
 [Container 370]
 370-0:@Up ahead is a monster that could even make[BREAK]  quick work of a skilled security guard like me.[WAIT]@In one sense, I guess you could say he's...[BREAK]  Giygas-y.[WAIT]@He's dangerous, so you can't go inside.[END]
 370-0E:
@@ -14025,7 +13770,6 @@
 370-3:@A bunch of filthy cloth has been placed in here.[END]
 370-3E:
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
-
 [Container 371]
 371-0:@It appears to be broken.[END]
 371-0E:
@@ -14057,7 +13801,6 @@
 371-12E:
 371-13:[END]
 371-13E:
-
 [Container 373]
 373-0:[HOTSPRING 00 00][END]
 373-0E:
@@ -14154,7 +13897,6 @@
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 373-31:[END]
 373-31E:
-
 [Container 374]
 374-0:[HOTSPRING 00 00][END]
 374-0E:
@@ -14251,7 +13993,6 @@
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 374-31:[END]
 374-31E:
-
 [Container 375]
 375-0:[HOTSPRING 00 00][END]
 375-0E:
@@ -14348,7 +14089,6 @@
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 375-31:[END]
 375-31E:
-
 [Container 376]
 376-0:[HOTSPRING 00 00][END]
 376-0E:
@@ -14445,7 +14185,6 @@
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 376-31:[END]
 376-31E:
-
 [Container 377]
 377-0:[HOTSPRING 00 00][END]
 377-0E:
@@ -14542,7 +14281,6 @@
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 377-31:[END]
 377-31E:
-
 [Container 378]
 378-0:[HOTSPRING 00 00][END]
 378-0E:
@@ -14643,7 +14381,6 @@
 378-32E:
 378-33:@It's okay if you don't believe me.[WAIT]@Because the truth is inside me.[END]
 378-33E:
-
 [Container 379]
 379-0:[HOTSPRING 00 00][END]
 379-0E:
@@ -14744,7 +14481,6 @@
 379-32E:
 379-33:@Moo.[BREAK]  (Oh, my. Are you leaving already?)[END]
 379-33E:
-
 [Container 380]
 380-0:@Yeah, here we go.[BREAK]@The hole looked just like this.[EVENT][END]
 380-0E:
@@ -14775,7 +14511,6 @@
 // Repeats: 58-1, 380-12
 380-13:[END]
 380-13E:
-
 [Container 381]
 381-0:@*dig* *dig* *dig* *dig*[WAIT]@Boy, digging holes is so much fun![WAIT]@It's also tiring![BREAK]  But it's so much fun![WAIT]@May the ground everywhere become a hole![END]
 381-0E:
@@ -14797,7 +14532,6 @@
 381-8E:
 381-9:[END]
 381-9E:
-
 [Container 386]
 386-0:@Ahead: Foot traffic only.[BREAK]  Pork Beans not allowed.[END]
 386-0E:
@@ -14812,7 +14546,6 @@
 386-4E:
 386-5:[END]
 386-5E:
-
 [Container 388]
 388-0:@Something that looks like a lotus root is[BREAK]  blocking the path.[END]
 388-0E:
@@ -14906,7 +14639,6 @@
 388-44E:
 388-45:@Now on sale! Elder approved![WAIT]@Made fresh daily![WAIT]@Only the most honest of the honest make[BREAK]  these Sincerity Dumplings![END]
 388-45E:
-
 [Container 389]
 389-0:@You want to get to what's on the other end of[BREAK]  this mole cricket hole?[WAIT]@Everything over there is mysterious for some[BREAK]  reason.[WAIT]@I'm not brave at all, so I'm too scared to go.[END]
 389-0E:
@@ -14920,43 +14652,36 @@
 389-4E:
 389-5:[END]
 389-5E:
-
 [Container 391]
 391-0:[END]
 391-0E:
 391-1:[END]
 391-1E:
-
 [Container 392]
 392-0:[END]
 392-0E:
 392-1:[END]
 392-1E:
-
 [Container 393]
 393-0:[END]
 393-0E:
 393-1:[END]
 393-1E:
-
 [Container 394]
 394-0:[END]
 394-0E:
 394-1:[END]
 394-1E:
-
 [Container 395]
 395-0:[END]
 395-0E:
 395-1:[END]
 395-1E:
-
 [Container 398]
 398-0:@Squeak![WAIT]  (Huh?! Oh, okay! I'll go home right now![WAIT]  By the way, I'm pretty sure none of my[BREAK]  brothers went past this tunnel.)[END]
 398-0E:
 398-1:[END]
 398-1E:
-
 [Container 399]
 399-0:@Squeeeark![WAIT]  (Ahh! You found me![WAIT]  And I was so proud of the fact I'd never lost a[BREAK]  game of one-player hide-and-go-seek before...[WAIT]  Huh? My mom's calling for me?[WAIT]  Well, I better go home, then! Bye-bye!)[END]
 399-0E:
@@ -14987,7 +14712,6 @@
 399-12E:
 399-13:@[42 FF 00 00] got a [ITEM F1 FF].[WAIT]@But you couldn't hold any more stuff.[END]
 399-13E:
-
 [Container 400]
 400-0:@What're you doing?![BREAK]@Watch where you're going![END]
 400-0E:
@@ -15011,7 +14735,6 @@
 // Repeats: 63-9, 400-8
 400-9:@Ticket-like objects have fallen out of his[BREAK]  pocket.[END]
 400-9E:
-
 [Container 404]
 404-0:@Squeak squeak-squeak squeeeeak.[WAIT]  (Oh, me, oh, my.[WAIT]  My children went off to play and haven't come[BREAK]  home.[WAIT]@If you happen to see them, please tell them[BREAK]  their mother says to come home.[WAIT]  Please.[WAIT]  Please.[WAIT]  Oh, incidentally, I have seven children in all.)[END]
 404-0E:
@@ -15019,11 +14742,11 @@
 404-1E:
 404-2:@Squeak-squeak.[WAIT]  (Thanks to your kind help, my children have[BREAK]  started to return.[WAIT]  Thank you. Thank you so much!)[END]
 404-2E:
-404-3:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
+404-3:[END]
 404-3E:
-404-4:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
+404-4:@Squeak-squeeeeak.[WAIT]  (Even so, 1 mouse is still missing.[WAIT]  If you happen to see it, tell it to come[BREAK]  back to its mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let it know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
 404-4E:
-404-5:@Squeak-squeeeeak.[WAIT]  (Even so, that still leaves [80 FF F0 FF] more.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
+404-5:@Squeak-squeeeeak.[WAIT]  (Even so, [80 FF F0 FF] mice are still missing.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
 404-5E:
 404-6:@Squeeeeeeeeaaak![WAIT]  (Thank you so much![WAIT]  Thanks to you, all my children have returned[BREAK]  home, with cheerful smiles on their faces.[WAIT]  For being so kind to me, I insist[PAUSE 2E 00] on giving you[BREAK]  two things as a token of appreciation.[WAIT]  The first is a kiss from me.[WAIT]  And the other thing is th[PAUSE 20 00]-th[PAUSE 20 00]-this!)[END]
 404-6E:
@@ -15065,7 +14788,6 @@
 404-24E:
 404-25:[END]
 404-25E:
-
 [Container 406]
 406-0:@Squeak... squeak... squeak...[WAIT]  ("[PAUSE 14 00]Th[PAUSE 14 00]ank[PAUSE 14 00] you[PAUSE 14 00] for[PAUSE 14 00] ta[PAUSE 14 00]king[PAUSE 14 00] the[PAUSE 14 00] time[PAUSE 14 00] to[PAUSE 14 00] read[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00].[PAUSE 30 00]"[BREAK]  Whew. Reading stuff is so hard.)[END]
 406-0E:
@@ -15075,25 +14797,21 @@
 406-2E:
 406-3:[END]
 406-3E:
-
 [Container 413]
 413-0:[END]
 413-0E:
 413-1:[END]
 413-1E:
-
 [Container 420]
 420-0:[END]
 420-0E:
 420-1:[END]
 420-1E:
-
 [Container 421]
 421-0:@Some strange stuff you've never seen before[BREAK]  is lying here.[END]
 421-0E:
 421-1:@Got an [ITEM 63 00]![END]
 421-1E:
-
 [Container 428]
 428-0:@A garbage truck.[END]
 428-0E:
@@ -15111,13 +14829,11 @@
 428-6E:
 428-7:[END]
 428-7E:
-
 [Container 429]
 429-0:@There's a large button here.[WAIT]@Press it and see what happens?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 429-0E:
 429-1:[END]
 429-1E:
-
 [Container 430]
 430-0:@Are you TRYING to get caught?![END]
 430-0E:
@@ -15147,7 +14863,6 @@
 430-12E:
 430-13:[END]
 430-13E:
-
 [Container 431]
 431-0:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a little unstable.[WAIT]@Please be careful![END]
 431-0E:
@@ -15162,13 +14877,11 @@
 431-4E:
 431-5:[END]
 431-5E:
-
 [Container 432]
 432-0:[END]
 432-0E:
 432-1:[END]
 432-1E:
-
 [Container 435]
 435-0:@If this catfish doesn't work hard, we'll run out[BREAK]  of power![WAIT]@And if that happens, our mean, scary boss will[BREAK]  get mad.[WAIT]@And if that happens, I'll get lumps on my head.[WAIT]@So please work hard, catfish![END]
 435-0E:
@@ -15182,19 +14895,16 @@
 435-4E:
 435-5:@An electric catfish.[WAIT]@It's extremely weak now.[END]
 435-5E:
-
 [Container 437]
 437-0:@Sir! No suspicious people have passed through[BREAK]  here, sir![END]
 437-0E:
 437-1:@Oh, are you here to check the latest stats on[BREAK]  our lightning damage?[WAIT]  It's zap-kaboom perfect![END]
 437-1E:
-
 [Container 438]
 438-0:@Trust me. You definitely don't wanna get[BREAK]  zapped by these things.[END]
 438-0E:
 438-1:[END]
 438-1E:
-
 [Container 439]
 439-0:@Today's weather forecast...[WAIT]@Tazmily region:[BREAK][PAUSE 30 00]  Sunny,[PAUSE 30 00] with occasional[PAUSE 30 00] lightning in places.[WAIT]@Mt. Oriander region, Cerulean Beach region:[BREAK]  Lightning, once preparations are complete.[END]
 439-0E:
@@ -15212,13 +14922,11 @@
 439-6E:
 439-7:[END]
 439-7E:
-
 [Container 440]
 440-0:@Oh, apparently Mr. Fassad is on his way here.[WAIT]@Commander! Weren't you with him?[END]
 440-0E:
 440-1:@No problem here.[PAUSE 40 00][BREAK]  .[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]is what would be nice to say,[WAIT]  but there's way too much stuff plugged into[BREAK]  this one power outlet.[END]
 440-1E:
-
 [Container 441]
 441-0:@BOO!![WAIT]@GWAAARGH!![WAIT]@BLAAAH!![WAIT]@...They seem to have grown used to our[BREAK]  scare tactics lately.[WAIT]  They never get surprised anymore.[END]
 441-0E:
@@ -15253,7 +14961,6 @@
 // note that this is similar to what he says in the volcano
 441-15:@Do you honestly think you can escape?![BREAK]  Nwehehehehe...![END]
 441-15E:
-
 [Container 442]
 442-0:@Fassad and the others have the area below[BREAK]  cut off.[END]
 442-0E:
@@ -15263,7 +14970,6 @@
 442-2E:
 442-3:[END]
 442-3E:
-
 [Container 443]
 443-0:[HOTSPRING 00 00][END]
 443-0E:
@@ -15387,7 +15093,6 @@
 443-44E:
 443-45:[END]
 443-45E:
-
 [Container 444]
 444-0:@...You hear an odd sound.[END]
 444-0E:
@@ -15402,7 +15107,6 @@
 444-4E:
 444-5:@Beware of electrical discharges![END]
 444-5E:
-
 [Container 445]
 445-0:@Who the hey are you?![WAIT]@Actually, I guess it doesn't matter, huh?[WAIT]  Just the fact you were able to come this far[BREAK]  is awesome...[PAUSE 60 00] which makes YOU awesome![WAIT]@I think I might be in love![WAIT]@My name is Sheep.[WAIT]@Don't ask any more than that.[WAIT]@Trying to seem mysterious is my hobby.[END]
 445-0E:
@@ -15412,7 +15116,6 @@
 445-2E:
 445-3:[END]
 445-3E:
-
 [Container 453]
 453-0:@As I watch this Clayman assembly line...[WAIT]  ...time becomes like a blur to me.[WAIT]@Zzz...[END]
 453-0E:
@@ -15431,7 +15134,6 @@
 453-7:@A fire hydrant. Its hose is neatly wrapped up.[END]
 453-7E:
 // Repeats: 453-7, 454-20
-
 [Container 454]
 454-0:@Hey, do you take your mask off when you go[BREAK]  to the bathroom?[END]
 454-0E:
@@ -15480,7 +15182,6 @@
 // Repeats: 453-7, 454-20
 454-21:[END]
 454-21E:
-
 [Container 455]
 455-0:@There's no admission fee at this theater![WAIT]@We're showing a wonderful adventure movie[BREAK]  personally selected by Master Porky himself![WAIT]@But apparently a stinkbug has snuck inside and[BREAK]  stunk up the place.[WAIT]@I hate having to kill those things. Yuck![END]
 455-0E:
@@ -15515,7 +15216,6 @@
 455-14E:
 455-15:[END]
 455-15E:
-
 [Container 456]
 456-0:@Hey, you![END]
 456-0E:
@@ -15576,14 +15276,12 @@
 // Repeats: 456-18, 476-18
 456-19:[END]
 456-19E:
-
 [Container 457]
 457-0:@At first glance, the projectionist appears to be[BREAK]  an old man,[WAIT]  but he's actually a figure made out of clay and[BREAK]  dough.[WAIT]@It's well-crafted.[END]
 457-0E:
 457-1:@At first glance, it seems like this might be a[BREAK]  movie-loving boy named Toto or something,[WAIT]  but he's actually just a figure made out of clay[BREAK]  and dough, holding a bucket.[WAIT]@You get the feeling you've seen it somewhere[BREAK]  before.[END]
 457-1E:
 // Nuovo cinema Paradiso reference
-
 [Container 458]
 458-0:@Man, this area stinks.[WAIT]@No, it's not me. It's this area.[END]
 458-0E:
@@ -15635,7 +15333,6 @@
 458-23:@"Dance Dance Business Kimono"[WAIT]  ...What kind of game IS this?![END]
 458-23E:
 // had to change this slightly
-
 [Container 459]
 459-0:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@We mole crickets have finally started to make[BREAK]  forays into the big city.[WAIT]@The roots of our business are beginning to[BREAK]  take hold throughout all corners of the globe![WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 459-0E:
@@ -15661,14 +15358,12 @@
 459-10E:
 459-11:@Please do not chase after me.[WAIT]@Goodbye.[END]
 459-11E:
-
 [Container 460]
 460-0:@The door won't open, and there's no one[BREAK]  inside.[END]
 460-0E:
 // Repeats: 460-0, 461-0
 460-1:[END]
 460-1E:
-
 [Container 461]
 461-0:@The door won't open, and there's no one[BREAK]  inside.[END]
 461-0E:
@@ -15679,7 +15374,6 @@
 461-2E:
 461-3:@Woof.[WAIT]  (But never mind that! L-l-look what's in this[BREAK]  next room...!)[END]
 461-3E:
-
 [Container 462]
 462-0:@Pulling this rope would probably be extremely[BREAK]  dangerous.[END]
 462-0E:
@@ -15770,7 +15464,6 @@
 462-42E:
 462-43:[END]
 462-43E:
-
 [Container 463]
 463-0:@[FLINT 23 01 00].[END]
 463-0E:
@@ -15792,7 +15485,6 @@
 463-8E:
 463-9:[END]
 463-9E:
-
 [Container 464]
 464-0:@[FLINT 23 01 00]y-pie. [HEART][END]
 464-0E:
@@ -15851,7 +15543,6 @@
 464-26E:
 464-27:[END]
 464-27E:
-
 [Container 465]
 465-0:@[FLINT 23 01 00].[WAIT]@Follow the southeast passage.[END]
 465-0E:
@@ -15885,7 +15576,6 @@
 465-14E:
 465-15:@Go east here.[END]
 465-15E:
-
 [Container 466]
 466-0:@Whoa! We really did stumble![WAIT]@[PAUSE 40 00]...Huh?[END]
 466-0E:
@@ -15935,7 +15625,6 @@
 466-22E:
 466-23:@It's a little dirty, but that's the[BREAK]  [ITEM C5 00] alright.[END]
 466-23E:
-
 [Container 467]
 467-0:[HOTSPRING 00 00][END]
 467-0E:
@@ -16026,7 +15715,6 @@
 467-29:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
 467-29E:
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
-
 [Container 468]
 468-0:[HOTSPRING 00 00][END]
 468-0E:
@@ -16111,7 +15799,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 468-27:[END]
 468-27E:
-
 [Container 469]
 469-0:[HOTSPRING 00 00][END]
 469-0E:
@@ -16196,13 +15883,11 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 469-27:[END]
 469-27E:
-
 [Container 470]
 470-0:@"Emergency!" is written here.[END]
 470-0E:
 470-1:[END]
 470-1E:
-
 [Container 471]
 471-0:[HOTSPRING 00 00][END]
 471-0E:
@@ -16287,7 +15972,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 471-27:[END]
 471-27E:
-
 [Container 472]
 472-0:[HOTSPRING 00 00][END]
 472-0E:
@@ -16372,7 +16056,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 472-27:@A shower so strong that it actually hurts.[END]
 472-27E:
-
 [Container 473]
 473-0:@A SERIOUS ERROR HAS OCCURRED IN THE[BREAK]  GENERATOR![WAIT]@A SERIOUS ERROR HAS OCCURRED IN THE[BREAK]  GENERATOR![WAIT]@ALL PERSONNEL, EVACUATE IMMEDIATELY![WAIT]@REPEAT![WAIT]@IT WOULD BE NICE IF YOU'D EVACUATE[BREAK]  IMMEDIATELY![END]
 473-0E:
@@ -16382,7 +16065,6 @@
 473-2E:
 473-3:[END]
 473-3E:
-
 [Container 474]
 474-0:@Welcome to the parking area![END]
 474-0E:
@@ -16490,9 +16172,8 @@
 474-49E:
 474-50:@Received 100 DP.[END]
 474-50E:
-474-51:[END]
+474-51:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![END]
 474-51E:
-
 [Container 475]
 475-0:@Please don't come back here.[WAIT]@You'll kick up the mold spores.[END]
 475-0E:
@@ -16538,7 +16219,6 @@
 475-20E:
 475-21:@"You damn freakin' cheapskatey jerk!"[WAIT]@The jukebox spat bitter words at you inside[BREAK]  your mind.[END]
 475-21E:
-
 [Container 476]
 476-0:@Hey, you![END]
 476-0E:
@@ -16604,7 +16284,6 @@
 476-21:@It would be a bit difficult for people to fit[BREAK]  through this.[END]
 476-21E:
 // Repeats: 456-17, 476-17, 476-21
-
 [Container 477]
 477-0:[HOTSPRING 00 00][END]
 477-0E:
@@ -16689,24 +16368,21 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 477-27:[END]
 477-27E:
-
 [Container 478]
 478-0:@[42 FF 00 00] opened the garbage can.[EVENT][END]
 478-0E:
-478-1:@Got [EF 11][ITEM F0 FF]![END]
+478-1:@Got [EF 91][ITEM F0 FF]![END]
 478-1E:
 // Repeats: 39-2, 478-1, 509-2
-478-2:@There was [EF 11][ITEM F0 FF] inside.[WAIT]@But you couldn't hold any more stuff.[END]
+478-2:@There was [EF 91][ITEM F0 FF] inside.[WAIT]@But you couldn't hold any more stuff.[END]
 478-2E:
 478-3:[END]
 478-3E:
-
 [Container 501]
 501-0:@It doesn't appear to be turned on.[END]
 501-0E:
 501-1:[END]
 501-1E:
-
 [Container 502]
 502-0:@This is a wonderful device called an Instant[BREAK]  Revitalizing Machine.[WAIT]@In only a few seconds, it'll fully revitalize you,[BREAK]  just like a good night's sleep.[WAIT]@Under normal circumstances, it'd be wasted[BREAK]  on a stupid monkey like you,[WAIT]  but I'll give you special permission to use it for[BREAK]  now.[END]
 502-0E:
@@ -16724,7 +16400,6 @@
 502-6E:
 502-7:@Then get in![END]
 502-7E:
-
 [Container 506]
 506-0:[END]
 506-0E:
@@ -16998,7 +16673,6 @@
 506-90E:
 506-91:[ALTERNATEFONT]@this is[BREAK]  "this vehicle".[WAIT]@made pig one better.[WAIT]@use as you please.[BREAK]  bathroom.[END]
 506-91E:
-
 [Container 507]
 507-0:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
 507-0E:
@@ -17017,7 +16691,6 @@
 // Repeats: 222-76, 506-76, 507-4
 507-5:[END]
 507-5E:
-
 [Container 509]
 509-0:@[42 FF 00 00] opened the present.[EVENT][END]
 509-0E:
@@ -17025,7 +16698,7 @@
 509-1:@But it was empty.[END]
 509-1E:
 // Repeats: 39-1, 509-1
-509-2:@Got [EF 11][ITEM F0 FF]![END]
+509-2:@Got [EF 91][ITEM F0 FF]![END]
 509-2E:
 // Repeats: 39-2, 478-1, 509-2
 509-3:@A dim passage can be seen beyond this[BREAK]  chain-link shutter.[WAIT]@Where it leads to is anyone's guess.[END]
@@ -17037,12 +16710,11 @@
 509-5:@It doesn't look like you can get through this[BREAK]  chain-link shutter.[END]
 509-5E:
 // Repeats: 39-5, 509-5
-509-6:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
+509-6:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
 509-6E:
 // Repeats: 39-6, 509-6
 509-7:[END]
 509-7E:
-
 [Container 551]
 551-0:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@Are you here at the factory for something?[WAIT]@If you feel like working, I'm sure they'll hire[BREAK]  you.[END]
 551-0E:
@@ -17142,7 +16814,6 @@
 551-47:@Some kickbacks were being received here.[END]
 551-47E:
 // this makes absolutely no sense, and it appears to be an unused line
-
 [Container 552]
 552-0:@When we zap Claymen low on energy here,[BREAK]  they start moving again.[END]
 552-0E:
@@ -17180,7 +16851,6 @@
 552-16E:
 552-17:[END]
 552-17E:
-
 [Container 553]
 553-0:@Oh![WAIT]@Hey there, [LUCAS 23 02 00]![WAIT]@Did you come to see me?[PAUSE 28 00][BREAK]  ...Oh, you didn't? I see.[WAIT]@How's [FLINT 23 01 00]? Same as always?[PAUSE 28 00][BREAK]  I see.[END]
 553-0E:
@@ -17206,7 +16876,6 @@
 553-10E:
 553-11:@If only I could run the factory how I want, it'd[BREAK]  be so much more like how I want it to be.[WAIT]@But no one besides me will listen to me.[END]
 553-11E:
-
 [Container 554]
 554-0:@Claymen can't climb ladders, so we use this[BREAK]  lift to haul them up.[END]
 554-0E:
@@ -17224,13 +16893,11 @@
 554-6E:
 554-7:@You've got a real knack for this.[WAIT]@Come back sometime.[END]
 554-7E:
-
 [Container 555]
 555-0:@Say, did I ever tell you about how I love[BREAK]  peaches?[WAIT]@Did I?[WAIT]  Did I not?[WAIT]@I guess it doesn't matter either way, because I[BREAK]  love peaches.[END]
 555-0E:
 555-1:[END]
 555-1E:
-
 [Container 556]
 556-0:@Ah, crap.[WAIT]@I screwed up big-time and broke this Clayman.[END]
 556-0E:
@@ -17264,7 +16931,6 @@
 556-14E:
 556-15:@Oh, how are you? Are you well?[WAIT]@I'm my usual[PAUSE 2E 00] not well self.[END]
 556-15E:
-
 [Container 621]
 621-0:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 621-0E:
@@ -17295,13 +16961,11 @@
 // Repeats: 621-8, 665-8
 621-9:[END]
 621-9E:
-
 [Container 622]
 622-0:@You know that feeling when you're just kind of[BREAK]  bleh and can't eat anything at all?[WAIT]@When that happens, a Fresh Mint will freshen[BREAK]  you right up![END]
 622-0E:
 622-1:[END]
 622-1E:
-
 [Container 623]
 623-0:@You felt sick.[END]
 623-0E:
@@ -17309,7 +16973,6 @@
 623-1:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 623-1E:
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
-
 [Container 624]
 624-0:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 624-0E:
@@ -17453,7 +17116,7 @@
 624-46:@For some reason, only the keyboard of this[BREAK]  grand piano is bright and shiny.[END]
 624-46E:
 // Repeats: 624-46, 633-46
-624-47:@Moldy, putrid apples.[WAIT]   "Putrapples" for short.[END]
+624-47:@Moldy, putrid apples.[WAIT]  "Putrapples" for short.[END]
 624-47E:
 // Repeats: 624-47, 633-47
 624-48:@Open the castle gate?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
@@ -17477,7 +17140,6 @@
 624-56E:
 624-57:[END]
 624-57E:
-
 [Container 626]
 626-0:@This book's covers and binding are top-notch,[BREAK]  but there's nothing noteworthy written inside.[END]
 626-0E:
@@ -17492,13 +17154,12 @@
 626-4E:
 626-5:@*whoosh* *whoosh*[WAIT]  Greetings![WAIT]@I apologize for being so sudden, but you know[BREAK]  the phrase, "The word on the wind is..."?[WAIT]@Yeah, I'm that wind. I'm where rumors come[BREAK]  from.[WAIT]@You've surely fought and won - or lost - many[BREAK]  battles by now. Right?[WAIT]@I've caught wind of an incredible rumor[WAIT]  that you can actually relive your memories of[BREAK]  these battles any time you want.[WAIT]@If you don't believe me, go to the "Goods"[BREAK]  menu and then go to the key icon.[WAIT]@There, you should find a "Battle Memory" item.[WAIT]@If you select this "Battle Memory" and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you could probably find out things you didn't[BREAK]  even know before.[WAIT]@Not only that, you can even use it to practice[BREAK]  "Sound Battles", whatever that means.[WAIT]@Well, that's all for this "Word on the Wind".[WAIT]@I should be going now. Bye![WAIT]@*whoosh*[END]
 626-5E:
-
 [Container 627]
 627-0:@Hey there, person![WAIT]@How about a [ITEM E4 00]?[BREAK]  He's incredibly popular these days![WAIT]@He makes for a good pet,[WAIT]  and he can even change into a jump-rope or a[BREAK]  clothesline at the drop of a hat![WAIT]@He's a very handy and hard-working snake![BREAK]  Yessiree![END]
 627-0E:
 627-1:@That's the [ITEM E4 00].[BREAK]  He's incredibly popular these days![WAIT]@I'll trade him for one [ITEM 67 00]![WAIT]@What do you say? Do we have a deal?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 627-1E:
-627-2:@That's a [ITEM F0 FF].[WAIT]@If you have any [ITEM 67 00]s, I'll trade this[BREAK]  for [80 FF F1 FF] of them![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
+627-2:@That's [EF 91][ITEM F0 FF].[WAIT]@If you have any [ITEM 67 00]s, I'll trade this[BREAK]  for [80 FF F1 FF] of them![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 627-2E:
 627-3:@That's a not-very-tasty [ITEM F0 FF].[WAIT]@I'll trade it for [80 FF F1 FF] [ITEM 67 00]![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 627-3E:
@@ -17527,7 +17188,6 @@
 627-14E:
 627-15:@I really like the Rope Snake.[WAIT]@There's something charming about him.[WAIT]  Like his length. And his jaw.[END]
 627-15E:
-
 [Container 628]
 628-0:@There's nothing in there.[WAIT]@Let's head to the top floor![END]
 628-0E:
@@ -17541,7 +17201,6 @@
 628-4E:
 628-5:@An old stove. It wouldn't be surprising if it's a[BREAK]  bug's house now.[END]
 628-5E:
-
 [Container 630]
 630-0:@Through this door is the Ghost Bazaar.[BREAK]  We trade items for [ITEM 67 00]s.[END]
 630-0E:
@@ -17555,7 +17214,6 @@
 630-4E:
 630-5:@Sir! Fassad, sir![WAIT]@They don't appear to be inside the castle[BREAK]  anymore![END]
 630-5E:
-
 [Container 631]
 631-0:@A decorative suit of armor.[END]
 631-0E:
@@ -17574,7 +17232,6 @@
 631-6E:
 631-7:[END]
 631-7E:
-
 [Container 632]
 632-0:@A torn-up painting is lying on the ground.[END]
 632-0E:
@@ -17585,7 +17242,6 @@
 632-3:@This grandfather clock no longer works.[END]
 632-3E:
 // Repeats: 632-3, 642-17
-
 [Container 633]
 633-0:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 633-0E:
@@ -17728,10 +17384,9 @@
 633-46:@For some reason, only the keyboard of this[BREAK]  grand piano is bright and shiny.[END]
 633-46E:
 // Repeats: 624-46, 633-46
-633-47:@Moldy, putrid apples.[WAIT]   "Putrapples" for short.[END]
+633-47:@Moldy, putrid apples.[WAIT]  "Putrapples" for short.[END]
 633-47E:
 // Repeats: 624-47, 633-47
-
 [Container 634]
 634-0:@Squeaky-squeak.[WAIT]  (Many of the ghosts here are actually pretty[BREAK]  friendly, huh?[WAIT]  That's not something you'd normally expect.)[END]
 634-0E:
@@ -17743,7 +17398,6 @@
 // Repeats: 634-2, 636-1
 634-3:[END]
 634-3E:
-
 [Container 635]
 635-0:@[NOTE] Even if you forget the small poles on my[BREAK]     vacuum dinner pie~ [NOTE][WAIT]  [NOTE] Hmm~ hmmm~ hmm-hmmmm~ [NOTE][WAIT]  [NOTE] Like coals or pigs or tall maples [NOTE][WAIT]  [NOTE] Boo~ boo~ booooo~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ tall~ maples~ [NOTE][WAIT]@...I still haven't learned the lyrics 100% yet,[BREAK]  but it's such a nice song![END]
 635-0E:
@@ -17764,14 +17418,12 @@
 635-5:@Whatever's in here is simmering noisily.[WAIT]  Its color and smell are best left undescribed.[END]
 635-5E:
 // Repeats: 635-5, 664-5, 664-32
-
 [Container 636]
 636-0:@A ghost burped on me just now...[WAIT]@For some reason, it smelled like rotten[BREAK]  [FAVFOOD]...[WAIT]@I don't care about finding this stupid item[BREAK]  anymore...![END]
 636-0E:
 636-1:@There's nothing you can do here,[WAIT]  nor is there anything that CAN be done.[END]
 636-1E:
 // Repeats: 634-2, 636-1
-
 [Container 637]
 637-0:@You could probably get over there if you had a[BREAK]  Rope Snake with you.[WAIT]@Don't ask where "over there" is.[WAIT]@There's only one "over there" here.[END]
 637-0E:
@@ -17805,20 +17457,17 @@
 637-14E:
 637-15:[END]
 637-15E:
-
 [Container 638]
 638-0:@Picked up a pendant![PAUSE 40 00][END]
 638-0E:
 638-1:[END]
 638-1E:
-
 [Container 641]
 641-0:@A decorative suit of armor.[END]
 641-0E:
 // Repeats: 621-4, 631-0, 641-0, 665-4
 641-1:[END]
 641-1E:
-
 [Container 642]
 642-0:@This furniture is shaking violently.[END]
 642-0E:
@@ -17859,7 +17508,6 @@
 642-17:@This grandfather clock no longer works.[END]
 642-17E:
 // Repeats: 632-3, 642-17
-
 [Container 643]
 643-0:@The sound of blowing wind can be faintly heard[BREAK]  coming from behind this wall.[END]
 643-0E:
@@ -17896,7 +17544,6 @@
 // Repeats: 643-10, 660-10
 643-11:[END]
 643-11E:
-
 [Container 645]
 645-0:@There's a large garbage can here.[WAIT]  ...What's it used for?[END]
 645-0E:
@@ -17910,7 +17557,6 @@
 645-4E:
 645-5:[END]
 645-5E:
-
 [Container 646]
 646-0:@...![BREAK]  Wess?![WAIT]@Is that you, you old geezer?![END]
 646-0E:
@@ -17957,39 +17603,33 @@
 646-20E:
 646-21:@What's the hold-up?[WAIT]@Let's get goin' already![END]
 646-21E:
-
 [Container 647]
 647-0:@Closed today for cleaning.[END]
 647-0E:
 647-1:[END]
 647-1E:
-
 [Container 649]
 649-0:@[END]
 649-0E:
 // Repeats: 31-4, 649-0, 666-0, 821-0
 649-1:[END]
 649-1E:
-
 [Container 651]
 651-0:@Danger![BREAK]  Brooms ahead![END]
 651-0E:
 651-1:[END]
 651-1E:
-
 [Container 653]
 653-0:@You unlocked the door.[END]
 653-0E:
 // Repeats: 323-0, 653-0
 653-1:[END]
 653-1E:
-
 [Container 655]
 655-0:[END]
 655-0E:
 655-1:[END]
 655-1E:
-
 [Container 656]
 656-0:@Yes, here we are.[END]
 656-0E:
@@ -18037,13 +17677,11 @@
 656-20E:
 656-21:@The pedestal for the Egg of Light.[WAIT]@Upon closer look, roundabout traps have been[BREAK]  set here.[END]
 656-21E:
-
 [Container 657]
 657-0:@PRINCESSSSSSS!!![END]
 657-0E:
 657-1:@My bad.[END]
 657-1E:
-
 [Container 658]
 658-0:@Princess![WAIT]@Are you all right?![END]
 658-0E:
@@ -18066,7 +17704,6 @@
 // Repeats: 658-8, 663-0
 658-9:[END]
 658-9E:
-
 [Container 660]
 660-0:@The sound of blowing wind can be faintly heard[BREAK]  coming from behind this wall.[END]
 660-0E:
@@ -18132,13 +17769,11 @@
 660-24E:
 660-25:[END]
 660-25E:
-
 [Container 661]
 661-0:@*hop*.[WAIT]@I'm not a ghost. I'm a frog.[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 661-0E:
 661-1:@*hop*.[WAIT]@I'm not a ghost. I'm a frog.[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 661-1E:
-
 [Container 662]
 662-0:@Huh?[WAIT]@What's this lever for?[END]
 662-0E:
@@ -18158,7 +17793,6 @@
 662-6E:
 662-7:@It doesn't appear to move.[END]
 662-7E:
-
 [Container 663]
 663-0:@Waaaaaaaaaaaaah!![END]
 663-0E:
@@ -18183,7 +17817,6 @@
 // Repeats: 662-5, 663-8
 663-9:[END]
 663-9E:
-
 [Container 664]
 664-0:@[NOTE] Even if you forget the small poles on my[BREAK]     vacuum dinner pie~ [NOTE][WAIT]  [NOTE] Hmm~ hmmm~ hmm-hmmmm~ [NOTE][WAIT]  [NOTE] Like coals or pigs or tall maples [NOTE][WAIT]  [NOTE] Boo~ boo~ booooo~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ tall~ maples~ [NOTE][WAIT]@...I still haven't learned the lyrics 100% yet,[BREAK]  but it's such a nice song![END]
 664-0E:
@@ -18227,7 +17860,7 @@
 664-15E:
 664-16:@Hey, that's a [ITEM F0 FF] you got[BREAK]  there.[WAIT]@Please! Trade it to me for this[BREAK]  [ITEM F1 FF]![WAIT]@I can't wait long enough for it to rot.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 664-16E:
-// check this for item names and context
+// Rotten Bavarois for Luxury Banana or Rotten Eclair for Nut Bread
 664-17:@Thanks. Now I can stave off starvation for a[BREAK]  while.[END]
 664-17E:
 664-18:@Are you sure you're not mistaking "cold" for[BREAK]  "cool"?[END]
@@ -18264,7 +17897,6 @@
 // Repeats: 635-5, 664-5, 664-32
 664-33:[END]
 664-33E:
-
 [Container 665]
 665-0:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 665-0E:
@@ -18295,92 +17927,77 @@
 // Repeats: 621-8, 665-8
 665-9:[END]
 665-9E:
-
 [Container 666]
 666-0:@[END]
 666-0E:
 // Repeats: 31-4, 649-0, 666-0, 821-0
 666-1:[END]
 666-1E:
-
 [Container 683]
 683-0:[END]
 683-0E:
 683-1:[END]
 683-1E:
-
 [Container 685]
 685-0:[END]
 685-0E:
 685-1:[END]
 685-1E:
-
 [Container 687]
 687-0:[END]
 687-0E:
 687-1:[END]
 687-1E:
-
 [Container 688]
 688-0:@You know that really tall guy who was always[BREAK]  ringing the bell for the people in Tazmily?[WAIT]  For some reason, I haven't seen him anywhere[BREAK]  at all.[WAIT]@I wonder if they managed to brainwash him.[END]
 688-0E:
 688-1:[END]
 688-1E:
-
 [Container 689]
 689-0:[END]
 689-0E:
 689-1:[END]
 689-1E:
-
 [Container 690]
 690-0:[ALTERNATEFONT]@i come to floor 50.[WAIT]  satisfied.[END]
 690-0E:
 690-1:@[ALTERNATEFONT]not 1, not 100.[WAIT]  i like 50.[END]
 690-1E:
-
 [Container 691]
 691-0:[END]
 691-0E:
 691-1:[END]
 691-1E:
-
 [Container 693]
 693-0:[END]
 693-0E:
 693-1:[END]
 693-1E:
-
 [Container 694]
 694-0:@I made it to the 30th floor today! Yes![WAIT]  ...Though I made it to the 30th floor[BREAK]  yesterday, too.[END]
 694-0E:
 694-1:@Gaah...[BREAK] ...My legs are killing me...[END]
 694-1E:
-
 [Container 695]
 695-0:[END]
 695-0E:
 695-1:[END]
 695-1E:
-
 [Container 696]
 696-0:@*gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[WAIT]  I've climbed for so long, but I'm still only at the[BREAK]  20th floor...[END]
 696-0E:
 696-1:@W-with our i-intellect...[WAIT]  ...reaching th-the 100th floor...[WAIT]  ...was supposed to be so easy...[END]
 696-1E:
-
 [Container 697]
 697-0:[END]
 697-0E:
 697-1:[END]
 697-1E:
-
 [Container 698]
 698-0:[END]
 698-0E:
 698-1:[END]
 698-1E:
-
 [Container 701]
 701-0:@This appears to be a whack-a-mole hole.[END]
 701-0E:
@@ -18427,7 +18044,6 @@
 701-20E:
 701-21:[END]
 701-21E:
-
 [Container 702]
 702-0:@This is written on the cue card:[WAIT]  "Your fly's open! XYZ!"[END]
 702-0E:
@@ -18462,7 +18078,6 @@
 // Repeats: 701-18, 702-14, 703-2
 702-15:[END]
 702-15E:
-
 [Container 703]
 703-0:@This is written on the cue card:[WAIT]  "Your fly isn't open! Don't worry about it!"[END]
 703-0E:
@@ -18501,31 +18116,26 @@
 703-16E:
 703-17:[END]
 703-17E:
-
 [Container 704]
 704-0:@Master [LUCAS 23 02 00] and friends![WAIT]@I have been waiting for you.[WAIT]@I've changed my hat, so perhaps you don't[BREAK]  recognize me,[WAIT]  but I was the chauffeur of that[BREAK]  difficult-to-drive and far-too-long limousine.[END]
 704-0E:
 704-1:@I'm pleased to see that you've made it this far.[WAIT]@I will now determine if you're fit to meet with[BREAK]  Master Porky or not.[WAIT]@Kindly follow me, if you would.[END]
 704-1E:
-
 [Container 705]
 705-0:@All right! Things are really heating up now![END]
 705-0E:
 705-1:[END]
 705-1E:
-
 [Container 706]
 706-0:@At last, we're at the final game.[WAIT]@Please come this way, if you would.[END]
 706-0E:
 706-1:[END]
 706-1E:
-
 [Container 707]
 707-0:[END]
 707-0E:
 707-1:[END]
 707-1E:
-
 [Container 709]
 709-0:@Thick, tangled-up vines block the entrance.[END]
 709-0E:
@@ -18566,39 +18176,33 @@
 709-16E:
 709-17:[END]
 709-17E:
-
 [Container 711]
 711-0:@[END]
 711-0E:
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 711-1:[END]
 711-1E:
-
 [Container 712]
 712-0:@[END]
 712-0E:
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 712-1:[END]
 712-1E:
-
 [Container 713]
 713-0:[END]
 713-0E:
 713-1:[END]
 713-1E:
-
 [Container 800]
 800-0:@[LUCAS 23 02 00].[WAIT]@Welcome to my room![WAIT]@This is the REAL 100th floor that you wanted[BREAK]  to come to oh-so-badly![PAUSE 0F 00][WAIT]@Again, I welcome you, my beloved, detestable[BREAK]  pests.[WAIT]@I was the one who invited you here.[WAIT]@So you're free to come inside if you wish.[WAIT]@It's just,[PAUSE 1E 00] I've given orders to let no one enter[BREAK]  my room[WAIT]  to that little attack toy you see right there.[PAUSE 1E 00][WAIT]@Who knows, maybe this is where we'll say[BREAK]  goodbye, even though I invited you here.[WAIT]@Alright, let's turn it on![BREAK]  Say hello to the Natural Killer Cyborg![END]
 800-0E:
 800-1:[END]
 800-1E:
-
 [Container 801]
 801-0:@Board the boat?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 801-0E:
 801-1:@The boat won't move now.[END]
 801-1E:
-
 [Container 802]
 802-0:[END]
 802-0E:
@@ -18612,7 +18216,6 @@
 802-4E:
 802-5:[END]
 802-5E:
-
 [Container 803]
 803-0:[HOTSPRING 00 00][END]
 803-0E:
@@ -18702,14 +18305,12 @@
 803-28E:
 803-29:[END]
 803-29E:
-
 [Container 804]
 804-0:@[END]
 804-0E:
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 804-1:[END]
 804-1E:
-
 [Container 805]
 805-0:@The beginning[PAUSE 30 00] of the end.[WAIT]@The end[PAUSE 38 00] of everything.[END]
 805-0E:
@@ -18747,7 +18348,6 @@
 805-16E:
 805-17:@But I think I'll use my shortcut to give myself[BREAK]  a head start, if you don't mind![WAIT]  Ahahahahahahaha![WAIT]@*cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[PAUSE 2E 00][BREAK]  *wheeze*[PAUSE 20 00] *wheeze*[WAIT]@*gasp*[PAUSE 20 00] *gasp*[WAIT]@Bring it on! If you can catch up to me, that is![WAIT]  Here, you can use this elevator all you want![WAIT]@Spankety, spankety, spankety![PAUSE 14 00][WAIT]@*wheeze*[PAUSE 20 00] *gasp*[END]
 805-17E:
-
 [Container 807]
 807-0:@I'm certain that [HINAWA 22 08 00] is watching[BREAK]  over us.[WAIT]@There's nothing to be afraid of.[END]
 807-0E:
@@ -18774,7 +18374,6 @@
 807-10E:
 807-11:@...[WAIT]@What do you suppose could be waiting up[BREAK]  ahead...?[END]
 807-11E:
-
 [Container 808]
 808-0:@Wha...?![BREAK]  Aren't you...[WAIT]  Aren't you Lucky, the bass player for the[BREAK]  DCMC?![WAIT]@Sweet! Lucky's back![WAIT]@That incredible bass line is finally back![WAIT]@Let's go, Mr. Lucky! Let's go![END]
 808-0E:
@@ -18784,7 +18383,6 @@
 808-2E:
 808-3:[END]
 808-3E:
-
 [Container 810]
 810-0:@[LUCAS 23 02 00].[END]
 810-0E:
@@ -18803,7 +18401,6 @@
 810-6E:
 810-7:[END]
 810-7E:
-
 [Container 811]
 811-0:@That... that masked man...[PAUSE 20 00][BREAK]  He's [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... He's your brother...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@I don't know why he's obeying this Porky guy,[WAIT]  but as a father, I've finally found the son I[BREAK]  lost.[WAIT]@[LUCAS 23 02 00]. Be happy.[WAIT]  I've finally,[PAUSE 30 00] finally found your brother.[END]
 811-0E:
@@ -18882,14 +18479,12 @@
 811-32E:
 811-33:[END]
 811-33E:
-
 [Container 816]
 816-0:@An ornamental plant.[END]
 816-0E:
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 816-1:[END]
 816-1E:
-
 [Container 817]
 817-0:@An ornamental plant.[END]
 817-0E:
@@ -18900,7 +18495,6 @@
 817-2E:
 817-3:@I said, someone's in here![WAIT]@Being rushed like this makes me want to NOT[BREAK]  come out now, just to teach you a lesson![END]
 817-3E:
-
 [Container 818]
 818-0:@This is surprisingly spick-and-span.[END]
 818-0E:
@@ -18919,7 +18513,6 @@
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 818-5:[END]
 818-5E:
-
 [Container 819]
 819-0:@Whew! Made it just in time![END]
 819-0E:
@@ -18929,7 +18522,6 @@
 819-2E:
 819-3:[END]
 819-3E:
-
 [Container 820]
 820-0:@This is surprisingly spick-and-span.[END]
 820-0E:
@@ -18958,14 +18550,12 @@
 820-9:@It looks like someone was just using this...[END]
 820-9E:
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
-
 [Container 821]
 821-0:@[END]
 821-0E:
 // Repeats: 31-4, 649-0, 666-0, 821-0
 821-1:[END]
 821-1E:
-
 [Container 822]
 822-0:@An ornamental plant.[END]
 822-0E:
@@ -18976,7 +18566,6 @@
 822-2E:
 822-3:@N-never mind me![WAIT]@I'm fine here, so please go away![END]
 822-3E:
-
 [Container 823]
 823-0:@This is surprisingly spick-and-span.[END]
 823-0E:
@@ -18999,7 +18588,6 @@
 823-6E:
 823-7:@For big people.[END]
 823-7E:
-
 [Container 824]
 824-0:@This is surprisingly spick-and-span.[END]
 824-0E:
@@ -19034,7 +18622,6 @@
 824-12E:
 824-13:[END]
 824-13E:
-
 [Container 825]
 825-0:@Look at the walls...[PAUSE 2E 00] Look at the door...[PAUSE 2E 00][BREAK]  What else was there to do, again?[END]
 825-0E:
@@ -19048,14 +18635,12 @@
 825-4E:
 825-5:[END]
 825-5E:
-
 [Container 826]
 826-0:@An ornamental plant.[END]
 826-0E:
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 826-1:[END]
 826-1E:
-
 [Container 827]
 827-0:@This is surprisingly spick-and-span.[END]
 827-0E:
@@ -19074,14 +18659,12 @@
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 827-5:[END]
 827-5E:
-
 [Container 828]
 828-0:@An ornamental plant.[END]
 828-0E:
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 828-1:[END]
 828-1E:
-
 [Container 829]
 829-0:@An ornamental plant.[END]
 829-0E:
@@ -19089,7 +18672,6 @@
 829-1:@I'm trying to eat here![END]
 829-1E:
 // Repeats: 829-1, 879-1
-
 [Container 830]
 830-0:@This is surprisingly spick-and-span.[END]
 830-0E:
@@ -19108,7 +18690,6 @@
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 830-5:[END]
 830-5E:
-
 [Container 831]
 831-0:@This is surprisingly spick-and-span.[END]
 831-0E:
@@ -19136,27 +18717,23 @@
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 831-9:[END]
 831-9E:
-
 [Container 832]
 832-0:[END]
 832-0E:
 832-1:[END]
 832-1E:
-
 [Container 833]
 833-0:@An ornamental plant.[END]
 833-0E:
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 833-1:[END]
 833-1E:
-
 [Container 834]
 834-0:@Heheheh![BREAK]  You seem to be having quite the tough time![WAIT]@Did you enjoy my special all-you-can-pee toilet[BREAK]  dungeon?[WAIT]@Now, then! I have some sad news for you![WAIT]@This place you're at now[PAUSE 3C 00] isn't really the 100th[BREAK]  floor! It's a fake![WAIT]@Ahahahahaha![WAIT]@You're nothing but a cheap toy crawling around[BREAK]  in the palm of my hand![WAIT]@Alright! Allow me to invite you to the REAL[BREAK]  100th floor![WAIT]  Heh heh.[WAIT]@Board the elevator just ahead.[WAIT]@I'll be waiting for you![END]
 834-0E:
 834-1:@There are signs that someone was here.[END]
 834-1E:
 // this is phrased the way that the dung text in Scaraba was phrased
-
 [Container 835]
 835-0:@This is the wonderful Hippo Pool.[WAIT]@Here, you can swim with Hippo Launchers,[BREAK]  gaze at Hippo Launchers,[WAIT]  and observe Hippo Launchers eating.[WAIT]@You can even fight them![PAUSE 28 00] That's dangerous,[BREAK]  though.[END]
 835-0E:
@@ -19167,7 +18744,6 @@
 // Repeats: 835-2, 839-1
 835-3:[END]
 835-3E:
-
 [Container 836]
 836-0:@I wanna do research so bad.[WAIT]@I wanna research more and more and more.[WAIT]@If only I had research funding, I could improve[BREAK]  the Hippo Launchers even more and more.[WAIT]@Would you like to know how I'd improve them?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 836-0E:
@@ -19178,13 +18754,12 @@
 836-3:@[42 FF F1 FF] opened the present.[EVENT][END]
 836-3E:
 // Repeats: 836-3, 839-4
-836-4:@Got [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
+836-4:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 836-4E:
 // Repeats: 0-45, 836-4, 839-5
-836-5:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
+836-5:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 836-5E:
 // Repeats: 0-82, 836-5, 839-6
-
 [Container 837]
 837-0:@It appears[PAUSE 20 00] that you guys appear[PAUSE 20 00] to be[BREAK]  suspicious guys.[WAIT]@I[PAUSE 0F 00]- I[PAUSE 0F 00]- I[PAUSE 0F 00]- I'll beat you up good![END]
 837-0E:
@@ -19202,14 +18777,12 @@
 837-6E:
 837-7:[END]
 837-7E:
-
 [Container 838]
 838-0:@[END]
 838-0E:
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 838-1:[END]
 838-1E:
-
 [Container 839]
 839-0:@We bring you a breaking news alert.[WAIT]@Some idiots have been seen pretending to be[BREAK]  sea monkeys in the middle of a pond.[WAIT]@Wahahahahaha! I'm talking about you guys![WAIT]@Getting all covered in mud so you can fight for[BREAK]  your lives...[WAIT]  It's all so ridiculous![BREAK]  *snicker*[WAIT]@Alright, then. Get on the next elevator.[WAIT]  I think I'm gonna sit back and watch even[BREAK]  more of your stupidity in action.[WAIT]@Come on! Don't give up![WAIT]  You're so close to the real 100th floor now![WAIT]@Ahahahahaha![END]
 839-0E:
@@ -19223,28 +18796,25 @@
 839-4:@[42 FF F1 FF] opened the present.[EVENT][END]
 839-4E:
 // Repeats: 836-3, 839-4
-839-5:@Got [EF 11][ITEM F0 FF]![PAUSE 40 00][END]
+839-5:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 839-5E:
 // Repeats: 0-45, 836-4, 839-5
-839-6:@Inside the present, there was[BREAK]  [EF 11][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
+839-6:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 839-6E:
 // Repeats: 0-82, 836-5, 839-6
 839-7:[END]
 839-7E:
-
 [Container 840]
 840-0:@[END]
 840-0E:
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 840-1:[END]
 840-1E:
-
 [Container 855]
 855-0:@Welcome![BREAK]  This is the "Nice Person Hot Spring".[WAIT]@Using this will make you into a "nice person"[WAIT]  who respects Master Porky from the bottom[BREAK]  of your heart.[WAIT]@Use it until you're red in the face, and you'll[BREAK]  feel happy and revitalized as a "nice person".[WAIT]@Unlike with regular hot springs, all you have to[BREAK]  do is go inside a green-colored capsule,[WAIT]  which makes it very simple and convenient![END]
 855-0E:
 855-1:[END]
 855-1E:
-
 [Container 856]
 856-0:@(*glub* *glub*)[WAIT]@I'm gonna be a wonderful steak for Master[BREAK]  Porky...[END]
 856-0E:
@@ -19282,7 +18852,6 @@
 856-16E:
 856-17:@This green liquid shines ominously.[END]
 856-17E:
-
 [Container 857]
 857-0:@This green liquid is the base component of the[BREAK]  "Nice Person Hot Spring".[WAIT]@Soak in it until you're red in the face and your[BREAK]  personality will turn gentle[WAIT]  and make you into a "nice person" who loves[BREAK]  Master Porky.[END]
 857-0E:
@@ -19321,28 +18890,24 @@
 857-16E:
 857-17:@Your attention, please.[PAUSE 1E 00][WAIT]@You appear quite exhausted there,[BREAK]  [42 FF 00 00]![WAIT]@But the real fun is just about to begin![WAIT]@Alright! Climb up those stairs just ahead![WAIT]@C'mon! Don't disappoint me, now![BREAK]  Ahahahaha![END]
 857-17E:
-
 [Container 859]
 859-0:@There's a wooden box here.[BREAK]  The scent of bananas wafts from it.[END]
 859-0E:
 // Repeats: 253-1, 859-0, 860-1, 861-1
 859-1:[END]
 859-1E:
-
 [Container 860]
 860-0:@You guys have no tact whatsoever, do you?[WAIT]@Get out of there and get on the next elevator.[WAIT]@And then make it to the REAL 100th floor![END]
 860-0E:
 860-1:@There's a wooden box here.[BREAK]  The scent of bananas wafts from it.[END]
 860-1E:
 // Repeats: 253-1, 859-0, 860-1, 861-1
-
 [Container 861]
 861-0:@Squeak squeak-squeeeak.[WAIT]  (I don't think Locria is coming back anymore.[PAUSE 2D 00][BREAK]  Oh, me?[PAUSE 1E 00][WAIT]  I'm a mouse Locria liked to dote over.[WAIT]  He had a creepy "Nwehehehehe" laugh,[WAIT]  so he might've seemed like a mean person in[BREAK]  most people's eyes,[WAIT]  but he was very nice to me, at least.[WAIT]  Do you think he'll be coming home soon?[WAIT]  I'm so lonely.)[END]
 861-0E:
 861-1:@There's a wooden box here.[BREAK]  The scent of bananas wafts from it.[END]
 861-1E:
 // Repeats: 253-1, 859-0, 860-1, 861-1
-
 [Container 863]
 863-0:@This is a gathering room for Master Porky's[BREAK]  fans.[WAIT]@Can you guys put your hands to your chest[WAIT]  and say from the bottom of your heart,[PAUSE 20 00][BREAK]  "I love you, Master Porky"?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 863-0E:
@@ -19377,7 +18942,6 @@
 863-14E:
 863-15:[END]
 863-15E:
-
 [Container 864]
 864-0:@A toolbox.[END]
 864-0E:
@@ -19420,7 +18984,6 @@
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 864-13:[END]
 864-13E:
-
 [Container 865]
 865-0:@A toolbox.[END]
 865-0E:
@@ -19457,7 +19020,6 @@
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 865-11:[END]
 865-11E:
-
 [Container 866]
 866-0:@A toolbox.[END]
 866-0E:
@@ -19494,7 +19056,6 @@
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 866-11:[END]
 866-11E:
-
 [Container 867]
 867-0:@A toolbox.[END]
 867-0E:
@@ -19531,7 +19092,6 @@
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 867-11:[END]
 867-11E:
-
 [Container 868]
 868-0:@A toolbox.[END]
 868-0E:
@@ -19572,7 +19132,6 @@
 868-12E:
 868-13:@Do you guys have business here at this[BREAK]  construction site?[WAIT]@If not, then get lost, okay?[END]
 868-13E:
-
 [Container 869]
 869-0:@A toolbox.[END]
 869-0E:
@@ -19613,7 +19172,6 @@
 869-12E:
 869-13:@Hey! You jerk![WAIT]@I seriously thought I was gonna fall that time![END]
 869-13E:
-
 [Container 870]
 870-0:@A toolbox.[END]
 870-0E:
@@ -19650,7 +19208,6 @@
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 870-11:@What's that?[BREAK]  Am I not afraid of heights, you ask?[WAIT]@What're you talkin' about, you jerk?![WAIT]@Even if I was afraid of 'em, it's not like I can[BREAK]  just quit any time I want![WAIT]@That's what it means to be a father![END]
 870-11E:
-
 [Container 871]
 871-0:@A toolbox.[END]
 871-0E:
@@ -19691,7 +19248,6 @@
 871-12E:
 871-13:[END]
 871-13E:
-
 [Container 872]
 872-0:@A toolbox.[END]
 872-0E:
@@ -19740,7 +19296,6 @@
 872-16E:
 872-17:[END]
 872-17E:
-
 [Container 873]
 873-0:@A toolbox.[END]
 873-0E:
@@ -19777,7 +19332,6 @@
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 873-11:[END]
 873-11E:
-
 [Container 874]
 874-0:@A toolbox.[END]
 874-0E:
@@ -19818,13 +19372,11 @@
 874-12E:
 874-13:[END]
 874-13E:
-
 [Container 875]
 875-0:[END]
 875-0E:
 875-1:[END]
 875-1E:
-
 [Container 877]
 877-0:[HOTSPRING 00 00][END]
 877-0E:
@@ -19909,7 +19461,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 877-27:@An eye-watering stench hangs in the air.[END]
 877-27E:
-
 [Container 878]
 878-0:[HOTSPRING 00 00][END]
 878-0E:
@@ -20004,7 +19555,6 @@
 878-30E:
 878-31:@A tart smell wafts through the air.[END]
 878-31E:
-
 [Container 879]
 879-0:@An ornamental plant.[END]
 879-0E:
@@ -20012,7 +19562,6 @@
 879-1:@I'm trying to eat here![END]
 879-1E:
 // Repeats: 829-1, 879-1
-
 [Container 880]
 880-0:[HOTSPRING 00 00][END]
 880-0E:
@@ -20133,7 +19682,6 @@
 880-44E:
 880-45:[END]
 880-45E:
-
 [Container 881]
 881-0:@Welcome.[WAIT]@This is the Empire Porky Building, home of the[BREAK]  great Master Porky.[END]
 881-0E:
@@ -20166,7 +19714,6 @@
 881-13:@Then I won't sell to you. Heheheh.[END]
 881-13E:
 // Repeats: 259-2, 881-13
-
 [Container 882]
 882-0:[HOTSPRING 00 00][END]
 882-0E:
@@ -20251,7 +19798,6 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 882-27:[END]
 882-27E:
-
 [Container 883]
 883-0:@Service repairs in progress.[END]
 883-0E:
@@ -20273,7 +19819,6 @@
 883-8E:
 883-9:@Then I apologize.[WAIT]@The repairs I just made allow the elevator to[BREAK]  stop at the 24th floor concert hall only.[WAIT]@So, please just take it to the 24th floor.[WAIT]@Please![WAIT]@Really, I think that would be for the best.[END]
 883-9E:
-
 [Container 884]
 884-0:@Hurry! Hurry![END]
 884-0E:
@@ -20292,7 +19837,6 @@
 884-6E:
 884-7:@Whoa, now![WAIT]@[PAUSE 30 00]Whoops, I almost tried to stop you again for[BREAK]  some reason.[WAIT]@Stopping people must be in my genes or[BREAK]  something.[END]
 884-7E:
-
 [Container 885]
 885-0:@*sniff*[PAUSE 20 00] *sniff*[PAUSE 20 00] *sniff*[PAUSE 20 00] *sniff*...[WAIT]@Something smells dog-like and kid-like.[WAIT]@Oh.[WAIT]@It's you guys.[WAIT]@...Don't worry, I'm not gonna do nothin',[BREAK]  though.[WAIT]@Let's just enjoy the concert together as fellow[BREAK]  DCMC fans![END]
 885-0E:
@@ -20326,7 +19870,6 @@
 885-14E:
 885-15:@Oooooh myyyyy goddd![WAIT]@Dddoooon't be wwwaaanndderrring around in[BREAK]  this darkness![WAIT]@Wwwwhat Iiif I rrrran inttoooo someone and[BREAK]  disssslocattted a shoulder?![END]
 885-15E:
-
 [Container 886]
 886-0:@The crowd outside is so packed that the door[BREAK]  won't open![END]
 886-0E:
@@ -20413,13 +19956,11 @@
 886-40E:
 886-41:[END]
 886-41E:
-
 [Container 888]
 888-0:[END]
 888-0E:
 888-1:[END]
 888-1E:
-
 [Container 892]
 892-0:[HOTSPRING 00 00][END]
 892-0E:
@@ -20504,11 +20045,11 @@
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 892-27:[END]
 892-27E:
-
 [Container 894]
-894-0:@NO OPERATION[END]
+894-0:@What do you want to do?[BREAK][MENU 07 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Change table[RIGHT][BREAK]  [LEFT]Attract mode[RIGHT][BREAK]  [LEFT]Warp to the Debug Magypsies[RIGHT][BREAK]  [LEFT]Unlock PSI[RIGHT][BREAK]  [LEFT]Heal party[RIGHT][BREAK]  [LEFT]Game Over[RIGHT][BREAK][ENDCHOICES][END]
 894-0E:
-// Repeats: 894-0, 894-9
+// This line goes unused, so we reuse it for our purposes
+// It said:@NO OPERATION[END]
 894-1:@CHAPTER 1    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-1E:
 894-2:@CHAPTER 2    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
@@ -20525,9 +20066,10 @@
 894-7E:
 894-8:@CHAPTER 8    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-8E:
-894-9:@NO OPERATION[END]
+894-9:@Which table?[BREAK][MENU 06 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Table 1[RIGHT][BREAK]  [LEFT]Table 2[RIGHT][BREAK]  [LEFT]Table 3[RIGHT][BREAK]  [LEFT]Table 4[RIGHT][BREAK]  [LEFT]Table 5[RIGHT][BREAK][ENDCHOICES][END]
 894-9E:
-// Repeats: 894-0, 894-9
+// There is an entry associated with this, however it goes unused (And it did nothing), so we reuse the line for our purposes
+// It said:@NO OPERATION[END]
 894-10:@GET ITEM [ITEM 5D 00]?[WAIT][MENU 02 00][MENUSPACENO]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-10E:
 894-11:@Got [EF 11][ITEM 6F 00]![END]
@@ -20536,16 +20078,16 @@
 894-12E:
 894-13:@OK[END]
 894-13E:
-894-14:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Dust. On/Off[RIGHT][BREAK]  [LEFT]Kuma On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thom. On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alec On/Off[RIGHT][BREAK]  [LEFT]Fass. On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
+894-14:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Duster On/Off[RIGHT][BREAK]  [LEFT]Kumatora On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thomas On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alec On/Off[RIGHT][BREAK]  [LEFT]Fassad On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
 894-14E:
-// it's important to note that these menu options can only be so long - any longer and the game will crash
+// It's important to note that the game loads these options one by one. So making them too long means the user has to wait before being able to scroll left
 894-15:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
 894-15E:
-894-16:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Lv: 99 Max[RIGHT][BREAK][ENDCHOICES][END]
+894-16:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Level: 99 Max[RIGHT][BREAK][ENDCHOICES][END]
 894-16E:
-894-17:@Fade Check[BREAK][MENU 14 00]  [LEFT]00: END[RIGHT][BREAK]  [LEFT]Normal[RIGHT][BREAK]  [LEFT]White[RIGHT][BREAK]  [LEFT]Iris[RIGHT][BREAK]  [LEFT]Raster[RIGHT][BREAK]  [LEFT]Normal Battle[RIGHT][BREAK]  [LEFT]Boss Battle[RIGHT][BREAK]  [LEFT]LR Line 1[RIGHT][BREAK]  [LEFT]LR Line 2[RIGHT][BREAK]  [LEFT]L to R[RIGHT][BREAK]  [LEFT]R to L[RIGHT][BREAK]  [LEFT]D-U-D Lines[RIGHT][BREAK]  [LEFT]Quarter Div[RIGHT][BREAK]  [LEFT]Block Swirl[RIGHT][BREAK]  [LEFT]Swirl Layer[RIGHT][BREAK]  [LEFT]Tri-Iris[RIGHT][BREAK]  [LEFT]LR Waves[RIGHT][BREAK]  [LEFT]Shrink+Rot.[RIGHT][BREAK]  [LEFT]Rand. Blocks[RIGHT][BREAK]  [LEFT]Checkerboard[RIGHT][BREAK][ENDCHOICES][END]
+894-17:@Fade Check[BREAK][MENU 14 00]  [LEFT]00: END[RIGHT][BREAK]  [LEFT]Normal[RIGHT][BREAK]  [LEFT]White[RIGHT][BREAK]  [LEFT]Iris[RIGHT][BREAK]  [LEFT]Raster[RIGHT][BREAK]  [LEFT]Normal Battle[RIGHT][BREAK]  [LEFT]Boss Battle[RIGHT][BREAK]  [LEFT]LR Line 1[RIGHT][BREAK]  [LEFT]LR Line 2[RIGHT][BREAK]  [LEFT]L to R[RIGHT][BREAK]  [LEFT]R to L[RIGHT][BREAK]  [LEFT]D-U-D Lines[RIGHT][BREAK]  [LEFT]Quarter Div[RIGHT][BREAK]  [LEFT]Block Swirl[RIGHT][BREAK]  [LEFT]Swirl Layer[RIGHT][BREAK]  [LEFT]Tri-Iris[RIGHT][BREAK]  [LEFT]LR Waves[RIGHT][BREAK]  [LEFT]Shrink + Rotation[RIGHT][BREAK]  [LEFT]Random Blocks[RIGHT][BREAK]  [LEFT]Checkerboard[RIGHT][BREAK][ENDCHOICES][END]
 894-17E:
-894-18:@Chapter 1: Event Selection[BREAK]  [MENU 0B 00][LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Alec's House[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Fiery Forest[RIGHT][BREAK]  [LEFT]Rest at Inn[RIGHT][BREAK]  [LEFT]At Cliff[RIGHT][BREAK]  [LEFT]Enter Duster[RIGHT][BREAK]  [LEFT]Twins Found[RIGHT][BREAK]  [LEFT]In Jail[RIGHT][BREAK]  [LEFT]To Alec's[RIGHT][BREAK]  [LEFT]Drago Plateau[RIGHT][BREAK][ENDCHOICES][END]
+894-18:@Chapter 1: Event Selection[BREAK][MENU 0B 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Alec's House[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Fiery Forest[RIGHT][BREAK]  [LEFT]Rest at Inn[RIGHT][BREAK]  [LEFT]At Cliff[RIGHT][BREAK]  [LEFT]Enter Duster[RIGHT][BREAK]  [LEFT]Twins Found[RIGHT][BREAK]  [LEFT]In Jail[RIGHT][BREAK]  [LEFT]To Alec's[RIGHT][BREAK]  [LEFT]Drago Plateau[RIGHT][BREAK][ENDCHOICES][END]
 894-18E:
 894-19:@Chapter 2: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Wess's House[RIGHT][BREAK]  [LEFT]Osohe Castle[RIGHT][BREAK]  [LEFT]Poltergeist[RIGHT][BREAK]  [LEFT]Noble Spittoon[RIGHT][BREAK]  [LEFT]Osohe Again[RIGHT][BREAK]  [LEFT]Wess's Dance[RIGHT][BREAK]  [LEFT]Egg of Light[RIGHT][BREAK]  [LEFT]Washed Up[RIGHT][BREAK][ENDCHOICES][END]
 894-19E:
@@ -20555,21 +20097,22 @@
 894-21E:
 894-22:@Chapter 5: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Unknown Valley[RIGHT][BREAK]  [LEFT]Clay Factory[RIGHT][BREAK]  [LEFT]Highway[RIGHT][BREAK]  [LEFT]Dump[RIGHT][BREAK]  [LEFT]Thunder Tower[RIGHT][BREAK]  [LEFT]King's Room[RIGHT][BREAK]  [LEFT]Generator[RIGHT][BREAK]  [LEFT]Tower Top[RIGHT][BREAK][ENDCHOICES][END]
 894-22E:
-894-23:@Chapter 7: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Nursing Home[RIGHT][BREAK]  [LEFT]Aeolia's House[RIGHT][BREAK]  [LEFT]Courtyard[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Stumble Pass[RIGHT][BREAK]  [LEFT]Ionia's House[RIGHT][BREAK]  [LEFT]Chupi Temple[RIGHT][BREAK][ENDCHOICES][END]
+894-23:@Chapter 7: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Nursing Home[RIGHT][BREAK]  [LEFT]Aeolia's House[RIGHT][BREAK]  [LEFT]Courtyard[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Stumble Pass[RIGHT][BREAK]  [LEFT]Ionia's House[RIGHT][BREAK]  [LEFT]Chupichupyoi Temple[RIGHT][BREAK][ENDCHOICES][END]
 894-23E:
 894-24:@Chapter 8: Event Selection[BREAK][MENU 0D 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Inside Limo[RIGHT][BREAK]  [LEFT]NPC Arrival[RIGHT][BREAK]  [LEFT]Arcade[RIGHT][BREAK]  [LEFT]Sewers[RIGHT][BREAK]  [LEFT]24 F Reunion[RIGHT][BREAK]  [LEFT]To 100 F[RIGHT][BREAK]  [LEFT]Game 1[RIGHT][BREAK]  [LEFT]Game 2[RIGHT][BREAK]  [LEFT]Game 3[RIGHT][BREAK]  [LEFT]NK Cyborg[RIGHT][BREAK]  [LEFT]Mecha-Porkies[RIGHT][BREAK]  [LEFT]Final Needle[RIGHT][BREAK][ENDCHOICES][END]
 894-24E:
 894-25:@Select Lucas and Kumatora's ages:[BREAK][MENU 02 00][MENUSPACEYES]Kids[MENUSPACENO]Adolescents[ENDCHOICES][END]
 894-25E:
-894-26:@Turned off 50 flags.[END]
+894-26:@Which attract mode?[BREAK][MENU 03 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Family[RIGHT][BREAK]  [LEFT]Others[RIGHT][BREAK][ENDCHOICES][END]
 894-26E:
+// This line goes unused, so we reuse it for our purposes
+// It said:@Turned off 50 flags.[END]
 894-27:@Turn on all memo flags and obtain all maps.[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-27E:
 894-28:@Play the ending?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 894-28E:
-894-29:@Begin from where?[WAIT][MENU 04 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Ending start[RIGHT][BREAK]  [LEFT]Staff roll[RIGHT][BREAK]  [LEFT]END/tree[RIGHT][BREAK][ENDCHOICES][END]
+894-29:@Begin from where?[WAIT][MENU 04 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Ending start[RIGHT][BREAK]  [LEFT]Staff roll[RIGHT][BREAK]  [LEFT]END/Tree[RIGHT][BREAK][ENDCHOICES][END]
 894-29E:
-
 [Container 900]
 900-0:[HOTSPRING 00 00][END]
 900-0E:
@@ -20658,13 +20201,11 @@
 900-28E:
 900-29:[END]
 900-29E:
-
 [Container 901]
 901-0:[END]
 901-0E:
 901-1:[END]
 901-1E:
-
 [Container 902]
 902-0:[END]
 902-0E:
@@ -20674,4 +20215,3 @@
 902-2E:
 902-3:[END]
 902-3E:
-
